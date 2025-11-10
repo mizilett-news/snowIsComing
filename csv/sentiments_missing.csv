@@ -1,93 +1,131 @@
 ,phrase,label,sentiment,subjectivity,language,count
-winter,winter,DATE,,,en,10
+winter,winter,DATE,,,en,11
+first,first,ORDINAL,,,en,10
+Winter,Winter,DATE,,,en,8
 Saturday,Saturday,DATE,,,en,8
-23,23,CARDINAL,,,en,6
+this weekend,this weekend,DATE,,,en,7
+Sunday,Sunday,DATE,,,en,6
 0%,0%,PERCENT,,,en,6
-Winter,Winter,DATE,,,en,4
+23,23,CARDINAL,,,en,6
+night,night,TIME,,,en,4
+Tuesday,Tuesday,DATE,,,en,4
+Halloween,Halloween,DATE,,,en,4
+this week,this week,DATE,,,en,3
+months,months,DATE,,,en,3
+1 p.m.,1 p.m.,TIME,,,en,3
+12,12,CARDINAL,,,en,3
 3rd season,3rd season,DATE,,,en,3
 Australian,Australian,NORP,,,en,3
-night,night,TIME,,,en,3
 39,39,CARDINAL,,,en,3
-12,12,CARDINAL,,,en,3
-Sunday,Sunday,DATE,,,en,3
-8 p.m.,8 p.m.,TIME,,,en,2
+next week,next week,DATE,,,en,3
+October,October,DATE,,,en,3
+hours,hours,TIME,,,en,2
+days,days,DATE,,,en,2
+seven,seven,CARDINAL,,,en,2
+Friday,Friday,DATE,,,en,2
+Thursday,Thursday,DATE,,,en,2
 afternoon,afternoon,TIME,,,en,2
-1 p.m.,1 p.m.,TIME,,,en,2
+Oct. 16,Oct. 16,DATE,,,en,2
 79 degrees,79 degrees,QUANTITY,,,en,2
 7.5,7.5,CARDINAL,,,en,2
+Appalachians,Appalachians,NORP,,,en,2
+237,237,CARDINAL,,,en,2
+second,second,ORDINAL,,,en,2
 5,5,CARDINAL,,,en,2
 thousands,thousands,CARDINAL,,,en,2
 2024,2024,DATE,,,en,2
-second,second,ORDINAL,,,en,2
-60 degrees,60 degrees,QUANTITY,,,en,2
+Consent Framework,Consent Framework,WORK_OF_ART,,,en,2
+1.5,1.5,CARDINAL,,,en,2
 3.5,3.5,CARDINAL,,,en,2
 35%,35%,PERCENT,,,en,2
-1.5,1.5,CARDINAL,,,en,2
-Friday,Friday,DATE,,,en,2
-72 degrees,72 degrees,QUANTITY,,,en,2
-days,days,DATE,,,en,2
-17,17,CARDINAL,,,en,2
-Halloween,Halloween,DATE,,,en,2
+this winter,this winter,DATE,,,en,2
 November,November,DATE,,,en,2
-this weekend,this weekend,DATE,,,en,2
-Tuesday,Tuesday,DATE,,,en,2
-seven,seven,CARDINAL,,,en,2
-Thursday,Thursday,DATE,,,en,2
-Christmas,Christmas,DATE,,,en,2
+60 degrees,60 degrees,QUANTITY,,,en,2
+8 p.m.,8 p.m.,TIME,,,en,2
+72 degrees,72 degrees,QUANTITY,,,en,2
+17,17,CARDINAL,,,en,2
+"above 4,000 feet","above 4,000 feet",QUANTITY,,,en,2
+British,British,NORP,,,en,2
 Wednesday,Wednesday,DATE,,,en,2
-Americans,Americans,NORP,,,en,2
-63 degrees,63 degrees,QUANTITY,,,en,2
 Noon,Noon,TIME,,,en,2
-overnight,overnight,TIME,,,en,2
-up to 10 inches,up to 10 inches,QUANTITY,,,en,2
+years,years,DATE,,,en,2
+63 degrees,63 degrees,QUANTITY,,,en,2
 11.5,11.5,CARDINAL,,,en,2
-early Tuesday,early Tuesday,DATE,,,en,2
-six feet,six feet,QUANTITY,,,en,2
-hours,hours,TIME,,,en,2
-October,October,DATE,,,en,2
-Oct. 16,Oct. 16,DATE,,,en,2
 22,22,CARDINAL,,,en,2
-the month of October,the month of October,DATE,,,en,1
-the high 60s and,the high 60s and,DATE,,,en,1
-3,3,CARDINAL,,,en,1
-Halloweens,Halloweens,DATE,,,en,1
-Snowtunnel,Snowtunnel,NORP,,,en,1
-other months,other months,DATE,,,en,1
-Around 7 p.m.,Around 7 p.m.,TIME,,,en,1
-Chinese,Chinese,NORP,,,en,1
+19th-century,19th-century,DATE,,,en,2
+overnight,overnight,TIME,,,en,2
+Greek,Greek,NORP,,,en,2
+tonight,tonight,TIME,,,en,2
+six feet,six feet,QUANTITY,,,en,2
+Christmas,Christmas,DATE,,,en,2
+the weekend,the weekend,DATE,,,en,2
+1-2 feet,1-2 feet,QUANTITY,,,en,2
+up to 10 inches,up to 10 inches,QUANTITY,,,en,2
+early Tuesday,early Tuesday,DATE,,,en,2
+Americans,Americans,NORP,,,en,2
+Great Lakes,Great Lakes,FAC,,,en,1
+the years,the years,DATE,,,en,1
 that months,that months,DATE,,,en,1
-"this Saturday, Nov. 8","this Saturday, Nov. 8",DATE,,,en,1
-7,7,CARDINAL,,,en,1
-580,580,CARDINAL,,,en,1
-the weekend,the weekend,DATE,,,en,1
-Hundreds,Hundreds,CARDINAL,,,en,1
-11,11,CARDINAL,,,en,1
-219,219,CARDINAL,,,en,1
-6,6,CARDINAL,,,en,1
-10,10,CARDINAL,,,en,1
-this coming weekend,this coming weekend,DATE,,,en,1
-Thousands,Thousands,CARDINAL,,,en,1
+other months,other months,DATE,,,en,1
+Up to 2 feet,Up to 2 feet,QUANTITY,,,en,1
+the month of October,the month of October,DATE,,,en,1
 just its third season,just its third season,DATE,,,en,1
+the high 60s and,the high 60s and,DATE,,,en,1
 24,24,CARDINAL,,,en,1
-annual,annual,DATE,,,en,1
+Halloweens,Halloweens,DATE,,,en,1
+weeks,weeks,DATE,,,en,1
+October 13th,October 13th,DATE,,,en,1
+Snowtunnel,Snowtunnel,NORP,,,en,1
+this coming weekend,this coming weekend,DATE,,,en,1
+"this Saturday, Nov. 8","this Saturday, Nov. 8",DATE,,,en,1
+"Friday, Nov. 7","Friday, Nov. 7",DATE,,,en,1
+7,7,CARDINAL,,,en,1
+multiple days,multiple days,DATE,,,en,1
+10,10,CARDINAL,,,en,1
+6,6,CARDINAL,,,en,1
+Nov. 13,Nov. 13,DATE,,,en,1
+A week,A week,DATE,,,en,1
+219,219,CARDINAL,,,en,1
+11,11,CARDINAL,,,en,1
+a day,a day,DATE,,,en,1
+French,French,NORP,,,en,1
+Thousands,Thousands,CARDINAL,,,en,1
+a few minutes,a few minutes,TIME,,,en,1
+October day,October day,DATE,,,en,1
 thousands of dollars,thousands of dollars,MONEY,,,en,1
 Two,Two,CARDINAL,,,en,1
-38,38,CARDINAL,,,en,1
-a few minutes,a few minutes,TIME,,,en,1
-all seasons,all seasons,DATE,,,en,1
-10 Inches,10 Inches,QUANTITY,,,en,1
+early spring,early spring,DATE,,,en,1
+the Second World War,the Second World War,EVENT,,,en,1
+At Play in the Fields of the Lord,At Play in the Fields of the Lord,WORK_OF_ART,,,en,1
+“The Snow Leopard”,“The Snow Leopard”,WORK_OF_ART,,,en,1
+True Nature,True Nature,WORK_OF_ART,,,en,1
 +2570 chars,+2570 chars,WORK_OF_ART,,,en,1
-3rd,3rd,ORDINAL,,,en,1
-noon,noon,TIME,,,en,1
-38-40,38-40,CARDINAL,,,en,1
-Laugardalsvollur Stadium,Laugardalsvollur Stadium,FAC,,,en,1
-first,first,ORDINAL,,,en,1
-one,one,CARDINAL,,,en,1
-20,20,CARDINAL,,,en,1
-35-34,35-34,DATE,,,en,1
-35,35,CARDINAL,,,en,1
 90,90,CARDINAL,,,en,1
+3rd,3rd,ORDINAL,,,en,1
+38-40,38-40,CARDINAL,,,en,1
+20,20,CARDINAL,,,en,1
 this past weekend,this past weekend,DATE,,,en,1
+3,3,CARDINAL,,,en,1
+Chinese,Chinese,NORP,,,en,1
+580,580,CARDINAL,,,en,1
+Hundreds,Hundreds,CARDINAL,,,en,1
+the week,the week,DATE,,,en,1
+earlier this week,earlier this week,DATE,,,en,1
+Jan… [,Jan… [,DATE,,,en,1
+annual,annual,DATE,,,en,1
+35,35,CARDINAL,,,en,1
+35-34,35-34,DATE,,,en,1
+one,one,CARDINAL,,,en,1
+Wednesday to Thursday,Wednesday to Thursday,DATE,,,en,1
+Laugardalsvollur Stadium,Laugardalsvollur Stadium,FAC,,,en,1
++3323 chars,+3323 chars,WORK_OF_ART,,,en,1
+La,La,WORK_OF_ART,,,en,1
+a white Christmas,a white Christmas,DATE,,,en,1
+2025-2026,2025-2026,DATE,,,en,1
+the days,the days,DATE,,,en,1
+10 Inches,10 Inches,QUANTITY,,,en,1
+the John Ball Zoo,the John Ball Zoo,FAC,,,en,1
+noon,noon,TIME,,,en,1
 "concept</li>
 
 
@@ -97,3 +135,7 @@ this past weekend,this past weekend,DATE,,,en,1
 
 
 ",PRODUCT,,,en,1
+all seasons,all seasons,DATE,,,en,1
+38,38,CARDINAL,,,en,1
+Around 7 p.m.,Around 7 p.m.,TIME,,,en,1
+several inches,several inches,QUANTITY,,,en,1

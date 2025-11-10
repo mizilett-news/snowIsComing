@@ -1,46 +1,72 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Cincinnati,Cincinnati,GPE,0.09833333333333333,0.25625000000000003,en,8
 Utah,Utah,GPE,0.07656249999999999,0.3499999999999999,en,8
+Cincinnati,Cincinnati,GPE,0.09833333333333333,0.25625000000000003,en,8
+California,California,GPE,0.05819444444444444,0.35777777777777775,en,6
+Michigan,Michigan,GPE,0.225,0.390625,en,4
 Houston,Houston,GPE,0.22499999999999998,0.5750000000000001,en,4
+U.S.,U.S.,GPE,-0.05879629629629629,0.3174768518518518,en,4
+Southern California,Southern California,LOC,-0.07500000000000001,0.225,en,3
 Alps,Alps,GPE,0.0,0.03333333333333333,en,3
-Hollywood,Hollywood,GPE,0.25,0.31666666666666665,en,3
-West Virginia,West Virginia,GPE,0.15000000000000002,0.5066666666666667,en,3
+B.C.,B.C.,GPE,0.0,0.3277777777777778,en,3
 Nepal,Nepal,GPE,-0.20000000000000004,0.13333333333333333,en,3
-Waco,Waco,GPE,0.3333333333333333,0.6,en,2
-Texas,Texas,GPE,0.3333333333333333,0.6,en,2
+West Virginia,West Virginia,GPE,0.15000000000000002,0.5066666666666667,en,3
+Hollywood,Hollywood,GPE,0.25,0.31666666666666665,en,3
+New England,New England,LOC,0.06818181818181818,0.3272727272727272,en,3
+Vermont,Vermont,GPE,0.0,0.0,en,3
+Florida,Florida,GPE,-0.047839506172839476,0.504320987654321,en,3
+Northwest Indiana,Northwest Indiana,GPE,0.17500000000000004,0.65625,en,2
+Japan,Japan,GPE,-0.04000000000000001,0.14,en,2
+Tibet,Tibet,GPE,-0.004166666666666669,0.36875,en,2
+Minnesota,Minnesota,GPE,-0.025,0.1625,en,2
+Toronto,Toronto,GPE,0.0,0.05,en,2
+the Great Lakes,the Great Lakes,LOC,0.17500000000000004,0.65625,en,2
+Australia,Australia,GPE,0.0,0.1,en,2
+Montreal,Montreal,GPE,-0.4,0.4,en,2
+Washington,Washington,GPE,0.008333333333333331,0.24722222222222223,en,2
+Hokkaido,Hokkaido,GPE,-0.04000000000000001,0.14,en,2
 Ishikari,Ishikari,GPE,-0.04000000000000001,0.14,en,2
 Iceland,Iceland,GPE,-0.1,0.25,en,2
-U.S.,U.S.,GPE,0.0,0.28125,en,2
-Minnesota,Minnesota,GPE,-0.025,0.1625,en,2
-Northern Ireland's,Northern Ireland's,GPE,-0.1,0.25,en,2
-Tibet,Tibet,GPE,-0.004166666666666669,0.36875,en,2
-Hokkaido,Hokkaido,GPE,-0.04000000000000001,0.14,en,2
-Japan,Japan,GPE,-0.04000000000000001,0.14,en,2
 McLane Stadium,McLane Stadium,GPE,0.3333333333333333,0.6,en,2
-California,California,GPE,0.0,0.25,en,2
-Australia,Australia,GPE,0.0,0.1,en,2
 Nebraska,Nebraska,GPE,0.0,0.25,en,2
 Kansas,Kansas,GPE,0.0,0.25,en,2
 Wisconsin,Wisconsin,GPE,0.0,0.25,en,2
+Waco,Waco,GPE,0.3333333333333333,0.6,en,2
 Little Cottonwood Canyon,Little Cottonwood Canyon,LOC,0.25625,0.7,en,2
 Mount Superior,Mount Superior,LOC,0.25625,0.7,en,2
-Montreal,Montreal,GPE,-0.4,0.4,en,2
-Toronto,Toronto,GPE,0.0,0.05,en,2
-NWS,NWS,GPE,0.0,1.0,en,1
-the Granite City,the Granite City,GPE,0.0,1.0,en,1
-Minn.,Minn.,GPE,0.0,0.0,en,1
+Texas,Texas,GPE,0.3333333333333333,0.6,en,2
+Northern Ireland's,Northern Ireland's,GPE,-0.1,0.25,en,2
+Maine,Maine,GPE,0.1,0.1,en,1
+US,US,GPE,-0.6,1.0,en,1
 Manhattan,Manhattan,GPE,0.36818181818181817,0.7272727272727273,en,1
-Empire State,Empire State,GPE,0.36818181818181817,0.7272727272727273,en,1
-Everest,Everest,LOC,0.0,0.0,en,1
-SALT LAKE CITY,SALT LAKE CITY,GPE,0.05,0.30000000000000004,en,1
-Oklahoma,Oklahoma,GPE,0.0,0.0,en,1
-Salt Lake City,Salt Lake City,GPE,0.0,0.0,en,1
-Panama,Panama,GPE,0.0,0.0,en,1
-Iceland v Northern Ireland,Iceland v Northern Ireland,GPE,-0.125,0.375,en,1
-app</li,app</li,GPE,0.09166666666666667,0.6166666666666667,en,1
-Yarbo,Yarbo,GPE,-0.1,0.2,en,1
-Salt Lake,Salt Lake,GPE,0.0,0.0,en,1
-North Queensland,North Queensland,GPE,0.0,0.0,en,1
-Ci… UCF,Ci… UCF,GPE,0.16666666666666666,0.3,en,1
-Mount Everest,Mount Everest,LOC,-0.025,0.2875,en,1
+Midwest,Midwest,LOC,-0.6,1.0,en,1
+Minn.,Minn.,GPE,0.0,0.0,en,1
+the Granite City,the Granite City,GPE,0.0,1.0,en,1
+Canada,Canada,GPE,-0.2518518518518518,0.42962962962962964,en,1
+Swamp Lake,Swamp Lake,LOC,0.05,0.2,en,1
 New York,New York,GPE,-0.05681818181818182,0.42727272727272725,en,1
+Empire State,Empire State,GPE,0.36818181818181817,0.7272727272727273,en,1
+NWS,NWS,GPE,0.0,1.0,en,1
+Everest,Everest,LOC,0.0,0.0,en,1
+Oklahoma,Oklahoma,GPE,0.0,0.0,en,1
+app</li,app</li,GPE,0.09166666666666667,0.6166666666666667,en,1
+Mount Everest,Mount Everest,LOC,-0.025,0.2875,en,1
+Ci… UCF,Ci… UCF,GPE,0.16666666666666666,0.3,en,1
+Paris,Paris,GPE,0.24318181818181817,0.5522727272727272,en,1
+the West Coast,the West Coast,LOC,0.175,0.31666666666666665,en,1
+Oregon,Oregon,GPE,0.0,0.0,en,1
+Northern Cal,Northern Cal,LOC,0.0,0.0,en,1
+North Queensland,North Queensland,GPE,0.0,0.0,en,1
+Salt Lake,Salt Lake,GPE,0.0,0.0,en,1
+Yarbo,Yarbo,GPE,-0.1,0.2,en,1
+SALT LAKE CITY,SALT LAKE CITY,GPE,0.05,0.30000000000000004,en,1
+Salt Lake City,Salt Lake City,GPE,0.0,0.0,en,1
+Asia,Asia,LOC,0.0,0.0,en,1
+China,China,GPE,0.0,0.0,en,1
+Louvre,Louvre,GPE,0.0,0.0,en,1
+Pacific,Pacific,LOC,0.3,1.0,en,1
+Iceland v Northern Ireland,Iceland v Northern Ireland,GPE,-0.125,0.375,en,1
+East,East,LOC,0.16818181818181818,0.32727272727272727,en,1
+United States,United States,GPE,-0.6,0.9,en,1
+Atlantic,Atlantic,LOC,0.11212121212121212,0.21818181818181817,en,1
+Panama,Panama,GPE,0.0,0.0,en,1
+Philadelphia,Philadelphia,GPE,-0.6,1.0,en,1
