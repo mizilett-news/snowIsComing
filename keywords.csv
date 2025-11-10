@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'winter service',en,Adaptation,#0000ff,#0000ff,2,0.5
 'snow',en,Hazard,#ff0000,#ff0000,3,0.4301159751795453
-'slippery roads',en,Impacts,#ffff00,#ffff00,2,0.3653343695
 'frost weather',en,Hazard,#ff0000,#ff0000,3,0.3577881420112903
 'road salt',en,Mitigation,#00ff00,#00ff00,3,0.3436740487340516
+'slippery roads',en,Impacts,#ffff00,#ffff00,2,0.33937837746209676
 'snow climate change',en,Causes,#00ffff,#00ffff,2,0.3306050918025973
 'snow ice',en,Hazard,#ff0000,#ff0000,3,0.3019410570443823
