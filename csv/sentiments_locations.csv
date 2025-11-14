@@ -1,72 +1,280 @@
-,phrase,label,sentiment,subjectivity,language,count
-Utah,Utah,GPE,0.07656249999999999,0.3499999999999999,en,8
-Cincinnati,Cincinnati,GPE,0.09833333333333333,0.25625000000000003,en,8
-California,California,GPE,0.05819444444444444,0.35777777777777775,en,6
-Michigan,Michigan,GPE,0.225,0.390625,en,4
-Houston,Houston,GPE,0.22499999999999998,0.5750000000000001,en,4
-U.S.,U.S.,GPE,-0.05879629629629629,0.3174768518518518,en,4
-Southern California,Southern California,LOC,-0.07500000000000001,0.225,en,3
-Alps,Alps,GPE,0.0,0.03333333333333333,en,3
-B.C.,B.C.,GPE,0.0,0.3277777777777778,en,3
-Nepal,Nepal,GPE,-0.20000000000000004,0.13333333333333333,en,3
-West Virginia,West Virginia,GPE,0.15000000000000002,0.5066666666666667,en,3
-Hollywood,Hollywood,GPE,0.25,0.31666666666666665,en,3
-New England,New England,LOC,0.06818181818181818,0.3272727272727272,en,3
-Vermont,Vermont,GPE,0.0,0.0,en,3
-Florida,Florida,GPE,-0.047839506172839476,0.504320987654321,en,3
-Northwest Indiana,Northwest Indiana,GPE,0.17500000000000004,0.65625,en,2
-Japan,Japan,GPE,-0.04000000000000001,0.14,en,2
-Tibet,Tibet,GPE,-0.004166666666666669,0.36875,en,2
-Minnesota,Minnesota,GPE,-0.025,0.1625,en,2
-Toronto,Toronto,GPE,0.0,0.05,en,2
-the Great Lakes,the Great Lakes,LOC,0.17500000000000004,0.65625,en,2
-Australia,Australia,GPE,0.0,0.1,en,2
-Montreal,Montreal,GPE,-0.4,0.4,en,2
-Washington,Washington,GPE,0.008333333333333331,0.24722222222222223,en,2
-Hokkaido,Hokkaido,GPE,-0.04000000000000001,0.14,en,2
-Ishikari,Ishikari,GPE,-0.04000000000000001,0.14,en,2
-Iceland,Iceland,GPE,-0.1,0.25,en,2
-McLane Stadium,McLane Stadium,GPE,0.3333333333333333,0.6,en,2
-Nebraska,Nebraska,GPE,0.0,0.25,en,2
-Kansas,Kansas,GPE,0.0,0.25,en,2
-Wisconsin,Wisconsin,GPE,0.0,0.25,en,2
-Waco,Waco,GPE,0.3333333333333333,0.6,en,2
-Little Cottonwood Canyon,Little Cottonwood Canyon,LOC,0.25625,0.7,en,2
-Mount Superior,Mount Superior,LOC,0.25625,0.7,en,2
-Texas,Texas,GPE,0.3333333333333333,0.6,en,2
-Northern Ireland's,Northern Ireland's,GPE,-0.1,0.25,en,2
-Maine,Maine,GPE,0.1,0.1,en,1
-US,US,GPE,-0.6,1.0,en,1
-Manhattan,Manhattan,GPE,0.36818181818181817,0.7272727272727273,en,1
-Midwest,Midwest,LOC,-0.6,1.0,en,1
-Minn.,Minn.,GPE,0.0,0.0,en,1
-the Granite City,the Granite City,GPE,0.0,1.0,en,1
-Canada,Canada,GPE,-0.2518518518518518,0.42962962962962964,en,1
-Swamp Lake,Swamp Lake,LOC,0.05,0.2,en,1
-New York,New York,GPE,-0.05681818181818182,0.42727272727272725,en,1
-Empire State,Empire State,GPE,0.36818181818181817,0.7272727272727273,en,1
-NWS,NWS,GPE,0.0,1.0,en,1
-Everest,Everest,LOC,0.0,0.0,en,1
-Oklahoma,Oklahoma,GPE,0.0,0.0,en,1
-app</li,app</li,GPE,0.09166666666666667,0.6166666666666667,en,1
-Mount Everest,Mount Everest,LOC,-0.025,0.2875,en,1
-Ci… UCF,Ci… UCF,GPE,0.16666666666666666,0.3,en,1
-Paris,Paris,GPE,0.24318181818181817,0.5522727272727272,en,1
-the West Coast,the West Coast,LOC,0.175,0.31666666666666665,en,1
-Oregon,Oregon,GPE,0.0,0.0,en,1
-Northern Cal,Northern Cal,LOC,0.0,0.0,en,1
-North Queensland,North Queensland,GPE,0.0,0.0,en,1
-Salt Lake,Salt Lake,GPE,0.0,0.0,en,1
-Yarbo,Yarbo,GPE,-0.1,0.2,en,1
-SALT LAKE CITY,SALT LAKE CITY,GPE,0.05,0.30000000000000004,en,1
-Salt Lake City,Salt Lake City,GPE,0.0,0.0,en,1
-Asia,Asia,LOC,0.0,0.0,en,1
-China,China,GPE,0.0,0.0,en,1
-Louvre,Louvre,GPE,0.0,0.0,en,1
-Pacific,Pacific,LOC,0.3,1.0,en,1
-Iceland v Northern Ireland,Iceland v Northern Ireland,GPE,-0.125,0.375,en,1
-East,East,LOC,0.16818181818181818,0.32727272727272727,en,1
-United States,United States,GPE,-0.6,0.9,en,1
-Atlantic,Atlantic,LOC,0.11212121212121212,0.21818181818181817,en,1
-Panama,Panama,GPE,0.0,0.0,en,1
-Philadelphia,Philadelphia,GPE,-0.6,1.0,en,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+U.S.,U.S.,GPE,0.02520581380700428,0.3511970112118921,en,24,-1,,,,,
+Chicago,Chicago,GPE,0.032791666666666656,0.5141944444444444,en,20,-1,,,,,
+California,California,GPE,-0.0012514240145819167,0.39550694919115975,en,19,-1,,,,,
+Nepal,Nepal,GPE,0.0989267676767677,0.32010101010101005,en,11,-1,,,,,
+Ontario,Ontario,GPE,0.12085137085137086,0.3075036075036075,en,11,-1,,,,,
+Arctic,Arctic,LOC,0.032070707070707055,0.309090909090909,en,11,-1,,,,,
+Utah,Utah,GPE,0.07276515151515152,0.34727272727272723,en,10,-1,,,,,
+US,US,GPE,-0.03094135802469136,0.5385802469135803,en,9,-1,,,,,
+Florida,Florida,GPE,-0.043569958847736616,0.42427983539094655,en,9,-1,,,,,
+Toronto,Toronto,GPE,-0.05000000000000002,0.20416666666666666,en,8,-1,,,,,
+Cincinnati,Cincinnati,GPE,0.09833333333333333,0.25625000000000003,en,8,-1,,,,,
+Midwest,Midwest,LOC,-0.12623376623376623,0.42624458874458876,en,8,-1,,,,,
+Southern California,Southern California,LOC,0.0037499999999999916,0.2563095238095238,en,7,-1,,,,,
+UK,UK,GPE,0.13593073593073593,0.44437229437229436,en,7,-1,,,,,
+Earth,Earth,LOC,-0.01287037037037037,0.31981481481481483,en,6,-1,,,,,
+Wisconsin,Wisconsin,GPE,0.016666666666666666,0.11041666666666666,en,6,-1,,,,,
+Michigan,Michigan,GPE,0.2304166666666667,0.38625,en,6,-1,,,,,
+Ottawa,Ottawa,GPE,0.06527777777777778,0.5986111111111111,en,6,-1,,,,,
+New York,New York,GPE,0.06216017316017315,0.44450216450216445,en,5,-1,,,,,
+TORONTO,TORONTO,GPE,0.06892857142857144,0.10428571428571427,en,5,-1,,,,,
+Montreal,Montreal,GPE,-0.08800000000000001,0.496,en,5,-1,,,,,
+Washington,Washington,GPE,0.12135930735930736,0.26421356421356423,en,5,-1,,,,,
+Canada,Canada,GPE,-0.15037037037037038,0.5759259259259258,en,5,-1,,,,,
+Milwaukee,Milwaukee,GPE,-0.029999999999999992,0.38999999999999996,en,5,-1,,,,,
+Dublin,Dublin,GPE,0.095,0.30999999999999994,en,5,-1,,,,,
+India,India,GPE,0.10666666666666666,0.3466666666666667,en,5,-1,,,,,
+Alps,Alps,GPE,0.0,0.025,en,4,-1,,,,,
+Cotswolds,Cotswolds,GPE,0.084375,0.21875,en,4,-1,,,,,
+Asia,Asia,LOC,0.06893939393939394,0.2596590909090909,en,4,-1,,,,,
+New York City,New York City,GPE,0.0902097902097902,0.3326590076590077,en,4,-1,,,,,
+Houston,Houston,GPE,0.22499999999999998,0.5750000000000001,en,4,-1,,,,,
+Quebec,Quebec,GPE,0.14491071428571428,0.25869047619047614,en,4,-1,,,,,
+Norway,Norway,GPE,0.17291666666666666,0.3125,en,4,-1,,,,,
+the Great Lakes,the Great Lakes,LOC,0.28762755102040816,0.5661777210884353,en,4,-1,,,,,
+Japan,Japan,GPE,0.0056944444444444395,0.2443055555555556,en,4,-1,,,,,
+Portugal,Portugal,GPE,0.08333333333333333,0.08333333333333333,en,4,-1,,,,,
+China,China,GPE,0.15,0.41770833333333335,en,4,-1,,,,,
+Switzerland,Switzerland,GPE,0.35,0.35,en,4,-1,,,,,
+Kenosha,Kenosha,GPE,0.02500000000000001,0.32499999999999996,en,4,-1,,,,,
+Calgary,Calgary,GPE,-0.015625,0.2760416666666667,en,4,-1,,,,,
+Vermont,Vermont,GPE,0.040584415584415584,0.11147186147186146,en,4,-1,,,,,
+the Northern Plains,the Northern Plains,LOC,0.24061224489795918,0.3876530612244898,en,4,-1,,,,,
+Racine,Racine,GPE,0.02500000000000001,0.32499999999999996,en,4,-1,,,,,
+Southern Hemispheres,Southern Hemispheres,LOC,-0.08777777777777777,0.21833333333333335,en,3,-1,,,,,
+Manitoba,Manitoba,GPE,0.020833333333333332,0.16666666666666666,en,3,-1,,,,,
+New England,New England,LOC,0.06818181818181818,0.3272727272727272,en,3,-1,,,,,
+Brooklyn,Brooklyn,GPE,0.0,0.0,en,3,-1,,,,,
+Russia,Russia,GPE,0.08345238095238094,0.23357142857142857,en,3,-1,,,,,
+Hollywood,Hollywood,GPE,0.25,0.31666666666666665,en,3,-1,,,,,
+B.C.,B.C.,GPE,0.0,0.3277777777777778,en,3,-1,,,,,
+West Michigan,West Michigan,GPE,0.17500000000000002,0.49999999999999994,en,3,-1,,,,,
+Paris,Paris,GPE,0.1265151515151515,0.33560606060606063,en,3,-1,,,,,
+Berlin,Berlin,GPE,0.04545454545454545,0.15151515151515152,en,3,-1,,,,,
+Crossville,Crossville,GPE,0.0625,0.18333333333333335,en,3,-1,,,,,
+Delhi,Delhi,GPE,-0.13333333333333333,0.0,en,3,-1,,,,,
+Chicagoland,Chicagoland,GPE,0.07291666666666667,0.42407407407407405,en,3,-1,,,,,
+the United States,the United States,GPE,0.25,0.3111111111111111,en,3,-1,,,,,
+Helena,Helena,GPE,0.044444444444444446,0.23333333333333336,en,3,-1,,,,,
+Ottawa-Gatineau,Ottawa-Gatineau,GPE,0.25,0.611111111111111,en,3,-1,,,,,
+CHICAGO,CHICAGO,GPE,0.2770748299319728,0.4056575963718821,en,3,-1,,,,,
+West Virginia,West Virginia,GPE,0.15000000000000002,0.5066666666666667,en,3,-1,,,,,
+East Tennessee,East Tennessee,GPE,0.06666666666666667,0.6666666666666666,en,3,-1,,,,,
+Finland,Finland,GPE,0.26285714285714284,0.33714285714285713,en,3,-1,,,,,
+Kentucky,Kentucky,GPE,0.2333333333333333,0.3703703703703704,en,3,-1,,,,,
+Northwest Indiana,Northwest Indiana,GPE,0.23333333333333336,0.5847222222222223,en,3,-1,,,,,
+South,South,LOC,0.2333333333333333,0.8222222222222223,en,3,-1,,,,,
+the West Coast,the West Coast,LOC,0.006481481481481467,0.20185185185185187,en,3,-1,,,,,
+Greece,Greece,GPE,0.04027777777777778,0.41712962962962963,en,3,-1,,,,,
+Italy,Italy,GPE,0.35000000000000003,0.65,en,3,-1,,,,,
+Athens,Athens,GPE,0.24722222222222223,0.33425925925925926,en,3,-1,,,,,
+Texas,Texas,GPE,0.2222222222222222,0.39999999999999997,en,3,-1,,,,,
+America,America,GPE,0.25,0.075,en,2,-1,,,,,
+Albania,Albania,GPE,0.0,0.5,en,2,-1,,,,,
+Woodward Park City,Woodward Park City,GPE,0.0,0.0,en,2,-1,,,,,
+Northeast California,Northeast California,LOC,-0.041666666666666685,0.5583333333333333,en,2,-1,,,,,
+SHANGHAI,SHANGHAI,GPE,0.075,0.23541666666666666,en,2,-1,,,,,
+Cleveland County,Cleveland County,GPE,0.024999999999999994,0.475,en,2,-1,,,,,
+Waco,Waco,GPE,0.3333333333333333,0.6,en,2,-1,,,,,
+Beckley,Beckley,GPE,-0.07291666666666666,0.46875,en,2,-1,,,,,
+L.A.,L.A.,GPE,0.05,0.2,en,2,-1,,,,,
+McLane Stadium,McLane Stadium,GPE,0.3333333333333333,0.6,en,2,-1,,,,,
+MARKHAM,MARKHAM,GPE,0.125,0.475,en,2,-1,,,,,
+the Miami Valley,the Miami Valley,LOC,0.04722222222222221,0.3111111111111111,en,2,-1,,,,,
+TN,TN,GPE,0.0,0.0625,en,2,-1,,,,,
+the Saudi Arabia season,the Saudi Arabia season,GPE,0.39999999999999997,0.7999999999999999,en,2,-1,,,,,
+Great Lakes,Great Lakes,GPE,0.5,0.875,en,2,-1,,,,,
+Broome County,Broome County,GPE,0.08333333333333333,0.2277777777777778,en,2,-1,,,,,
+Europe,Europe,LOC,0.1791666666666667,0.4,en,2,-1,,,,,
+BaT,BaT,GPE,0.29375,0.24375000000000002,en,2,-1,,,,,
+Zohran,Zohran,GPE,0.125,0.16666666666666666,en,2,-1,,,,,
+Jacksonville,Jacksonville,GPE,0.04166666666666667,0.175,en,2,-1,,,,,
+Indiana,Indiana,GPE,0.0,0.0,en,2,-1,,,,,
+Mableton,Mableton,GPE,0.21294642857142856,0.5855654761904762,en,2,-1,,,,,
+Tibet,Tibet,GPE,-0.004166666666666669,0.36875,en,2,-1,,,,,
+Minnesota,Minnesota,GPE,-0.025,0.1625,en,2,-1,,,,,
+Australia,Australia,GPE,0.0,0.1,en,2,-1,,,,,
+Cobb County,Cobb County,GPE,0.21294642857142856,0.5855654761904762,en,2,-1,,,,,
+Loudon,Loudon,GPE,0.0,0.0625,en,2,-1,,,,,
+Los Angeles,Los Angeles,GPE,-0.375,0.5,en,2,-1,,,,,
+Khabarhub,Khabarhub,GPE,0.28125,0.5,en,2,-1,,,,,
+arctic,arctic,LOC,-0.30000000000000004,0.7166666666666667,en,2,-1,,,,,
+Nebraska,Nebraska,GPE,0.0,0.25,en,2,-1,,,,,
+Munich,Munich,GPE,0.5,0.30833333333333335,en,2,-1,,,,,
+South Dakota,South Dakota,GPE,0.5,0.5625,en,2,-1,,,,,
+Ohio,Ohio,GPE,0.057575757575757565,0.33636363636363636,en,2,-1,,,,,
+Hampshire,Hampshire,GPE,0.03409090909090909,0.1303030303030303,en,2,-1,,,,,
+Cedar Creek Gardens,Cedar Creek Gardens,LOC,0.5,0.5625,en,2,-1,,,,,
+Portsmouth,Portsmouth,GPE,0.03409090909090909,0.3803030303030303,en,2,-1,,,,,
+Kansas,Kansas,GPE,0.0,0.25,en,2,-1,,,,,
+Milan,Milan,GPE,0.525,0.975,en,2,-1,,,,,
+Northern,Northern,LOC,-0.125,0.25,en,2,-1,,,,,
+Cagliari,Cagliari,GPE,0.525,0.975,en,2,-1,,,,,
+Connecticut,Connecticut,GPE,0.057575757575757565,0.33636363636363636,en,2,-1,,,,,
+Sardinia,Sardinia,GPE,0.525,0.975,en,2,-1,,,,,
+Hokkaido,Hokkaido,GPE,-0.04000000000000001,0.14,en,2,-1,,,,,
+Ishikari,Ishikari,GPE,-0.04000000000000001,0.14,en,2,-1,,,,,
+Alabama,Alabama,GPE,-0.09583333333333333,0.611111111111111,en,2,-1,,,,,
+Chennai,Chennai,GPE,0.05142857142857142,0.36714285714285716,en,2,-1,,,,,
+Mount Superior,Mount Superior,LOC,0.25625,0.7,en,2,-1,,,,,
+Kanyakumari,Kanyakumari,GPE,0.14726190476190476,0.6629761904761905,en,2,-1,,,,,
+Tamil Nadu,Tamil Nadu,GPE,0.14726190476190476,0.6629761904761905,en,2,-1,,,,,
+Colorado,Colorado,GPE,0.0,0.0,en,2,-1,,,,,
+New Jersey,New Jersey,GPE,0.057575757575757565,0.33636363636363636,en,2,-1,,,,,
+Pacific,Pacific,LOC,0.0722222222222222,0.6444444444444445,en,2,-1,,,,,
+Oregon,Oregon,GPE,0.0,0.0,en,2,-1,,,,,
+Iceland,Iceland,GPE,-0.1,0.25,en,2,-1,,,,,
+Northern Ireland's,Northern Ireland's,GPE,-0.1,0.25,en,2,-1,,,,,
+Pennsylvania,Pennsylvania,GPE,0.057575757575757565,0.33636363636363636,en,2,-1,,,,,
+Rasam,Rasam,GPE,0.0,0.75,en,2,-1,,,,,
+northern Manitoba,northern Manitoba,LOC,-0.018750000000000003,0.45,en,2,-1,,,,,
+Maine,Maine,GPE,0.13116883116883116,0.27294372294372293,en,2,-1,,,,,
+Myagdi,Myagdi,GPE,0.05833333333333332,0.7666666666666666,en,2,-1,,,,,
+Nightjet,Nightjet,GPE,0.06818181818181818,0.22727272727272727,en,2,-1,,,,,
+the Coachella Valley,the Coachella Valley,LOC,-0.39999999999999997,0.8,en,2,-1,,,,,
+Mustang,Mustang,GPE,0.12916666666666665,0.3243055555555555,en,2,-1,,,,,
+Northern Texas,Northern Texas,LOC,0.0,0.29374999999999996,en,2,-1,,,,,
+Little Cottonwood Canyon,Little Cottonwood Canyon,LOC,0.25625,0.7,en,2,-1,,,,,
+Amravati,Amravati,GPE,-0.1125,0.2875,en,1,-1,,,,,
+Melghat,Melghat,GPE,-0.1125,0.2875,en,1,-1,,,,,
+"\""horrific\""","\""horrific\""",GPE,-0.1125,0.2875,en,1,-1,,,,,
+Mumbai,Mumbai,GPE,-0.1125,0.2875,en,1,-1,,,,,
+Kutu,Kutu,GPE,0.1,0.1,en,1,-1,,,,,
+New Delhi,New Delhi,GPE,0.04727272727272727,0.2409090909090909,en,1,-1,,,,,
+Kutunipadar,Kutunipadar,GPE,0.1,0.1,en,1,-1,,,,,
+Laxmipur,Laxmipur,GPE,0.0,0.0,en,1,-1,,,,,
+New York State Police,New York State Police,GPE,0.04545454545454545,0.3181818181818182,en,1,-1,,,,,
+Leninsk-Kuzn,Leninsk-Kuzn,GPE,0.0,0.0,en,1,-1,,,,,
+Kiselevsk,Kiselevsk,GPE,0.0,0.0,en,1,-1,,,,,
+Red Fort,Red Fort,GPE,0.04727272727272727,0.2409090909090909,en,1,-1,,,,,
+Raj Bhavan,Raj Bhavan,LOC,0.35714285714285715,0.5714285714285714,en,1,-1,,,,,
+Himalayas,Himalayas,GPE,0.0,0.0,en,1,-1,,,,,
+Austria,Austria,GPE,0.0,0.0,en,1,-1,,,,,
+the Arctic Circle,the Arctic Circle,LOC,0.39428571428571424,0.5057142857142857,en,1,-1,,,,,
+Mount Hermon,Mount Hermon,LOC,0.058333333333333334,0.5708333333333334,en,1,-1,,,,,
+Belem,Belem,GPE,0.5,0.5,en,1,-1,,,,,
+Cozy Earth,Cozy Earth,LOC,0.26666666666666666,0.75,en,1,-1,,,,,
+Atlético Madrid,Atlético Madrid,GPE,0.0,0.0,en,1,-1,,,,,
+Prokopyevsk,Prokopyevsk,GPE,0.0,0.0,en,1,-1,,,,,
+Sunset Park,Sunset Park,LOC,0.0,0.0,en,1,-1,,,,,
+NYC,NYC,GPE,0.0,0.75,en,1,-1,,,,,
+Kyiv,Kyiv,GPE,0.25035714285714283,0.7007142857142857,en,1,-1,,,,,
+Kashmir,Kashmir,LOC,0.26666666666666666,0.5666666666666667,en,1,-1,,,,,
+Wular Lake,Wular Lake,GPE,0.26666666666666666,0.5666666666666667,en,1,-1,,,,,
+Brazil,Brazil,GPE,0.26666666666666666,0.5666666666666667,en,1,-1,,,,,
+York,York,GPE,0.5,1.0,en,1,-1,,,,,
+Hudbay,Hudbay,GPE,0.0,0.0,en,1,-1,,,,,
+Sierra Nevada,Sierra Nevada,LOC,-0.041666666666666685,0.5583333333333333,en,1,-1,,,,,
+Ukraine,Ukraine,GPE,0.0,0.0,en,1,-1,,,,,
+Memphis,Memphis,GPE,0.075,0.2916666666666667,en,1,-1,,,,,
+utopian city,utopian city,GPE,0.23484848484848483,0.6666666666666667,en,1,-1,,,,,
+Whistler Blackcomb,Whistler Blackcomb,GPE,0.05,0.7,en,1,-1,,,,,
+South An,South An,LOC,-0.30000000000000004,0.7166666666666667,en,1,-1,,,,,
+the Horstman Glacier,the Horstman Glacier,LOC,0.05,0.7,en,1,-1,,,,,
+England,England,GPE,0.0,0.0,en,1,-1,,,,,
+Binghamton,Binghamton,GPE,-0.0625,0.1875,en,1,-1,,,,,
+Kokomo,Kokomo,GPE,0.0,0.0,en,1,-1,,,,,
+South Hayling,South Hayling,GPE,0.0,0.5,en,1,-1,,,,,
+Koraput,Koraput,GPE,0.0,0.0,en,1,-1,,,,,
+New York Harbor,New York Harbor,GPE,0.13636363636363635,0.45454545454545453,en,1,-1,,,,,
+NW Indiana,NW Indiana,GPE,0.0625,0.5,en,1,-1,,,,,
+Lake County,Lake County,GPE,0.0,0.0,en,1,-1,,,,,
+Kankakee,Kankakee,GPE,0.0,0.0,en,1,-1,,,,,
+li>7,li>7,GPE,0.06666666666666667,0.2333333333333333,en,1,-1,,,,,
+Illinois,Illinois,GPE,0.0,0.0,en,1,-1,,,,,
+Planet,Planet,LOC,0.0,0.06666666666666667,en,1,-1,,,,,
+Upper West Side,Upper West Side,LOC,0.06818181818181818,0.22727272727272727,en,1,-1,,,,,
+Hayling Island,Hayling Island,GPE,0.06818181818181818,0.2606060606060606,en,1,-1,,,,,
+Wildcats,Wildcats,GPE,-0.3458333333333333,0.4708333333333333,en,1,-1,,,,,
+Staten Island,Staten Island,GPE,0.06818181818181818,0.22727272727272727,en,1,-1,,,,,
+Georgia,Georgia,GPE,-0.09583333333333333,0.611111111111111,en,1,-1,,,,,
+Marriott,Marriott,GPE,0.4,0.4,en,1,-1,,,,,
+Ga.,Ga.,GPE,0.0,0.06666666666666667,en,1,-1,,,,,
+Culver City,Culver City,GPE,0.0,0.0,en,1,-1,,,,,
+Everest,Everest,LOC,0.0,0.0,en,1,-1,,,,,
+Minn.,Minn.,GPE,0.0,0.0,en,1,-1,,,,,
+U.S,U.S,GPE,-0.30000000000000004,0.7166666666666667,en,1,-1,,,,,
+SALT LAKE CITY,SALT LAKE CITY,GPE,0.05,0.30000000000000004,en,1,-1,,,,,
+Western Slope,Western Slope,LOC,0.0,0.0,en,1,-1,,,,,
+Chengalpattu,Chengalpattu,GPE,0.20285714285714285,0.7342857142857143,en,1,-1,,,,,
+Thiruvallur,Thiruvallur,GPE,0.20285714285714285,0.7342857142857143,en,1,-1,,,,,
+Thoothukkudi,Thoothukkudi,GPE,0.20285714285714285,0.7342857142857143,en,1,-1,,,,,
+Tenkasi,Tenkasi,GPE,0.20285714285714285,0.7342857142857143,en,1,-1,,,,,
+Montana,Montana,GPE,0.0785714285714286,0.36428571428571427,en,1,-1,,,,,
+The Northern Hemisphere,The Northern Hemisphere,LOC,0.2333333333333333,0.48333333333333334,en,1,-1,,,,,
+the Southern Hemisphere,the Southern Hemisphere,LOC,0.2333333333333333,0.48333333333333334,en,1,-1,,,,,
+Louvre,Louvre,GPE,0.0,0.0,en,1,-1,,,,,
+OTTAWA,OTTAWA,GPE,-0.2,0.2,en,1,-1,,,,,
+Korala,Korala,GPE,0.125,0.3208333333333333,en,1,-1,,,,,
+Lomanthang,Lomanthang,GPE,0.125,0.3208333333333333,en,1,-1,,,,,
+the National Oceanic,the National Oceanic,LOC,0.0,0.0,en,1,-1,,,,,
+Philadelphia,Philadelphia,GPE,-0.6,1.0,en,1,-1,,,,,
+Iceland v Northern Ireland,Iceland v Northern Ireland,GPE,-0.125,0.375,en,1,-1,,,,,
+East,East,LOC,0.16818181818181818,0.32727272727272727,en,1,-1,,,,,
+United States,United States,GPE,-0.6,0.9,en,1,-1,,,,,
+Atlantic,Atlantic,LOC,0.11212121212121212,0.21818181818181817,en,1,-1,,,,,
+the Sahara Desert,the Sahara Desert,LOC,0.5,0.5,en,1,-1,,,,,
+the Pacific Ocean,the Pacific Ocean,LOC,0.0,0.0,en,1,-1,,,,,
+app</li,app</li,GPE,0.09166666666666667,0.6166666666666667,en,1,-1,,,,,
+Yarbo,Yarbo,GPE,-0.1,0.2,en,1,-1,,,,,
+Mount Everest,Mount Everest,LOC,-0.025,0.2875,en,1,-1,,,,,
+Ci… UCF,Ci… UCF,GPE,0.16666666666666666,0.3,en,1,-1,,,,,
+New Hampshire,New Hampshire,GPE,0.16233766233766234,0.44588744588744583,en,1,-1,,,,,
+Northern Cal,Northern Cal,LOC,0.0,0.0,en,1,-1,,,,,
+Montana City,Montana City,GPE,0.06666666666666667,0.35000000000000003,en,1,-1,,,,,
+East Helena,East Helena,GPE,0.06666666666666667,0.35000000000000003,en,1,-1,,,,,
+North Queensland,North Queensland,GPE,0.0,0.0,en,1,-1,,,,,
+Rome,Rome,GPE,0.5,1.0,en,1,-1,,,,,
+Phanerozoic,Phanerozoic,GPE,0.0,0.0,en,1,-1,,,,,
+Salt Lake,Salt Lake,GPE,0.0,0.0,en,1,-1,,,,,
+Pacific Ocean,Pacific Ocean,LOC,0.13636363636363635,0.45454545454545453,en,1,-1,,,,,
+San Diego,San Diego,GPE,0.25,0.8500000000000001,en,1,-1,,,,,
+the north Pacific,the north Pacific,LOC,0.25,0.8500000000000001,en,1,-1,,,,,
+Peloponnese,Peloponnese,GPE,-0.16999999999999998,0.39999999999999997,en,1,-1,,,,,
+the Northern Hemisphere,the Northern Hemisphere,LOC,0.07777777777777779,0.5888888888888889,en,1,-1,,,,,
+Trollstigen,Trollstigen,GPE,0.55,0.7,en,1,-1,,,,,
+the Northern Lig,the Northern Lig,LOC,-0.15,0.4,en,1,-1,,,,,
+Panama,Panama,GPE,0.0,0.0,en,1,-1,,,,,
+Vantaa,Vantaa,GPE,0.1,0.1,en,1,-1,,,,,
+Ports-RUNE,Ports-RUNE,LOC,0.0,0.0,en,1,-1,,,,,
+GS,GS,LOC,0.0,1.0,en,1,-1,,,,,
+NWS,NWS,GPE,0.0,1.0,en,1,-1,,,,,
+Florida City,Florida City,GPE,0.0,0.0,en,1,-1,,,,,
+PvPvE,PvPvE,GPE,0.0,0.06666666666666667,en,1,-1,,,,,
+Getty,Getty,GPE,0.0,0.0,en,1,-1,,,,,
+Manhattan,Manhattan,GPE,0.36818181818181817,0.7272727272727273,en,1,-1,,,,,
+Empire State,Empire State,GPE,0.36818181818181817,0.7272727272727273,en,1,-1,,,,,
+Southern Ontario,Southern Ontario,LOC,0.1597222222222222,0.3611111111111111,en,1,-1,,,,,
+Dubai,Dubai,GPE,0.25,0.3333333333333333,en,1,-1,,,,,
+Regina,Regina,GPE,0.25,0.3333333333333333,en,1,-1,,,,,
+GRAND RAPIDS,GRAND RAPIDS,GPE,0.27,0.44666666666666666,en,1,-1,,,,,
+Mich.,Mich.,GPE,0.27,0.44666666666666666,en,1,-1,,,,,
+Northeast,Northeast,LOC,0.09012987012987013,0.6766233766233766,en,1,-1,,,,,
+MILWAUKEE,MILWAUKEE,GPE,0.0,0.0,en,1,-1,,,,,
+Winter,Winter,GPE,0.21666666666666667,0.37777777777777777,en,1,-1,,,,,
+Miami Valley,Miami Valley,LOC,0.25,0.3333333333333333,en,1,-1,,,,,
+London,London,GPE,0.1928571428571429,0.2952380952380952,en,1,-1,,,,,
+Ont.,Ont.,GPE,0.1928571428571429,0.2952380952380952,en,1,-1,,,,,
+the Granite City,the Granite City,GPE,0.0,1.0,en,1,-1,,,,,
+Swamp Lake,Swamp Lake,LOC,0.05,0.2,en,1,-1,,,,,
+Alpine,Alpine,LOC,0.0,0.0,en,1,-1,,,,,
+CALIFORNIA,CALIFORNIA,GPE,-0.75,1.0,en,1,-1,,,,,
+North Cascades,North Cascades,LOC,0.0,0.0,en,1,-1,,,,,
+European Alpine,European Alpine,LOC,0.5,0.15,en,1,-1,,,,,
+North Cascades National Park,North Cascades National Park,LOC,0.5,0.15,en,1,-1,,,,,
+Salt Lake City,Salt Lake City,GPE,0.0,0.0,en,1,-1,,,,,
+Tokyo,Tokyo,GPE,0.0,0.0,en,1,-1,,,,,
+Kodiak,Kodiak,GPE,-0.1,0.1,en,1,-1,,,,,
+Polk County,Polk County,GPE,0.4,0.4,en,1,-1,,,,,
+Lakeland,Lakeland,GPE,0.25,0.4,en,1,-1,,,,,
+Oklahoma,Oklahoma,GPE,0.0,0.0,en,1,-1,,,,,
+The National Oceanic,The National Oceanic,LOC,0.0,0.0,en,1,-1,,,,,
+Cambs,Cambs,GPE,0.1,0.4,en,1,-1,,,,,
+Mecklenburg,Mecklenburg,GPE,0.1,0.4,en,1,-1,,,,,
+Germany,Germany,GPE,0.1,0.4,en,1,-1,,,,,
+Serengeti,Serengeti,LOC,0.7333333333333334,0.7166666666666667,en,1,-1,,,,,
+South Central Los Ange,South Central Los Ange,LOC,0.025,0.2375,en,1,-1,,,,,
+West Coast Rap Scene,West Coast Rap Scene,LOC,0.0,0.0,en,1,-1,,,,,
+LOS ANGELES,LOS ANGELES,GPE,-0.75,1.0,en,1,-1,,,,,
+Miami,Miami,GPE,0.5,0.5,en,1,-1,,,,,
