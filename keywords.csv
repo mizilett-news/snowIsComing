@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'snow ice',en,Hazard,#ff0000,#ff0000,3,0.2704114853282025
 'snow',en,Hazard,#ff0000,#ff0000,3,0.2675214774629338
 'snowfall',en,Hazard,#ff0000,#ff0000,3,0.2644265914848238
-'road salt',en,Mitigation,#00ff00,#00ff00,3,0.2571964544603522
 'winter service',en,Adaptation,#0000ff,#0000ff,3,0.2528948346030391
 'frost weather',en,Hazard,#ff0000,#ff0000,3,0.2523479347831381
 'slippery roads',en,Impacts,#ffff00,#ffff00,2,0.2322063779806986
+'road salt',en,Mitigation,#00ff00,#00ff00,3,0.22766452538220847
