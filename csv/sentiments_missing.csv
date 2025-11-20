@@ -1,568 +1,440 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-first,first,ORDINAL,,,en,87,,,,,,
-winter,winter,DATE,,,en,77,,,,,,
-Sunday,Sunday,DATE,,,en,31,,,,,,
-Monday,Monday,DATE,,,en,28,,,,,,
-Tuesday,Tuesday,DATE,,,en,28,,,,,,
-2025,2025,DATE,,,en,27,,,,,,
-morning,morning,TIME,,,en,18,,,,,,
-one,one,CARDINAL,,,en,16,,,,,,
-Winter,Winter,DATE,0.08993506493506498,3.1819264069264066,en,15,,,,,,
-two,two,CARDINAL,,,en,13,,,,,,
-Friday,Friday,DATE,,,en,13,,,,,,
-Canadian,Canadian,NORP,,,en,12,,,,,,
-Today,Today,DATE,,,en,12,,,,,,
-November,November,DATE,,,en,12,,,,,,
-Christmas,Christmas,DATE,,,en,12,,,,,,
-today,today,DATE,,,en,11,,,,,,
-this weekend,this weekend,DATE,,,en,11,,,,,,
-season,season,DATE,,,en,11,,,,,,
-One,One,CARDINAL,,,en,10,,,,,,
-Saturday,Saturday,DATE,,,en,10,,,,,,
-Americans,Americans,NORP,,,en,10,,,,,,
-this week,this week,DATE,,,en,9,,,,,,
-5,5,CARDINAL,,,en,9,,,,,,
-1,1,CARDINAL,,,en,8,,,,,,
-night,night,TIME,,,en,8,,,,,,
-this winter,this winter,DATE,,,en,8,,,,,,
-three,three,CARDINAL,,,en,8,,,,,,
-10,10,CARDINAL,,,en,7,,,,,,
-Halloween,Halloween,DATE,,,en,7,,,,,,
-23,23,CARDINAL,,,en,7,,,,,,
-12,12,CARDINAL,,,en,7,,,,,,
-Australian,Australian,NORP,,,en,7,,,,,,
-Thursday,Thursday,DATE,,,en,7,,,,,,
-20,20,CARDINAL,,,en,7,,,,,,
-Wednesday,Wednesday,DATE,,,en,7,,,,,,
-the weekend,the weekend,DATE,,,en,7,,,,,,
-4,4,CARDINAL,,,en,6,,,,,,
-American,American,NORP,,,en,6,,,,,,
-next week,next week,DATE,,,en,6,,,,,,
-6,6,CARDINAL,,,en,6,,,,,,
-months,months,DATE,,,en,6,,,,,,
-First,First,ORDINAL,,,en,6,,,,,,
-0%,0%,PERCENT,,,en,6,,,,,,
-second,second,ORDINAL,,,en,5,,,,,,
-2,2,CARDINAL,,,en,5,,,,,,
-7,7,CARDINAL,,,en,5,,,,,,
-British,British,NORP,,,en,5,,,,,,
-annual,annual,DATE,,,en,5,,,,,,
-North Star Cup,North Star Cup,EVENT,,,en,5,,,,,,
-the season,the season,DATE,,,en,5,,,,,,
-3,3,CARDINAL,,,en,5,,,,,,
-summer,summer,DATE,,,en,5,,,,,,
-early winter,early winter,DATE,,,en,5,,,,,,
-Finnish,Finnish,NORP,,,en,5,,,,,,
-Black Friday,Black Friday,EVENT,,,en,5,,,,,,
-Canadians,Canadians,NORP,,,en,5,,,,,,
-millions,millions,CARDINAL,,,en,4,,,,,,
-thousands,thousands,CARDINAL,,,en,4,,,,,,
-this year,this year,DATE,,,en,4,,,,,,
-Week 11,Week 11,DATE,,,en,4,,,,,,
-week,week,DATE,,,en,4,,,,,,
-afternoon,afternoon,TIME,,,en,4,,,,,,
-hours,hours,TIME,,,en,4,,,,,,
-13,13,CARDINAL,,,en,4,,,,,,
-winters,winters,DATE,,,en,4,,,,,,
-the day,the day,DATE,,,en,4,,,,,,
-39,39,CARDINAL,,,en,4,,,,,,
-early Tuesday,early Tuesday,DATE,,,en,4,,,,,,
-half,half,CARDINAL,,,en,4,,,,,,
-Millions,Millions,CARDINAL,,,en,4,,,,,,
-the winter season,the winter season,DATE,,,en,4,,,,,,
-two-thirds,two-thirds,CARDINAL,,,en,3,,,,,,
-1 p.m.,1 p.m.,TIME,,,en,3,,,,,,
-This year,This year,DATE,,,en,3,,,,,,
-106th,106th,ORDINAL,,,en,3,,,,,,
-this morning,this morning,TIME,,,en,3,,,,,,
-Consent Framework,Consent Framework,WORK_OF_ART,,,en,3,,,,,,
-Winter Storm Warning,Winter Storm Warning,WORK_OF_ART,,,en,3,,,,,,
-237,237,CARDINAL,,,en,3,,,,,,
-December,December,DATE,,,en,3,,,,,,
-35,35,CARDINAL,,,en,3,,,,,,
-VPN,VPN,PRODUCT,,,en,3,,,,,,
-these days,these days,DATE,,,en,3,,,,,,
-Chinese,Chinese,NORP,,,en,3,,,,,,
-daily,daily,DATE,,,en,3,,,,,,
-8,8,CARDINAL,,,en,3,,,,,,
-October,October,DATE,,,en,3,,,,,,
-Antifa,Antifa,NORP,,,en,3,,,,,,
-200W,200W,CARDINAL,,,en,3,,,,,,
-50%,50%,PERCENT,,,en,3,,,,,,
-days,days,DATE,,,en,3,,,,,,
-2025-2026,2025-2026,DATE,,,en,3,,,,,,
-last night,last night,TIME,,,en,3,,,,,,
-overnight,overnight,TIME,,,en,3,,,,,,
-2024,2024,DATE,,,en,3,,,,,,
-Thousands,Thousands,CARDINAL,,,en,3,,,,,,
-Greek,Greek,NORP,,,en,3,,,,,,
-15 cm,15 cm,QUANTITY,,,en,3,,,,,,
-Germans,Germans,NORP,,,en,3,,,,,,
-tonight,tonight,TIME,,,en,3,,,,,,
-years,years,DATE,,,en,3,,,,,,
-Indian,Indian,NORP,,,en,3,,,,,,
-Snow Drop,Snow Drop,WORK_OF_ART,,,en,3,,,,,,
-every day,every day,DATE,,,en,3,,,,,,
-3rd season,3rd season,DATE,,,en,3,,,,,,
-Rs 621 crore,Rs 621 crore,MONEY,,,en,3,,,,,,
-early-season,early-season,DATE,,,en,3,,,,,,
-Two,Two,CARDINAL,,,en,3,,,,,,
-Nov. 12,Nov. 12,DATE,,,en,3,,,,,,
-6 inches,6 inches,QUANTITY,,,en,3,,,,,,
-its third quarter 2025,its third quarter 2025,DATE,,,en,3,,,,,,
-25%,25%,PERCENT,,,en,3,,,,,,
-Hudbay,Hudbay,WORK_OF_ART,0.0,0.0,en,2,,,,,,
-the Lincoln Tunnel,the Lincoln Tunnel,FAC,,,en,2,,,,,,
-as much as 35 centimeters,as much as 35 centimeters,QUANTITY,,,en,2,,,,,,
-GS,GS,PRODUCT,0.2681818181818182,0.4772727272727273,en,2,,,,,,
-17,17,CARDINAL,,,en,2,,,,,,
-48,48,CARDINAL,,,en,2,,,,,,
-the colder months ahead,the colder months ahead,DATE,,,en,2,,,,,,
-Greeks,Greeks,NORP,,,en,2,,,,,,
-seven,seven,CARDINAL,,,en,2,,,,,,
-Hundreds of thousands,Hundreds of thousands,CARDINAL,,,en,2,,,,,,
-8 p.m.,8 p.m.,TIME,,,en,2,,,,,,
-November 2025,November 2025,DATE,,,en,2,,,,,,
-Motorrad,Motorrad,PRODUCT,,,en,2,,,,,,
-59%,59%,PERCENT,,,en,2,,,,,,
-November 30,November 30,DATE,,,en,2,,,,,,
-72 degrees,72 degrees,QUANTITY,,,en,2,,,,,,
-1.5,1.5,CARDINAL,,,en,2,,,,,,
-6.46,6.46,MONEY,,,en,2,,,,,,
-22 years later,22 years later,DATE,,,en,2,,,,,,
-Veterans,Veterans,NORP,,,en,2,,,,,,
-1985,1985,DATE,,,en,2,,,,,,
-450,450,CARDINAL,,,en,2,,,,,,
-Route 495,Route 495,FAC,,,en,2,,,,,,
-"November 12, 2025","November 12, 2025",DATE,,,en,2,,,,,,
-199.99,199.99,MONEY,,,en,2,,,,,,
-the year,the year,DATE,,,en,2,,,,,,
-Austrian,Austrian,NORP,,,en,2,,,,,,
-World Cup,World Cup,EVENT,,,en,2,,,,,,
-Third Quarter 2025,Third Quarter 2025,DATE,,,en,2,,,,,,
-the year ago period,the year ago period,DATE,,,en,2,,,,,,
-Every month,Every month,DATE,,,en,2,,,,,,
-11,11,CARDINAL,,,en,2,,,,,,
-Rs 458 crore,Rs 458 crore,MONEY,,,en,2,,,,,,
-just $39.99,just $39.99,MONEY,,,en,2,,,,,,
-Three,Three,CARDINAL,,,en,2,,,,,,
-Nov. 11,Nov. 11,DATE,,,en,2,,,,,,
-Nov. 3,Nov. 3,DATE,,,en,2,,,,,,
-the September quarter,the September quarter,DATE,,,en,2,,,,,,
-the Week,the Week,DATE,,,en,2,,,,,,
-November 14,November 14,DATE,,,en,2,,,,,,
-Volvo 245,Volvo 245,LAW,,,en,2,,,,,,
-The third season,The third season,DATE,,,en,2,,,,,,
-Spider-Man:,Spider-Man:,WORK_OF_ART,,,en,2,,,,,,
-18 million,18 million,CARDINAL,,,en,2,,,,,,
-next year,next year,DATE,,,en,2,,,,,,
-the Shiva Temple,the Shiva Temple,FAC,,,en,2,,,,,,
-53.03,53.03,CARDINAL,,,en,2,,,,,,
-April 2025,April 2025,DATE,,,en,2,,,,,,
-Four,Four,CARDINAL,,,en,2,,,,,,
-38555,38555,CARDINAL,,,en,2,,,,,,
-last week,last week,DATE,,,en,2,,,,,,
-the first 27 minutes,the first 27 minutes,TIME,,,en,2,,,,,,
-20%,20%,PERCENT,,,en,2,,,,,,
-Sunday night,Sunday night,TIME,,,en,2,,,,,,
-World Film Festival,World Film Festival,EVENT,,,en,2,,,,,,
-1st,1st,ORDINAL,,,en,2,,,,,,
-Brits,Brits,NORP,,,en,2,,,,,,
-Yankton Trail Park,Yankton Trail Park,FAC,,,en,2,,,,,,
-8 Inches,8 Inches,QUANTITY,,,en,2,,,,,,
-"Sunday, Nov. 9","Sunday, Nov. 9",DATE,,,en,2,,,,,,
-The Fine Print,The Fine Print,WORK_OF_ART,,,en,2,,,,,,
-Vm,Vm,PRODUCT,,,en,2,,,,,,
-TD Place Stadium,TD Place Stadium,FAC,,,en,2,,,,,,
-the 2025 season,the 2025 season,DATE,,,en,2,,,,,,
-third quarter,third quarter,DATE,,,en,2,,,,,,
-Work Truck Solutions,Work Truck Solutions,WORK_OF_ART,,,en,2,,,,,,
-two thirds,two thirds,CARDINAL,,,en,2,,,,,,
-19,19,CARDINAL,,,en,2,,,,,,
-Muslim,Muslim,NORP,,,en,2,,,,,,
-April,April,DATE,,,en,2,,,,,,
-at least 13,at least 13,CARDINAL,,,en,2,,,,,,
-1722,1722,CARDINAL,,,en,2,,,,,,
-more than 80 million,more than 80 million,CARDINAL,,,en,2,,,,,,
-Nov. 10,Nov. 10,DATE,,,en,2,,,,,,
-10 to 20 mph,10 to 20 mph,QUANTITY,,,en,2,,,,,,
-hundreds,hundreds,CARDINAL,,,en,2,,,,,,
-"60,000 pounds","60,000 pounds",QUANTITY,,,en,2,,,,,,
-"Monday, Nov. 10","Monday, Nov. 10",DATE,,,en,2,,,,,,
-19th-century,19th-century,DATE,,,en,2,,,,,,
-late Wednesday night,late Wednesday night,TIME,,,en,2,,,,,,
-15 centimetres,15 centimetres,QUANTITY,,,en,2,,,,,,
-Quebecers,Quebecers,NORP,,,en,2,,,,,,
-1-2 feet,1-2 feet,QUANTITY,,,en,2,,,,,,
-eight consecutive years,eight consecutive years,DATE,,,en,2,,,,,,
-early morning,early morning,TIME,,,en,2,,,,,,
-An early-season,An early-season,DATE,,,en,2,,,,,,
-Nov. 9,Nov. 9,DATE,,,en,2,,,,,,
-25801,25801,CARDINAL,,,en,2,,,,,,
-7 p.m.,7 p.m.,TIME,,,en,2,,,,,,
-204,204,MONEY,,,en,2,,,,,,
-the past few days,the past few days,DATE,,,en,2,,,,,,
-Michelin CrossClimate2,Michelin CrossClimate2,PRODUCT,,,en,2,,,,,,
-the this year's,the this year's,DATE,,,en,2,,,,,,
-Gunpowder,Gunpowder,PRODUCT,,,en,2,,,,,,
-Up to,Up to,CARDINAL,,,en,2,,,,,,
-|,|,DATE,,,en,2,,,,,,
-10 cm,10 cm,QUANTITY,,,en,2,,,,,,
-10 to 15 mph,10 to 15 mph,QUANTITY,,,en,2,,,,,,
-this evening,this evening,TIME,,,en,2,,,,,,
-over 5 cm,over 5 cm,QUANTITY,,,en,2,,,,,,
-1969,1969,DATE,,,en,2,,,,,,
-Kids Gift Guide,Kids Gift Guide,EVENT,,,en,2,,,,,,
-this Sunday,this Sunday,DATE,,,en,2,,,,,,
-early next week,early next week,DATE,,,en,2,,,,,,
-October 19,October 19,DATE,,,en,2,,,,,,
-Russian,Russian,NORP,,,en,2,,,,,,
-Thanksgiving long weekend,Thanksgiving long weekend,DATE,,,en,2,,,,,,
-79 degrees,79 degrees,QUANTITY,,,en,2,,,,,,
-7.5,7.5,CARDINAL,,,en,2,,,,,,
-Appalachians,Appalachians,NORP,,,en,2,,,,,,
-last year,last year,DATE,,,en,2,,,,,,
-more than a century,more than a century,DATE,,,en,2,,,,,,
-mid-October,mid-October,DATE,,,en,2,,,,,,
-"above 4,000 feet","above 4,000 feet",QUANTITY,,,en,2,,,,,,
-fall day,fall day,DATE,,,en,2,,,,,,
-2026,2026,DATE,,,en,2,,,,,,
-year,year,DATE,,,en,2,,,,,,
-six feet,six feet,QUANTITY,,,en,2,,,,,,
-1894,1894,DATE,,,en,2,,,,,,
-late Monday,late Monday,DATE,,,en,2,,,,,,
-the milestone 21 days later,the milestone 21 days later,DATE,,,en,2,,,,,,
-the week,the week,DATE,,,en,2,,,,,,
-the days,the days,DATE,,,en,2,,,,,,
-the early morning hours,the early morning hours,TIME,,,en,2,,,,,,
-up to 16 inches,up to 16 inches,QUANTITY,,,en,2,,,,,,
-the past week,the past week,DATE,,,en,2,,,,,,
-this season,this season,DATE,,,en,2,,,,,,
-Oct 23,Oct 23,DATE,,,en,2,,,,,,
-Himalayan,Himalayan,NORP,,,en,2,,,,,,
-21,21,MONEY,,,en,2,,,,,,
-Anker Power Station,Anker Power Station,FAC,,,en,2,,,,,,
-22,22,CARDINAL,,,en,2,,,,,,
-Grand Junction,Grand Junction,FAC,,,en,2,,,,,,
-11.5,11.5,CARDINAL,,,en,2,,,,,,
-100,100,CARDINAL,,,en,2,,,,,,
-29,29,CARDINAL,,,en,2,,,,,,
-The Fate of Ophelia,The Fate of Ophelia,WORK_OF_ART,,,en,2,,,,,,
-Fifty years ago,Fifty years ago,DATE,,,en,2,,,,,,
-3.5,3.5,CARDINAL,,,en,2,,,,,,
-up to 10 inches,up to 10 inches,QUANTITY,,,en,2,,,,,,
-35%,35%,PERCENT,,,en,2,,,,,,
-Oct. 16,Oct. 16,DATE,,,en,2,,,,,,
-monthly,monthly,DATE,,,en,2,,,,,,
-60 degrees,60 degrees,QUANTITY,,,en,2,,,,,,
-recent years,recent years,DATE,,,en,2,,,,,,
-Noon,Noon,TIME,,,en,2,,,,,,
-63 degrees,63 degrees,QUANTITY,,,en,2,,,,,,
-70%,70%,PERCENT,,,en,1,,,,,,
-+182 chars,+182 chars,WORK_OF_ART,,,en,1,,,,,,
-Anti-Hero,Anti-Hero,WORK_OF_ART,,,en,1,,,,,,
-less than one inch,less than one inch,QUANTITY,,,en,1,,,,,,
-a big week,a big week,DATE,,,en,1,,,,,,
-Blank Space,Blank Space,WORK_OF_ART,,,en,1,,,,,,
-60%,60%,PERCENT,,,en,1,,,,,,
-Monday afternoon,Monday afternoon,TIME,,,en,1,,,,,,
-that decade,that decade,DATE,,,en,1,,,,,,
-Car Crash Newsmax,Car Crash Newsmax,WORK_OF_ART,,,en,1,,,,,,
-44,44,CARDINAL,,,en,1,,,,,,
-10/14/2025 8:36:18 AM PDT,10/14/2025 8:36:18 AM PDT,TIME,,,en,1,,,,,,
-90%,90%,PERCENT,,,en,1,,,,,,
-York Lions Stadium,York Lions Stadium,FAC,,,en,1,,,,,,
-Car Crash,Car Crash,WORK_OF_ART,,,en,1,,,,,,
-24.74,24.74,MONEY,,,en,1,,,,,,
-6-28,6-28,CARDINAL,,,en,1,,,,,,
-About one inch,About one inch,QUANTITY,,,en,1,,,,,,
-the 1980s,the 1980s,DATE,,,en,1,,,,,,
-33,33,MONEY,,,en,1,,,,,,
-The Decade,The Decade,DATE,,,en,1,,,,,,
-1 to 3 inches,1 to 3 inches,QUANTITY,,,en,1,,,,,,
-16 Inches,16 Inches,QUANTITY,,,en,1,,,,,,
-55,55,CARDINAL,,,en,1,,,,,,
-Patriot,Patriot,PRODUCT,,,en,1,,,,,,
-the Christmas season,the Christmas season,DATE,,,en,1,,,,,,
-The Hunger Games Deluxe Edition Box Set,The Hunger Games Deluxe Edition Box Set,EVENT,,,en,1,,,,,,
-25 Years,25 Years,DATE,,,en,1,,,,,,
-35.24,35.24,MONEY,,,en,1,,,,,,
-70,70,MONEY,,,en,1,,,,,,
-fifth,fifth,ORDINAL,,,en,1,,,,,,
-last fall,last fall,DATE,,,en,1,,,,,,
-2011,2011,DATE,,,en,1,,,,,,
-Asian World Film Festival,Asian World Film Festival,EVENT,,,en,1,,,,,,
-32,32,CARDINAL,,,en,1,,,,,,
-The Sender IN Jacket,The Sender IN Jacket,WORK_OF_ART,,,en,1,,,,,,
-24 hours,24 hours,TIME,,,en,1,,,,,,
-a busy 24 hours,a busy 24 hours,TIME,,,en,1,,,,,,
-the work week,the work week,DATE,,,en,1,,,,,,
-+5000 chars,+5000 chars,WORK_OF_ART,,,en,1,,,,,,
-Gzhelian,Gzhelian,NORP,,,en,1,,,,,,
-the season just days,the season just days,DATE,,,en,1,,,,,,
-more than 105 million,more than 105 million,CARDINAL,,,en,1,,,,,,
-Morning Rundown,Morning Rundown,WORK_OF_ART,,,en,1,,,,,,
-November 10,November 10,DATE,,,en,1,,,,,,
-up to 1 ft,up to 1 ft,QUANTITY,,,en,1,,,,,,
-"November 10, 2025","November 10, 2025",DATE,,,en,1,,,,,,
-2025-11-10,2025-11-10,DATE,,,en,1,,,,,,
-only one,only one,CARDINAL,,,en,1,,,,,,
-Viking,Viking,PRODUCT,,,en,1,,,,,,
-Nov 18,Nov 18,DATE,,,en,1,,,,,,
-Tommy,Tommy,PRODUCT,,,en,1,,,,,,
-+3958,+3958,NORP,,,en,1,,,,,,
-early January,early January,DATE,,,en,1,,,,,,
-"Falling in Austria and the Himalayas, / deliquescing","Falling in Austria and the Himalayas, / deliquescing",WORK_OF_ART,,,en,1,,,,,,
-This fall season,This fall season,DATE,,,en,1,,,,,,
-Jan… [,Jan… [,DATE,,,en,1,,,,,,
-11th,11th,ORDINAL,,,en,1,,,,,,
-thousands of dollars,thousands of dollars,MONEY,,,en,1,,,,,,
-the Best International Feature Film,the Best International Feature Film,EVENT,,,en,1,,,,,,
-Oscar,Oscar,WORK_OF_ART,,,en,1,,,,,,
-Asian,Asian,NORP,,,en,1,,,,,,
-more than 30,more than 30,CARDINAL,,,en,1,,,,,,
-Longer Growing Season,Longer Growing Season,EVENT,,,en,1,,,,,,
-+1280,+1280,NORP,,,en,1,,,,,,
-autumn,autumn,DATE,,,en,1,,,,,,
-the Year 2005,the Year 2005,DATE,,,en,1,,,,,,
-the Thompson Park Community Center,the Thompson Park Community Center,FAC,,,en,1,,,,,,
-Winter Running Gear Must-Haves That Will Keep You Toasty,Winter Running Gear Must-Haves That Will Keep You Toasty,WORK_OF_ART,,,en,1,,,,,,
-+3934,+3934,NORP,,,en,1,,,,,,
-October day,October day,DATE,,,en,1,,,,,,
-20s,20s,DATE,,,en,1,,,,,,
-Blue Ridge,Blue Ridge,FAC,0.16666666666666666,0.43333333333333335,en,1,,,,,,
-New Years Eve,New Years Eve,EVENT,,,en,1,,,,,,
-mid-week,mid-week,DATE,,,en,1,,,,,,
-"50,080","50,080",MONEY,,,en,1,,,,,,
-September 2025,September 2025,DATE,,,en,1,,,,,,
-up to 12 inches,up to 12 inches,QUANTITY,,,en,1,,,,,,
-earlier this week,earlier this week,DATE,,,en,1,,,,,,
-Nov. 10—SIOUX,Nov. 10—SIOUX,DATE,,,en,1,,,,,,
-In The Ones Who Walk Away From Omelas,In The Ones Who Walk Away From Omelas,WORK_OF_ART,,,en,1,,,,,,
-"Nov 11, 2025","Nov 11, 2025",DATE,,,en,1,,,,,,
-"November 30 – February 22, 2026","November 30 – February 22, 2026",DATE,,,en,1,,,,,,
-early Wednesday,early Wednesday,TIME,,,en,1,,,,,,
-3rd,3rd,ORDINAL,,,en,1,,,,,,
-+2570 chars,+2570 chars,WORK_OF_ART,,,en,1,,,,,,
-12 November 2025,12 November 2025,DATE,,,en,1,,,,,,
-27 September 2025,27 September 2025,DATE,,,en,1,,,,,,
-2026.Marriott,2026.Marriott,CARDINAL,,,en,1,,,,,,
-February 22,February 22,DATE,,,en,1,,,,,,
-a few minutes,a few minutes,TIME,,,en,1,,,,,,
-"February 22, 2026","February 22, 2026",DATE,,,en,1,,,,,,
-Nov 25,Nov 25,DATE,,,en,1,,,,,,
-a huge day,a huge day,DATE,,,en,1,,,,,,
-the end of the year,the end of the year,DATE,,,en,1,,,,,,
-True Nature,True Nature,WORK_OF_ART,,,en,1,,,,,,
-Southmoor Nature Reserve,Southmoor Nature Reserve,FAC,,,en,1,,,,,,
-400m,400m,QUANTITY,,,en,1,,,,,,
-Just over 22 miles,Just over 22 miles,QUANTITY,,,en,1,,,,,,
-+3480,+3480,NORP,,,en,1,,,,,,
-“The Snow Leopard”,“The Snow Leopard”,WORK_OF_ART,,,en,1,,,,,,
-"50,000 tonnes","50,000 tonnes",QUANTITY,,,en,1,,,,,,
-At Play in the Fields of the Lord,At Play in the Fields of the Lord,WORK_OF_ART,,,en,1,,,,,,
-the Second World War,the Second World War,EVENT,,,en,1,,,,,,
-30 centimetres,30 centimetres,QUANTITY,,,en,1,,,,,,
-New Yorkers,New Yorkers,NORP,,,en,1,,,,,,
-An NYC Ferry,An NYC Ferry,FAC,,,en,1,,,,,,
-Volodymy,Volodymy,WORK_OF_ART,,,en,1,,,,,,
-580,580,CARDINAL,,,en,1,,,,,,
-An early winter,An early winter,DATE,,,en,1,,,,,,
-48 degrees,48 degrees,QUANTITY,,,en,1,,,,,,
-early this week,early this week,DATE,,,en,1,,,,,,
-Thanksgiving,Thanksgiving,EVENT,,,en,1,,,,,,
-Garnet Hill,Garnet Hill,FAC,,,en,1,,,,,,
-up to 40%,up to 40%,PERCENT,,,en,1,,,,,,
-Dutch,Dutch,NORP,,,en,1,,,,,,
-Hundreds,Hundreds,CARDINAL,,,en,1,,,,,,
-610.27 crore,610.27 crore,MONEY,,,en,1,,,,,,
-610 crore,610 crore,MONEY,,,en,1,,,,,,
-Israelis,Israelis,NORP,,,en,1,,,,,,
-Muggles,Muggles,WORK_OF_ART,,,en,1,,,,,,
-30.5 million,30.5 million,CARDINAL,,,en,1,,,,,,
-30 million mark,30 million mark,MONEY,,,en,1,,,,,,
-this past weekend,this past weekend,DATE,,,en,1,,,,,,
-Two years,Two years,DATE,,,en,1,,,,,,
-5 mths,5 mths,DATE,,,en,1,,,,,,
-65,65,CARDINAL,,,en,1,,,,,,
-Koraputs,Koraputs,NORP,,,en,1,,,,,,
-Parab,Parab,NORP,,,en,1,,,,,,
-1996,1996,DATE,,,en,1,,,,,,
-38-40,38-40,CARDINAL,,,en,1,,,,,,
-30,30,CARDINAL,,,en,1,,,,,,
-Ukrainian,Ukrainian,NORP,,,en,1,,,,,,
-the darker days,the darker days,DATE,,,en,1,,,,,,
-the day…,the day…,DATE,,,en,1,,,,,,
-9.41,9.41,MONEY,,,en,1,,,,,,
-the morning to afternoon,the morning to afternoon,TIME,,,en,1,,,,,,
-"5-6
-","5-6
-",QUANTITY,,,en,1,,,,,,
-The Dream Life of Mr. Kim:,The Dream Life of Mr. Kim:,WORK_OF_ART,,,en,1,,,,,,
-each passing day,each passing day,DATE,,,en,1,,,,,,
-"as over 7,000","as over 7,000",CARDINAL,,,en,1,,,,,,
-the holiday season,the holiday season,DATE,,,en,1,,,,,,
-"Tuesday, Oct. 14","Tuesday, Oct. 14",DATE,,,en,1,,,,,,
-22 Years Later,22 Years Later,DATE,,,en,1,,,,,,
-November 2026,November 2026,DATE,,,en,1,,,,,,
-The early morning hours,The early morning hours,TIME,,,en,1,,,,,,
-6.46.Shipping,6.46.Shipping,MONEY,,,en,1,,,,,,
-Old Man Winter,Old Man Winter,DATE,,,en,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+first,first,ORDINAL,,,en,37.59999999999999
+winter,winter,DATE,,,en,27.200000000000003
+Monday,Monday,DATE,,,en,16.9
+Tuesday,Tuesday,DATE,,,en,14.200000000000001
+morning,morning,TIME,,,en,10.200000000000001
+Sunday,Sunday,DATE,,,en,7.400000000000001
+Canadian,Canadian,NORP,,,en,7.400000000000001
+Thursday,Thursday,DATE,,,en,6.800000000000001
+season,season,DATE,,,en,6.4
+two,two,CARDINAL,,,en,6.1000000000000005
+November,November,DATE,,,en,6.000000000000001
+this weekend,this weekend,DATE,,,en,5.800000000000001
+Wednesday,Wednesday,DATE,,,en,5.8
+Saturday,Saturday,DATE,,,en,5.5
+Halloween,Halloween,DATE,,,en,4.9
+this winter,this winter,DATE,,,en,4.7
+early winter,early winter,DATE,,,en,4.6
+2025,2025,DATE,,,en,4.400000000000002
+Friday,Friday,DATE,,,en,4.1000000000000005
+this week,this week,DATE,,,en,4.0
+one,one,CARDINAL,,,en,3.900000000000001
+Finnish,Finnish,NORP,,,en,3.9
+Winter,Winter,DATE,0.08993506493506498,3.1819264069264066,en,3.9
+afternoon,afternoon,TIME,,,en,3.8
+half,half,CARDINAL,,,en,3.6999999999999997
+12,12,CARDINAL,,,en,3.4000000000000004
+One,One,CARDINAL,,,en,3.4000000000000004
+Americans,Americans,NORP,,,en,3.3000000000000003
+three,three,CARDINAL,,,en,3.2
+months,months,DATE,,,en,3.1
+American,American,NORP,,,en,3.1
+summer,summer,DATE,,,en,3.0
+the winter season,the winter season,DATE,,,en,3.0
+Russian,Russian,NORP,,,en,2.9
+overnight,overnight,TIME,,,en,2.9
+6 inches,6 inches,QUANTITY,,,en,2.8
+Antifa,Antifa,NORP,,,en,2.8
+night,night,TIME,,,en,2.8
+early-season,early-season,DATE,,,en,2.8
+next week,next week,DATE,,,en,2.8
+Sunday night,Sunday night,TIME,,,en,2.8
+last night,last night,TIME,,,en,2.8
+4,4,CARDINAL,,,en,2.3000000000000003
+10,10,CARDINAL,,,en,2.2
+Today,Today,DATE,,,en,2.100000000000001
+18 million,18 million,CARDINAL,,,en,2.1
+6,6,CARDINAL,,,en,2.1
+the day,the day,DATE,,,en,2.1
+Thousands,Thousands,CARDINAL,,,en,2.0
+First,First,ORDINAL,,,en,2.0
+2025-2026,2025-2026,DATE,,,en,2.0
+early Tuesday,early Tuesday,DATE,,,en,2.0
+two-thirds,two-thirds,CARDINAL,,,en,2.0
+up to 10 inches,up to 10 inches,QUANTITY,,,en,2.0
+Millions,Millions,CARDINAL,,,en,2.0
+October,October,DATE,,,en,2.0
+thousands,thousands,CARDINAL,,,en,2.0
+hours,hours,TIME,,,en,2.0
+Christmas,Christmas,DATE,,,en,1.9000000000000008
+today,today,DATE,,,en,1.9000000000000008
+World Cup,World Cup,EVENT,,,en,1.9
+1894,1894,DATE,,,en,1.9
+18 inches,18 inches,QUANTITY,,,en,1.9
+the milestone 21 days later,the milestone 21 days later,DATE,,,en,1.9
+Oct 23,Oct 23,DATE,,,en,1.9
+second,second,ORDINAL,,,en,1.9
+late Sunday,late Sunday,DATE,,,en,1.9
+Route 495,Route 495,FAC,,,en,1.9
+late Wednesday night,late Wednesday night,TIME,,,en,1.9
+the first 27 minutes,the first 27 minutes,TIME,,,en,1.9
+106th,106th,ORDINAL,,,en,1.9
+the year,the year,DATE,,,en,1.9
+this season,this season,DATE,,,en,1.9
+the early morning hours,the early morning hours,TIME,,,en,1.9
+Fifty years ago,Fifty years ago,DATE,,,en,1.9
+one day,one day,DATE,,,en,1.9
+Spider-Man:,Spider-Man:,WORK_OF_ART,,,en,1.9
+early this week,early this week,DATE,,,en,1.9
+April,April,DATE,,,en,1.9
+An early-season,An early-season,DATE,,,en,1.9
+English,English,LANGUAGE,,,en,1.9
+"November 12, 2025","November 12, 2025",DATE,,,en,1.9
+the Lincoln Tunnel,the Lincoln Tunnel,FAC,,,en,1.9
+monthly,monthly,DATE,,,en,1.9
+at least 13,at least 13,CARDINAL,,,en,1.9
+as much as 35 centimeters,as much as 35 centimeters,QUANTITY,,,en,1.9
+Hundreds of thousands,Hundreds of thousands,CARDINAL,,,en,1.9
+Four,Four,CARDINAL,,,en,1.9
+more than 80 million,more than 80 million,CARDINAL,,,en,1.9
+this Sunday,this Sunday,DATE,,,en,1.9
+just after 9:00 a.m.,just after 9:00 a.m.,TIME,,,en,1.9
+two thirds,two thirds,CARDINAL,,,en,1.9
+the 2025 season,the 2025 season,DATE,,,en,1.9
+four days,four days,DATE,,,en,1.9
+Thanksgiving long weekend,Thanksgiving long weekend,DATE,,,en,1.9
+mid-October,mid-October,DATE,,,en,1.9
+30,30,CARDINAL,,,en,1.9
+TD Place Stadium,TD Place Stadium,FAC,,,en,1.9
+more than 450,more than 450,CARDINAL,,,en,1.9
+Quebecers,Quebecers,NORP,,,en,1.9
+Nov. 11,Nov. 11,DATE,,,en,1.9
+the colder months ahead,the colder months ahead,DATE,,,en,1.9
+Swedish,Swedish,NORP,,,en,1.9
+1,1,CARDINAL,,,en,1.7000000000000006
+20,20,CARDINAL,,,en,1.6000000000000005
+5,5,CARDINAL,,,en,1.6000000000000005
+the weekend,the weekend,DATE,,,en,1.4000000000000004
+Canadians,Canadians,NORP,,,en,1.4000000000000004
+Black Friday,Black Friday,EVENT,,,en,1.4000000000000004
+3,3,CARDINAL,,,en,1.4000000000000004
+2,2,CARDINAL,,,en,1.3000000000000003
+this year,this year,DATE,,,en,1.3000000000000003
+British,British,NORP,,,en,1.3000000000000003
+week,week,DATE,,,en,1.3000000000000003
+Week 11,Week 11,DATE,,,en,1.3000000000000003
+millions,millions,CARDINAL,,,en,1.3000000000000003
+annual,annual,DATE,,,en,1.3000000000000003
+Nov. 12,Nov. 12,DATE,,,en,1.2000000000000002
+Rs 621 crore,Rs 621 crore,MONEY,,,en,1.2000000000000002
+8,8,CARDINAL,,,en,1.2000000000000002
+Indian,Indian,NORP,,,en,1.2000000000000002
+December,December,DATE,,,en,1.2000000000000002
+these days,these days,DATE,,,en,1.2000000000000002
+this morning,this morning,TIME,,,en,1.2000000000000002
+7,7,CARDINAL,,,en,1.2000000000000002
+50%,50%,PERCENT,,,en,1.2000000000000002
+200W,200W,CARDINAL,,,en,1.2000000000000002
+Chinese,Chinese,NORP,,,en,1.2000000000000002
+This year,This year,DATE,,,en,1.2000000000000002
+35,35,CARDINAL,,,en,1.2000000000000002
+Snow Drop,Snow Drop,WORK_OF_ART,,,en,1.2000000000000002
+25%,25%,PERCENT,,,en,1.2000000000000002
+its third quarter 2025,its third quarter 2025,DATE,,,en,1.2000000000000002
+Germans,Germans,NORP,,,en,1.2000000000000002
+Australian,Australian,NORP,,,en,1.2000000000000002
+every day,every day,DATE,,,en,1.2000000000000002
+daily,daily,DATE,,,en,1.2000000000000002
+hundreds,hundreds,CARDINAL,,,en,1.1
+Greeks,Greeks,NORP,,,en,1.1
+Greek,Greek,NORP,,,en,1.1
+39,39,CARDINAL,,,en,1.1
+23,23,CARDINAL,,,en,1.1
+Veterans,Veterans,NORP,,,en,1.1
+Vm,Vm,PRODUCT,,,en,1.1
+recent years,recent years,DATE,,,en,1.1
+22 years later,22 years later,DATE,,,en,1.1
+Nov. 10,Nov. 10,DATE,,,en,1.1
+59%,59%,PERCENT,,,en,1.1
+April 2025,April 2025,DATE,,,en,1.1
+Volvo 245,Volvo 245,LAW,,,en,1.1
+1985,1985,DATE,,,en,1.1
+48,48,CARDINAL,,,en,1.1
+6.46,6.46,MONEY,,,en,1.1
+53.03,53.03,CARDINAL,,,en,1.1
+Motorrad,Motorrad,PRODUCT,,,en,1.1
+GS,GS,PRODUCT,0.2681818181818182,0.4772727272727273,en,1.1
+November 2025,November 2025,DATE,,,en,1.1
+the this year's,the this year's,DATE,,,en,1.1
+Nov. 3,Nov. 3,DATE,,,en,1.1
+7 p.m.,7 p.m.,TIME,,,en,1.1
+"Monday, Nov. 10","Monday, Nov. 10",DATE,,,en,1.1
+Three,Three,CARDINAL,,,en,1.1
+Work Truck Solutions,Work Truck Solutions,WORK_OF_ART,,,en,1.1
+|,|,DATE,,,en,1.1
+third quarter,third quarter,DATE,,,en,1.1
+1722,1722,CARDINAL,,,en,1.1
+199.99,199.99,MONEY,,,en,1.1
+10 to 20 mph,10 to 20 mph,QUANTITY,,,en,1.1
+just $39.99,just $39.99,MONEY,,,en,1.1
+Consent Framework,Consent Framework,WORK_OF_ART,,,en,1.1
+237,237,CARDINAL,,,en,1.1
+10 to 15 mph,10 to 15 mph,QUANTITY,,,en,1.1
+this evening,this evening,TIME,,,en,1.1
+38555,38555,CARDINAL,,,en,1.1
+1st,1st,ORDINAL,,,en,1.1
+Kids Gift Guide,Kids Gift Guide,EVENT,,,en,1.1
+last week,last week,DATE,,,en,1.1
+World Film Festival,World Film Festival,EVENT,,,en,1.1
+Yankton Trail Park,Yankton Trail Park,FAC,,,en,1.1
+"Sunday, Nov. 9","Sunday, Nov. 9",DATE,,,en,1.1
+Nov. 9,Nov. 9,DATE,,,en,1.1
+eight consecutive years,eight consecutive years,DATE,,,en,1.1
+the Week,the Week,DATE,,,en,1.1
+450,450,CARDINAL,,,en,1.1
+25801,25801,CARDINAL,,,en,1.1
+"60,000 pounds","60,000 pounds",QUANTITY,,,en,1.1
+the Shiva Temple,the Shiva Temple,FAC,,,en,1.1
+Brits,Brits,NORP,,,en,1.1
+The third season,The third season,DATE,,,en,1.1
+fall day,fall day,DATE,,,en,1.1
+20%,20%,PERCENT,,,en,1.1
+last year,last year,DATE,,,en,1.1
+winters,winters,DATE,,,en,1.1
+the September quarter,the September quarter,DATE,,,en,1.1
+more than a century,more than a century,DATE,,,en,1.1
+2024,2024,DATE,,,en,1.1
+year,year,DATE,,,en,1.1
+Rs 458 crore,Rs 458 crore,MONEY,,,en,1.1
+the year ago period,the year ago period,DATE,,,en,1.1
+the past week,the past week,DATE,,,en,1.1
+Grand Junction,Grand Junction,FAC,,,en,1.1
+13,13,CARDINAL,,,en,1.1
+Anker Power Station,Anker Power Station,FAC,,,en,1.1
+21,21,MONEY,,,en,1.1
+November 14,November 14,DATE,,,en,1.1
+Third Quarter 2025,Third Quarter 2025,DATE,,,en,1.1
+Hudbay,Hudbay,WORK_OF_ART,0.0,0.0,en,1.1
+2026,2026,DATE,,,en,1.1
+Every month,Every month,DATE,,,en,1.1
+Austrian,Austrian,NORP,,,en,1.1
+29,29,CARDINAL,,,en,1.1
+November 30,November 30,DATE,,,en,1.1
+the season,the season,DATE,,,en,1.1
+the days,the days,DATE,,,en,1.1
+October 19,October 19,DATE,,,en,1.1
+The Fate of Ophelia,The Fate of Ophelia,WORK_OF_ART,,,en,1.1
+years,years,DATE,,,en,1.1
+100,100,CARDINAL,,,en,1.1
+19,19,CARDINAL,,,en,1.1
+the week,the week,DATE,,,en,1.1
+Muslim,Muslim,NORP,,,en,1.1
+more than 105 million,more than 105 million,CARDINAL,,,en,1.0
+30.5 million,30.5 million,CARDINAL,,,en,1.0
+Parab,Parab,NORP,,,en,1.0
+Viking,Viking,PRODUCT,,,en,1.0
+Israelis,Israelis,NORP,,,en,1.0
+Nov 18,Nov 18,DATE,,,en,1.0
+Tommy,Tommy,PRODUCT,,,en,1.0
++3958,+3958,NORP,,,en,1.0
++3934,+3934,NORP,,,en,1.0
+1996,1996,DATE,,,en,1.0
+up to 12 inches,up to 12 inches,QUANTITY,,,en,1.0
+610 crore,610 crore,MONEY,,,en,1.0
+610.27 crore,610.27 crore,MONEY,,,en,1.0
+September 2025,September 2025,DATE,,,en,1.0
+"50,080","50,080",MONEY,,,en,1.0
+"Falling in Austria and the Himalayas, / deliquescing","Falling in Austria and the Himalayas, / deliquescing",WORK_OF_ART,,,en,1.0
+up to 1 ft,up to 1 ft,QUANTITY,,,en,1.0
+Koraputs,Koraputs,NORP,,,en,1.0
+only one,only one,CARDINAL,,,en,1.0
+November 10,November 10,DATE,,,en,1.0
+Morning Rundown,Morning Rundown,WORK_OF_ART,,,en,1.0
+the season just days,the season just days,DATE,,,en,1.0
+65,65,CARDINAL,,,en,1.0
++5000 chars,+5000 chars,WORK_OF_ART,,,en,1.0
+32,32,CARDINAL,,,en,1.0
+the work week,the work week,DATE,,,en,1.0
+the 40s,the 40s,DATE,,,en,1.0
+30 million mark,30 million mark,MONEY,,,en,1.0
+"November 10, 2025","November 10, 2025",DATE,,,en,1.0
+5 mths,5 mths,DATE,,,en,1.0
+a busy 24 hours,a busy 24 hours,TIME,,,en,1.0
+24 hours,24 hours,TIME,,,en,1.0
+2025-11-10,2025-11-10,DATE,,,en,1.0
+Two years,Two years,DATE,,,en,1.0
+Black Snow,Black Snow,WORK_OF_ART,,,en,1.0
+"More than 1,100","More than 1,100",CARDINAL,,,en,1.0
+late Monday night,late Monday night,TIME,,,en,1.0
+North Star Cup,North Star Cup,EVENT,,,en,1.0
+the 33rd minute,the 33rd minute,TIME,,,en,1.0
+18 Inches,18 Inches,QUANTITY,,,en,1.0
+The Fine Print,The Fine Print,WORK_OF_ART,,,en,1.0
+Winter Storm Warning,Winter Storm Warning,WORK_OF_ART,,,en,1.0
+8 Inches,8 Inches,QUANTITY,,,en,1.0
+First snowfall of season,First snowfall of season,DATE,,,en,1.0
+evening,evening,TIME,,,en,1.0
+Sunday Night Open Thread,Sunday Night Open Thread,DATE,,,en,1.0
+the North Star Cup,the North Star Cup,EVENT,,,en,1.0
+up to 18 inches,up to 18 inches,QUANTITY,,,en,1.0
+2025-11-16,2025-11-16,DATE,,,en,1.0
+Monday Flurries,Monday Flurries,WORK_OF_ART,,,en,1.0
+5G Unlocked Obsidian,5G Unlocked Obsidian,QUANTITY,,,en,1.0
+128,128,CARDINAL,,,en,1.0
+30/28 days,30/28 days,DATE,,,en,1.0
+299,299,MONEY,,,en,1.0
+$30/28-Day,$30/28-Day,MONEY,,,en,1.0
+$299 Delivered,$299 Delivered,MONEY,,,en,1.0
+Fiction,Fiction,WORK_OF_ART,,,en,1.0
+an inch,an inch,QUANTITY,,,en,1.0
+Tuesday morning,Tuesday morning,TIME,,,en,1.0
+hour,hour,TIME,,,en,1.0
+This Week,This Week,DATE,,,en,1.0
+71%,71%,PERCENT,,,en,1.0
+European,European,NORP,,,en,1.0
+Winter forecast 2026,Winter forecast 2026,DATE,,,en,1.0
+6am on,6am on,TIME,,,en,1.0
+Dutch,Dutch,NORP,,,en,1.0
+up to 40%,up to 40%,PERCENT,,,en,1.0
+mid-week,mid-week,DATE,,,en,1.0
+Garnet Hill,Garnet Hill,FAC,,,en,1.0
+Snow To Strike,Snow To Strike,FAC,,,en,1.0
+as 15 Inches,as 15 Inches,QUANTITY,,,en,1.0
+Winter Storm Warnings,Winter Storm Warnings,WORK_OF_ART,,,en,1.0
+Thanksgiving,Thanksgiving,EVENT,,,en,1.0
+665,665,MONEY,,,en,1.0
+48 degrees,48 degrees,QUANTITY,,,en,1.0
+the coming days,the coming days,DATE,,,en,1.0
+several days,several days,DATE,,,en,1.0
+over weekend,over weekend,DATE,,,en,1.0
+Brazilian,Brazilian,NORP,,,en,1.0
+An early winter,An early winter,DATE,,,en,1.0
+Nearly a dozen,Nearly a dozen,CARDINAL,,,en,1.0
+Saturn,Saturn,PRODUCT,,,en,1.0
+a few days,a few days,DATE,,,en,1.0
+the 17th century,the 17th century,DATE,,,en,1.0
+Winter 2026,Winter 2026,DATE,,,en,1.0
+up to 15 inches,up to 15 inches,QUANTITY,,,en,1.0
+the Thompson Park Community Center,the Thompson Park Community Center,FAC,,,en,1.0
+New Years Eve,New Years Eve,EVENT,,,en,1.0
+"Nov 11, 2025","Nov 11, 2025",DATE,,,en,1.0
+1973,1973,DATE,,,en,1.0
+In The Ones Who Walk Away From Omelas,In The Ones Who Walk Away From Omelas,WORK_OF_ART,,,en,1.0
+26 Federal Plaza,26 Federal Plaza,FAC,,,en,1.0
+Every day,Every day,DATE,,,en,1.0
+2160p,2160p,CARDINAL,,,en,1.0
+13%,13%,PERCENT,,,en,1.0
+1986,1986,DATE,,,en,1.0
++1534,+1534,NORP,,,en,1.0
+the darker days,the darker days,DATE,,,en,1.0
+that decade,that decade,DATE,,,en,1.0
 "the Snow 
 ","the Snow 
-",WORK_OF_ART,,,en,1,,,,,,
-1973,1973,DATE,,,en,1,,,,,,
-the 40s,the 40s,DATE,,,en,1,,,,,,
-26 Federal Plaza,26 Federal Plaza,FAC,,,en,1,,,,,,
-Every day,Every day,DATE,,,en,1,,,,,,
-2160p,2160p,CARDINAL,,,en,1,,,,,,
-1986,1986,DATE,,,en,1,,,,,,
-+1534,+1534,NORP,,,en,1,,,,,,
-18 inches,18 inches,QUANTITY,,,en,1,,,,,,
-Connections,Connections,PRODUCT,,,en,1,,,,,,
-Semi,Semi,PRODUCT,,,en,1,,,,,,
-2022,2022,DATE,,,en,1,,,,,,
-Veterans Day,Veterans Day,DATE,,,en,1,,,,,,
-early spring,early spring,DATE,,,en,1,,,,,,
-10 inches,10 inches,QUANTITY,,,en,1,,,,,,
-8 inches,8 inches,QUANTITY,,,en,1,,,,,,
-13%,13%,PERCENT,,,en,1,,,,,,
-7 inches,7 inches,QUANTITY,,,en,1,,,,,,
-Delta 2,Delta 2,PRODUCT,,,en,1,,,,,,
-Oct. 12,Oct. 12,DATE,,,en,1,,,,,,
-Promises Survival,Promises Survival,WORK_OF_ART,,,en,1,,,,,,
-Prehistoric Planet:,Prehistoric Planet:,WORK_OF_ART,,,en,1,,,,,,
-another several inches,another several inches,QUANTITY,,,en,1,,,,,,
-8 a.m.,8 a.m.,TIME,,,en,1,,,,,,
-"More than 1,100","More than 1,100",CARDINAL,,,en,1,,,,,,
-"About 375,000","About 375,000",CARDINAL,,,en,1,,,,,,
-Honor Flight,Honor Flight,WORK_OF_ART,,,en,1,,,,,,
-More than 200 million,More than 200 million,CARDINAL,,,en,1,,,,,,
-around 7 a.m. Tuesday,around 7 a.m. Tuesday,TIME,,,en,1,,,,,,
-Oct. 14,Oct. 14,DATE,,,en,1,,,,,,
-386,386,MONEY,,,en,1,,,,,,
-Connections:,Connections:,WORK_OF_ART,,,en,1,,,,,,
-541,541,CARDINAL,,,en,1,,,,,,
-"more than 1,100","more than 1,100",CARDINAL,,,en,1,,,,,,
-40,40,CARDINAL,,,en,1,,,,,,
-Black Snow,Black Snow,WORK_OF_ART,,,en,1,,,,,,
-several days,several days,DATE,,,en,1,,,,,,
-late Monday night,late Monday night,TIME,,,en,1,,,,,,
-African American,African American,NORP,,,en,1,,,,,,
-Annapurna Base Camp,Annapurna Base Camp,FAC,,,en,1,,,,,,
-a day,a day,DATE,,,en,1,,,,,,
-October 13th,October 13th,DATE,,,en,1,,,,,,
-weeks,weeks,DATE,,,en,1,,,,,,
-"February 17, 2022","February 17, 2022",DATE,,,en,1,,,,,,
-5 Premiere,5 Premiere,EVENT,,,en,1,,,,,,
-Snowfall,Snowfall,WORK_OF_ART,,,en,1,,,,,,
-the 1990s,the 1990s,DATE,,,en,1,,,,,,
-90s,90s,CARDINAL,,,en,1,,,,,,
-Snowfall’ Spinoff Exploring,Snowfall’ Spinoff Exploring,WORK_OF_ART,,,en,1,,,,,,
-2017 to 2023,2017 to 2023,DATE,,,en,1,,,,,,
-fall 2025,fall 2025,DATE,,,en,1,,,,,,
-six seasons,six seasons,DATE,,,en,1,,,,,,
-a white Christmas,a white Christmas,DATE,,,en,1,,,,,,
-92%,92%,PERCENT,,,en,1,,,,,,
-Next Year,Next Year,DATE,,,en,1,,,,,,
-1990s,1990s,DATE,,,en,1,,,,,,
-Serengeti,Serengeti,PRODUCT,0.4444444444444445,0.6611111111111111,en,1,,,,,,
-the Great Migration,the Great Migration,EVENT,,,en,1,,,,,,
-last year's,last year's,DATE,,,en,1,,,,,,
-New AI Holiday,New AI Holiday,EVENT,,,en,1,,,,,,
-"January 13, 2017","January 13, 2017",DATE,,,en,1,,,,,,
-early today,early today,TIME,,,en,1,,,,,,
-Kagbeni,Kagbeni,NORP,,,en,1,,,,,,
-hp,hp,PRODUCT,,,en,1,,,,,,
-BMW GS,BMW GS,PRODUCT,,,en,1,,,,,,
-10 Inches,10 Inches,QUANTITY,,,en,1,,,,,,
-1 Million,1 Million,CARDINAL,,,en,1,,,,,,
-+4613,+4613,NORP,,,en,1,,,,,,
-noon,noon,TIME,,,en,1,,,,,,
-219,219,CARDINAL,,,en,1,,,,,,
-the John Ball Zoo,the John Ball Zoo,FAC,,,en,1,,,,,,
-French,French,NORP,,,en,1,,,,,,
-2015/05/07()03:25:20,2015/05/07()03:25:20,CARDINAL,,,en,1,,,,,,
-+48453 chars,+48453 chars,WORK_OF_ART,,,en,1,,,,,,
-20(11,20(11,CARDINAL,,,en,1,,,,,,
-Kota,Kota,WORK_OF_ART,,,en,1,,,,,,
-Creed Shadows,Creed Shadows,WORK_OF_ART,,,en,1,,,,,,
-seasons,seasons,DATE,,,en,1,,,,,,
-+6197 chars,+6197 chars,WORK_OF_ART,,,en,1,,,,,,
-"this Saturday, Nov. 8","this Saturday, Nov. 8",DATE,,,en,1,,,,,,
-this coming weekend,this coming weekend,DATE,,,en,1,,,,,,
-at least the fourth century,at least the fourth century,DATE,,,en,1,,,,,,
-Romans,Romans,NORP,,,en,1,,,,,,
-Snowtunnel,Snowtunnel,NORP,,,en,1,,,,,,
-Mustang,Mustang,PRODUCT,0.0625,0.10833333333333334,en,1,,,,,,
-the next 3 months of winter,the next 3 months of winter,DATE,,,en,1,,,,,,
-Coke,Coke,PRODUCT,,,en,1,,,,,,
-La,La,WORK_OF_ART,,,en,1,,,,,,
-Monday Flurries,Monday Flurries,WORK_OF_ART,,,en,1,,,,,,
-five,five,CARDINAL,,,en,1,,,,,,
-GOG,GOG,PRODUCT,,,en,1,,,,,,
-9,9,CARDINAL,,,en,1,,,,,,
-Nine New International Ski Resorts,Nine New International Ski Resorts,EVENT,,,en,1,,,,,,
-"4,000","4,000",CARDINAL,,,en,1,,,,,,
-50 years,50 years,DATE,,,en,1,,,,,,
-only two months,only two months,DATE,,,en,1,,,,,,
-799,799,MONEY,,,en,1,,,,,,
-this past week,this past week,DATE,,,en,1,,,,,,
-the next month,the next month,DATE,,,en,1,,,,,,
-"Release Description:
- Link","Release Description:
- Link",WORK_OF_ART,,,en,1,,,,,,
-Stray,Stray,PRODUCT,,,en,1,,,,,,
-the season next week,the season next week,DATE,,,en,1,,,,,,
-Days,Days,DATE,,,en,1,,,,,,
-just its third season,just its third season,DATE,,,en,1,,,,,,
-24,24,CARDINAL,,,en,1,,,,,,
-this months,this months,DATE,,,en,1,,,,,,
-The new month,The new month,DATE,,,en,1,,,,,,
-Wallpapers Edition,Wallpapers Edition,EVENT,,,en,1,,,,,,
-35-34,35-34,DATE,,,en,1,,,,,,
-800,800,CARDINAL,,,en,1,,,,,,
-the summer,the summer,DATE,,,en,1,,,,,,
-90,90,CARDINAL,,,en,1,,,,,,
-Japanese,Japanese,NORP,,,en,1,,,,,,
-+2934,+2934,NORP,,,en,1,,,,,,
-2.0,2.0,CARDINAL,,,en,1,,,,,,
-Fallout 3,Fallout 3,LAW,,,en,1,,,,,,
-Secret Wars,Secret Wars,PRODUCT,,,en,1,,,,,,
-New Day',New Day',DATE,,,en,1,,,,,,
-+3323 chars,+3323 chars,WORK_OF_ART,,,en,1,,,,,,
-Lanterns,Lanterns,WORK_OF_ART,,,en,1,,,,,,
-Laugardalsvollur Stadium,Laugardalsvollur Stadium,FAC,,,en,1,,,,,,
-Maitighar,Maitighar,NORP,,,en,1,,,,,,
-664,664,MONEY,,,en,1,,,,,,
-Challenger,Challenger,PRODUCT,,,en,1,,,,,,
-28mm,28mm,QUANTITY,,,en,1,,,,,,
-35mm,35mm,QUANTITY,,,en,1,,,,,,
-9/10,9/10,CARDINAL,,,en,1,,,,,,
-Halloweens,Halloweens,DATE,,,en,1,,,,,,
-the high 60s and,the high 60s and,DATE,,,en,1,,,,,,
-the month of October,the month of October,DATE,,,en,1,,,,,,
-other months,other months,DATE,,,en,1,,,,,,
-that months,that months,DATE,,,en,1,,,,,,
-6 a.m. to 7 p.m.,6 a.m. to 7 p.m.,TIME,,,en,1,,,,,,
-Samiti,Samiti,NORP,,,en,1,,,,,,
-close to five decades,close to five decades,DATE,,,en,1,,,,,,
-Wednesday to Thursday,Wednesday to Thursday,DATE,,,en,1,,,,,,
-one day,one day,DATE,,,en,1,,,,,,
-Last week,Last week,DATE,,,en,1,,,,,,
-all week,all week,DATE,,,en,1,,,,,,
-A week,A week,DATE,,,en,1,,,,,,
-all seasons,all seasons,DATE,,,en,1,,,,,,
-the North Star Cup,the North Star Cup,EVENT,,,en,1,,,,,,
-yesterday,yesterday,DATE,,,en,1,,,,,,
-English,English,LANGUAGE,,,en,1,,,,,,
-5G Unlocked Obsidian,5G Unlocked Obsidian,QUANTITY,,,en,1,,,,,,
-128,128,CARDINAL,,,en,1,,,,,,
-30/28 days,30/28 days,DATE,,,en,1,,,,,,
-299,299,MONEY,,,en,1,,,,,,
-$30/28-Day,$30/28-Day,MONEY,,,en,1,,,,,,
-$299 Delivered,$299 Delivered,MONEY,,,en,1,,,,,,
-Fiction,Fiction,WORK_OF_ART,,,en,1,,,,,,
+",WORK_OF_ART,,,en,1.0
+2022,2022,DATE,,,en,1.0
+Ukrainian,Ukrainian,NORP,,,en,1.0
+the 1980s,the 1980s,DATE,,,en,1.0
+The Decade,The Decade,DATE,,,en,1.0
+Volodymy,Volodymy,WORK_OF_ART,,,en,1.0
+55,55,CARDINAL,,,en,1.0
+the Christmas season,the Christmas season,DATE,,,en,1.0
+25 Years,25 Years,DATE,,,en,1.0
+About one inch,About one inch,QUANTITY,,,en,1.0
+Delta 2,Delta 2,PRODUCT,,,en,1.0
+Old Man Winter,Old Man Winter,DATE,,,en,1.0
+"50,000 tonnes","50,000 tonnes",QUANTITY,,,en,1.0
+Honor Flight,Honor Flight,WORK_OF_ART,,,en,1.0
+Semi,Semi,PRODUCT,,,en,1.0
+"more than 1,100","more than 1,100",CARDINAL,,,en,1.0
+6.46.Shipping,6.46.Shipping,MONEY,,,en,1.0
+541,541,CARDINAL,,,en,1.0
+9.41,9.41,MONEY,,,en,1.0
+around 7 a.m. Tuesday,around 7 a.m. Tuesday,TIME,,,en,1.0
+"5-6
+","5-6
+",QUANTITY,,,en,1.0
+More than 200 million,More than 200 million,CARDINAL,,,en,1.0
+The Dream Life of Mr. Kim:,The Dream Life of Mr. Kim:,WORK_OF_ART,,,en,1.0
+each passing day,each passing day,DATE,,,en,1.0
+the day…,the day…,DATE,,,en,1.0
+"About 375,000","About 375,000",CARDINAL,,,en,1.0
+5:01 PM,5:01 PM,TIME,,,en,1.0
+8 a.m.,8 a.m.,TIME,,,en,1.0
+the holiday season,the holiday season,DATE,,,en,1.0
+Veterans Day,Veterans Day,DATE,,,en,1.0
+Prehistoric Planet:,Prehistoric Planet:,WORK_OF_ART,,,en,1.0
+Promises Survival,Promises Survival,WORK_OF_ART,,,en,1.0
+22 Years Later,22 Years Later,DATE,,,en,1.0
+November 2026,November 2026,DATE,,,en,1.0
+70%,70%,PERCENT,,,en,1.0
+6-28,6-28,CARDINAL,,,en,1.0
+Blue Ridge,Blue Ridge,FAC,0.16666666666666666,0.43333333333333335,en,1.0
+Nov. 10—SIOUX,Nov. 10—SIOUX,DATE,,,en,1.0
+11th,11th,ORDINAL,,,en,1.0
+the Best International Feature Film,the Best International Feature Film,EVENT,,,en,1.0
+Oscar,Oscar,WORK_OF_ART,,,en,1.0
+Asian,Asian,NORP,,,en,1.0
+more than 30,more than 30,CARDINAL,,,en,1.0
+February 22,February 22,DATE,,,en,1.0
++1280,+1280,NORP,,,en,1.0
+autumn,autumn,DATE,,,en,1.0
+2026.Marriott,2026.Marriott,CARDINAL,,,en,1.0
+40,40,CARDINAL,,,en,1.0
+York Lions Stadium,York Lions Stadium,FAC,,,en,1.0
+27 September 2025,27 September 2025,DATE,,,en,1.0
+12 November 2025,12 November 2025,DATE,,,en,1.0
+early Wednesday,early Wednesday,TIME,,,en,1.0
+New Yorkers,New Yorkers,NORP,,,en,1.0
+Winter Running Gear Must-Haves That Will Keep You Toasty,Winter Running Gear Must-Haves That Will Keep You Toasty,WORK_OF_ART,,,en,1.0
+the end of the year,the end of the year,DATE,,,en,1.0
+An NYC Ferry,An NYC Ferry,FAC,,,en,1.0
+20s,20s,DATE,,,en,1.0
+Muggles,Muggles,WORK_OF_ART,,,en,1.0
+Asian World Film Festival,Asian World Film Festival,EVENT,,,en,1.0
+"February 22, 2026","February 22, 2026",DATE,,,en,1.0
++3480,+3480,NORP,,,en,1.0
+35.24,35.24,MONEY,,,en,1.0
+a big week,a big week,DATE,,,en,1.0
++182 chars,+182 chars,WORK_OF_ART,,,en,1.0
+1 to 3 inches,1 to 3 inches,QUANTITY,,,en,1.0
+90%,90%,PERCENT,,,en,1.0
+Just over 22 miles,Just over 22 miles,QUANTITY,,,en,1.0
+last fall,last fall,DATE,,,en,1.0
+fifth,fifth,ORDINAL,,,en,1.0
+400m,400m,QUANTITY,,,en,1.0
+70,70,MONEY,,,en,1.0
+The Hunger Games Deluxe Edition Box Set,The Hunger Games Deluxe Edition Box Set,EVENT,,,en,1.0
+Nov 25,Nov 25,DATE,,,en,1.0
+Southmoor Nature Reserve,Southmoor Nature Reserve,FAC,,,en,1.0
+Wednesday night,Wednesday night,TIME,,,en,1.0
+a huge day,a huge day,DATE,,,en,1.0
+33,33,MONEY,,,en,1.0
+24.74,24.74,MONEY,,,en,1.0
+less than one inch,less than one inch,QUANTITY,,,en,1.0
+"November 30 – February 22, 2026","November 30 – February 22, 2026",DATE,,,en,1.0
+60%,60%,PERCENT,,,en,1.0
+44,44,CARDINAL,,,en,1.0
+"as over 7,000","as over 7,000",CARDINAL,,,en,1.0
++5260 chars,+5260 chars,WORK_OF_ART,,,en,1.0
+"November 9, 2025","November 9, 2025",DATE,,,en,1.0
++3323 chars,+3323 chars,WORK_OF_ART,,,en,1.0
+a white Christmas,a white Christmas,DATE,,,en,1.0
+Annapurna Base Camp,Annapurna Base Camp,FAC,,,en,1.0
+early today,early today,TIME,,,en,1.0
+Himalayan,Himalayan,NORP,,,en,1.0
+Kagbeni,Kagbeni,NORP,,,en,1.0
+Mustang,Mustang,PRODUCT,0.125,0.21666666666666667,en,1.0
++6197 chars,+6197 chars,WORK_OF_ART,,,en,1.0
+2015/05/07()03:25:20,2015/05/07()03:25:20,CARDINAL,,,en,1.0
+French,French,NORP,,,en,1.0
+the John Ball Zoo,the John Ball Zoo,FAC,,,en,1.0
+noon,noon,TIME,,,en,1.0
+Years ago,Years ago,DATE,,,en,1.0
+26 October 2025,26 October 2025,DATE,,,en,1.0
+"October 25, 2025","October 25, 2025",DATE,,,en,1.0
+43,43,MONEY,,,en,1.0
+Recent Past,Recent Past,DATE,,,en,1.0
+560—Study,560—Study,MONEY,,,en,1.0
+up to 90 kilometres per hour,up to 90 kilometres per hour,QUANTITY,,,en,1.0
++7303,+7303,CARDINAL,,,en,1.0
+Waymos,Waymos,NORP,,,en,1.0
+21 days later,21 days later,DATE,,,en,1.0
+Ten minutes,Ten minutes,TIME,,,en,1.0
+days,days,DATE,,,en,1.0
+Winter Outage… Winter,Winter Outage… Winter,EVENT,,,en,1.0
+more than 200,more than 200,CARDINAL,,,en,1.0
+$160 billion,$160 billion,MONEY,,,en,1.0
 "concept</li>
 
 
@@ -571,93 +443,240 @@ Fiction,Fiction,WORK_OF_ART,,,en,1,,,,,,
 
 
 
-",PRODUCT,,,en,1,,,,,,
-Nov. 13,Nov. 13,DATE,,,en,1,,,,,,
-5:01 PM,5:01 PM,TIME,,,en,1,,,,,,
-"November 9, 2025","November 9, 2025",DATE,,,en,1,,,,,,
-Second,Second,ORDINAL,,,en,1,,,,,,
-$160 billion,$160 billion,MONEY,,,en,1,,,,,,
-more than 200,more than 200,CARDINAL,,,en,1,,,,,,
-first snowfall of season,first snowfall of season,DATE,,,en,1,,,,,,
-the season Sunday,the season Sunday,DATE,,,en,1,,,,,,
-a record 39 days,a record 39 days,DATE,,,en,1,,,,,,
-Air Max Goadome,Air Max Goadome,PRODUCT,,,en,1,,,,,,
-Baroque Brown,Baroque Brown,WORK_OF_ART,,,en,1,,,,,,
-six years,six years,DATE,,,en,1,,,,,,
-Sunday Night Open Thread,Sunday Night Open Thread,DATE,,,en,1,,,,,,
-evening,evening,TIME,,,en,1,,,,,,
-First snowfall of season,First snowfall of season,DATE,,,en,1,,,,,,
-6am on,6am on,TIME,,,en,1,,,,,,
-up to 15 inches,up to 15 inches,QUANTITY,,,en,1,,,,,,
-Snow To Strike,Snow To Strike,FAC,,,en,1,,,,,,
-as 15 Inches,as 15 Inches,QUANTITY,,,en,1,,,,,,
-Winter Storm Warnings,Winter Storm Warnings,WORK_OF_ART,,,en,1,,,,,,
-the Great Lakesit,the Great Lakesit,EVENT,,,en,1,,,,,,
-665,665,MONEY,,,en,1,,,,,,
-Around 7 p.m.,Around 7 p.m.,TIME,,,en,1,,,,,,
-the coming days,the coming days,DATE,,,en,1,,,,,,
+",PRODUCT,,,en,1.0
+all seasons,all seasons,DATE,,,en,1.0
+yesterday,yesterday,DATE,,,en,1.0
+La,La,WORK_OF_ART,,,en,1.0
+Laugardalsvollur Stadium,Laugardalsvollur Stadium,FAC,,,en,1.0
+five,five,CARDINAL,,,en,1.0
+Maitighar,Maitighar,NORP,,,en,1.0
+VPN,VPN,PRODUCT,,,en,1.0
+just its third season,just its third season,DATE,,,en,1.0
+17,17,CARDINAL,,,en,1.0
+24,24,CARDINAL,,,en,1.0
+this months,this months,DATE,,,en,1.0
+The new month,The new month,DATE,,,en,1.0
+Wallpapers Edition,Wallpapers Edition,EVENT,,,en,1.0
+the summer,the summer,DATE,,,en,1.0
+tonight,tonight,TIME,,,en,1.0
+800,800,CARDINAL,,,en,1.0
+90,90,CARDINAL,,,en,1.0
 "Oh Happy Dawn Photography
 ","Oh Happy Dawn Photography
-",WORK_OF_ART,,,en,1,,,,,,
-over weekend,over weekend,DATE,,,en,1,,,,,,
-Brazilian,Brazilian,NORP,,,en,1,,,,,,
-Saturn,Saturn,PRODUCT,,,en,1,,,,,,
-the 17th century,the 17th century,DATE,,,en,1,,,,,,
-"Friday, Oct. 17","Friday, Oct. 17",DATE,,,en,1,,,,,,
-Mini Crossword,Mini Crossword,WORK_OF_ART,,,en,1,,,,,,
-European,European,NORP,,,en,1,,,,,,
-This Week,This Week,DATE,,,en,1,,,,,,
-the 33rd minute,the 33rd minute,TIME,,,en,1,,,,,,
-Hungarian,Hungarian,NORP,,,en,1,,,,,,
-38,38,CARDINAL,,,en,1,,,,,,
-Air Max Boot,Air Max Boot,PRODUCT,,,en,1,,,,,,
-Its Sweetest Hour,Its Sweetest Hour,TIME,,,en,1,,,,,,
-Winter Outage… Winter,Winter Outage… Winter,EVENT,,,en,1,,,,,,
-about the year,about the year,DATE,,,en,1,,,,,,
-several inches,several inches,QUANTITY,,,en,1,,,,,,
-up to 90 kilometres per hour,up to 90 kilometres per hour,QUANTITY,,,en,1,,,,,,
-Great Lakes,Great Lakes,FAC,0.13333333333333333,0.2916666666666667,en,1,,,,,,
-Up to 2 feet,Up to 2 feet,QUANTITY,,,en,1,,,,,,
-560—Study,560—Study,MONEY,,,en,1,,,,,,
-between 5 and 10 cm,between 5 and 10 cm,CARDINAL,,,en,1,,,,,,
-Fri,Fri,DATE,,,en,1,,,,,,
-Recent Past,Recent Past,DATE,,,en,1,,,,,,
-the years,the years,DATE,,,en,1,,,,,,
-43,43,MONEY,,,en,1,,,,,,
-This Success Story,This Success Story,WORK_OF_ART,,,en,1,,,,,,
-"October 25, 2025","October 25, 2025",DATE,,,en,1,,,,,,
-26 October 2025,26 October 2025,DATE,,,en,1,,,,,,
-"Friday, Nov. 7","Friday, Nov. 7",DATE,,,en,1,,,,,,
-multiple days,multiple days,DATE,,,en,1,,,,,,
-Years ago,Years ago,DATE,,,en,1,,,,,,
-+5260 chars,+5260 chars,WORK_OF_ART,,,en,1,,,,,,
-November 7,November 7,DATE,,,en,1,,,,,,
-Swedish,Swedish,NORP,,,en,1,,,,,,
-2021,2021,DATE,,,en,1,,,,,,
-Polestar 2,Polestar 2,FAC,,,en,1,,,,,,
-10 years,10 years,DATE,,,en,1,,,,,,
-early November,early November,DATE,,,en,1,,,,,,
-about six years ago,about six years ago,DATE,,,en,1,,,,,,
-sixth,sixth,ORDINAL,,,en,1,,,,,,
-72%,72%,PERCENT,,,en,1,,,,,,
-2017,2017,DATE,,,en,1,,,,,,
-Ten minutes,Ten minutes,TIME,,,en,1,,,,,,
-Game of Thrones,Game of Thrones,EVENT,,,en,1,,,,,,
-Sunday morning,Sunday morning,TIME,,,en,1,,,,,,
-21 days later,21 days later,DATE,,,en,1,,,,,,
-a few months ago,a few months ago,DATE,,,en,1,,,,,,
-$204 +,$204 +,MONEY,,,en,1,,,,,,
-+12 chars,+12 chars,WORK_OF_ART,,,en,1,,,,,,
-Snowflake,Snowflake,PRODUCT,,,en,1,,,,,,
-1.0.1,1.0.1,CARDINAL,,,en,1,,,,,,
-"Sunday, Nov. 9 through 6 a.m.","Sunday, Nov. 9 through 6 a.m.",DATE,,,en,1,,,,,,
-6 a.m.,6 a.m.,TIME,,,en,1,,,,,,
-2025-11-09,2025-11-09,DATE,,,en,1,,,,,,
-Winter Storm,Winter Storm,WORK_OF_ART,,,en,1,,,,,,
-+1338,+1338,NORP,,,en,1,,,,,,
-the next few days,the next few days,DATE,,,en,1,,,,,,
-about 11:30 a.m.,about 11:30 a.m.,TIME,,,en,1,,,,,,
-Waymos,Waymos,NORP,,,en,1,,,,,,
-2023,2023,DATE,,,en,1,,,,,,
-+7303,+7303,CARDINAL,,,en,1,,,,,,
-a few days,a few days,DATE,,,en,1,,,,,,
+",WORK_OF_ART,,,en,1.0
+2011,2011,DATE,,,en,1.0
+35-34,35-34,DATE,,,en,1.0
+3.5,3.5,CARDINAL,,,en,1.0
+35%,35%,PERCENT,,,en,1.0
+60 degrees,60 degrees,QUANTITY,,,en,1.0
+Stray,Stray,PRODUCT,,,en,1.0
+"Release Description:
+ Link","Release Description:
+ Link",WORK_OF_ART,,,en,1.0
+the next month,the next month,DATE,,,en,1.0
+this past week,this past week,DATE,,,en,1.0
+50 years,50 years,DATE,,,en,1.0
+"4,000","4,000",CARDINAL,,,en,1.0
+GOG,GOG,PRODUCT,,,en,1.0
+2.0,2.0,CARDINAL,,,en,1.0
+Fallout 3,Fallout 3,LAW,,,en,1.0
+Wednesday to Thursday,Wednesday to Thursday,DATE,,,en,1.0
+Appalachians,Appalachians,NORP,,,en,1.0
+Samiti,Samiti,NORP,,,en,1.0
+six years,six years,DATE,,,en,1.0
+38,38,CARDINAL,,,en,1.0
+7.5,7.5,CARDINAL,,,en,1.0
+79 degrees,79 degrees,QUANTITY,,,en,1.0
+386,386,MONEY,,,en,1.0
+Oct. 14,Oct. 14,DATE,,,en,1.0
+another several inches,another several inches,QUANTITY,,,en,1.0
+Oct. 12,Oct. 12,DATE,,,en,1.0
+7 inches,7 inches,QUANTITY,,,en,1.0
+8 inches,8 inches,QUANTITY,,,en,1.0
+10 inches,10 inches,QUANTITY,,,en,1.0
+early spring,early spring,DATE,,,en,1.0
+30 centimetres,30 centimetres,QUANTITY,,,en,1.0
+the Second World War,the Second World War,EVENT,,,en,1.0
+At Play in the Fields of the Lord,At Play in the Fields of the Lord,WORK_OF_ART,,,en,1.0
+“The Snow Leopard”,“The Snow Leopard”,WORK_OF_ART,,,en,1.0
+True Nature,True Nature,WORK_OF_ART,,,en,1.0
+late Monday,late Monday,DATE,,,en,1.0
+six feet,six feet,QUANTITY,,,en,1.0
+a few minutes,a few minutes,TIME,,,en,1.0
+"above 4,000 feet","above 4,000 feet",QUANTITY,,,en,1.0
++2570 chars,+2570 chars,WORK_OF_ART,,,en,1.0
+3rd,3rd,ORDINAL,,,en,1.0
+38-40,38-40,CARDINAL,,,en,1.0
+22,22,CARDINAL,,,en,1.0
+3rd season,3rd season,DATE,,,en,1.0
+11.5,11.5,CARDINAL,,,en,1.0
+0%,0%,PERCENT,,,en,1.0
+63 degrees,63 degrees,QUANTITY,,,en,1.0
+Noon,Noon,TIME,,,en,1.0
+this past weekend,this past weekend,DATE,,,en,1.0
+580,580,CARDINAL,,,en,1.0
+Hundreds,Hundreds,CARDINAL,,,en,1.0
+Connections:,Connections:,WORK_OF_ART,,,en,1.0
+Connections,Connections,PRODUCT,,,en,1.0
+the morning to afternoon,the morning to afternoon,TIME,,,en,1.0
+October day,October day,DATE,,,en,1.0
+1 p.m.,1 p.m.,TIME,,,en,1.0
+Hungarian,Hungarian,NORP,,,en,1.0
+Mini Crossword,Mini Crossword,WORK_OF_ART,,,en,1.0
+"Friday, Oct. 17","Friday, Oct. 17",DATE,,,en,1.0
+Around 7 p.m.,Around 7 p.m.,TIME,,,en,1.0
+the Great Lakesit,the Great Lakesit,EVENT,,,en,1.0
+early January,early January,DATE,,,en,1.0
+Oct. 16,Oct. 16,DATE,,,en,1.0
+Gzhelian,Gzhelian,NORP,,,en,1.0
+The Sender IN Jacket,The Sender IN Jacket,WORK_OF_ART,,,en,1.0
+This fall season,This fall season,DATE,,,en,1.0
+Jan… [,Jan… [,DATE,,,en,1.0
+earlier this week,earlier this week,DATE,,,en,1.0
+thousands of dollars,thousands of dollars,MONEY,,,en,1.0
+"Tuesday, Oct. 14","Tuesday, Oct. 14",DATE,,,en,1.0
+Two,Two,CARDINAL,,,en,1.0
+the Year 2005,the Year 2005,DATE,,,en,1.0
+Longer Growing Season,Longer Growing Season,EVENT,,,en,1.0
+Patriot,Patriot,PRODUCT,,,en,1.0
+10/14/2025 8:36:18 AM PDT,10/14/2025 8:36:18 AM PDT,TIME,,,en,1.0
+Car Crash Newsmax,Car Crash Newsmax,WORK_OF_ART,,,en,1.0
+Monday afternoon,Monday afternoon,TIME,,,en,1.0
+Car Crash,Car Crash,WORK_OF_ART,,,en,1.0
+up to 16 inches,up to 16 inches,QUANTITY,,,en,1.0
+16 Inches,16 Inches,QUANTITY,,,en,1.0
+Anti-Hero,Anti-Hero,WORK_OF_ART,,,en,1.0
+Blank Space,Blank Space,WORK_OF_ART,,,en,1.0
+The early morning hours,The early morning hours,TIME,,,en,1.0
+Days,Days,DATE,,,en,1.0
+799,799,MONEY,,,en,1.0
+Second,Second,ORDINAL,,,en,1.0
+about 11:30 a.m.,about 11:30 a.m.,TIME,,,en,1.0
+WINTER,WINTER,DATE,,,en,1.0
+Monday night,Monday night,TIME,,,en,1.0
+Winter Storm Watch,Winter Storm Watch,WORK_OF_ART,,,en,1.0
+2023,2023,DATE,,,en,1.0
+sixth,sixth,ORDINAL,,,en,1.0
+early November,early November,DATE,,,en,1.0
+about the year,about the year,DATE,,,en,1.0
+10 years,10 years,DATE,,,en,1.0
+several inches,several inches,QUANTITY,,,en,1.0
+1-2 feet,1-2 feet,QUANTITY,,,en,1.0
+Great Lakes,Great Lakes,FAC,0.2105263157894737,0.46052631578947373,en,1.0
+Up to 2 feet,Up to 2 feet,QUANTITY,,,en,1.0
+between 5 and 10 cm,between 5 and 10 cm,CARDINAL,,,en,1.0
+Fri,Fri,DATE,,,en,1.0
+15 centimetres,15 centimetres,QUANTITY,,,en,1.0
+the years,the years,DATE,,,en,1.0
+19th-century,19th-century,DATE,,,en,1.0
+This Success Story,This Success Story,WORK_OF_ART,,,en,1.0
+"Friday, Nov. 7","Friday, Nov. 7",DATE,,,en,1.0
+multiple days,multiple days,DATE,,,en,1.0
+15 cm,15 cm,QUANTITY,,,en,1.0
+10 Inches,10 Inches,QUANTITY,,,en,1.0
+November 7,November 7,DATE,,,en,1.0
+2021,2021,DATE,,,en,1.0
+Polestar 2,Polestar 2,FAC,,,en,1.0
+Nov. 13,Nov. 13,DATE,,,en,1.0
+A week,A week,DATE,,,en,1.0
+all week,all week,DATE,,,en,1.0
+Last week,Last week,DATE,,,en,1.0
+early morning,early morning,TIME,,,en,1.0
+the next few days,the next few days,DATE,,,en,1.0
+only two months,only two months,DATE,,,en,1.0
++1338,+1338,NORP,,,en,1.0
+the past few days,the past few days,DATE,,,en,1.0
+first snowfall of season,first snowfall of season,DATE,,,en,1.0
+the season Sunday,the season Sunday,DATE,,,en,1.0
+a record 39 days,a record 39 days,DATE,,,en,1.0
+Air Max Goadome,Air Max Goadome,PRODUCT,,,en,1.0
+Baroque Brown,Baroque Brown,WORK_OF_ART,,,en,1.0
+Air Max Boot,Air Max Boot,PRODUCT,,,en,1.0
+Its Sweetest Hour,Its Sweetest Hour,TIME,,,en,1.0
+1969,1969,DATE,,,en,1.0
+over 5 cm,over 5 cm,QUANTITY,,,en,1.0
+10 cm,10 cm,QUANTITY,,,en,1.0
+Up to,Up to,CARDINAL,,,en,1.0
+about six years ago,about six years ago,DATE,,,en,1.0
+72%,72%,PERCENT,,,en,1.0
+2017,2017,DATE,,,en,1.0
+Gunpowder,Gunpowder,PRODUCT,,,en,1.0
+Game of Thrones,Game of Thrones,EVENT,,,en,1.0
+Sunday morning,Sunday morning,TIME,,,en,1.0
+Michelin CrossClimate2,Michelin CrossClimate2,PRODUCT,,,en,1.0
+a few months ago,a few months ago,DATE,,,en,1.0
+204,204,MONEY,,,en,1.0
+$204 +,$204 +,MONEY,,,en,1.0
++12 chars,+12 chars,WORK_OF_ART,,,en,1.0
+Snowflake,Snowflake,PRODUCT,,,en,1.0
+1.0.1,1.0.1,CARDINAL,,,en,1.0
+"Sunday, Nov. 9 through 6 a.m.","Sunday, Nov. 9 through 6 a.m.",DATE,,,en,1.0
+6 a.m.,6 a.m.,TIME,,,en,1.0
+2025-11-09,2025-11-09,DATE,,,en,1.0
+Winter Storm,Winter Storm,WORK_OF_ART,,,en,1.0
+early next week,early next week,DATE,,,en,1.0
+1 Million,1 Million,CARDINAL,,,en,1.0
++4613,+4613,NORP,,,en,1.0
+219,219,CARDINAL,,,en,1.0
+1990s,1990s,DATE,,,en,1.0
+Serengeti,Serengeti,PRODUCT,0.4444444444444445,0.6611111111111111,en,1.0
+the Great Migration,the Great Migration,EVENT,,,en,1.0
+last year's,last year's,DATE,,,en,1.0
+New AI Holiday,New AI Holiday,EVENT,,,en,1.0
+"January 13, 2017","January 13, 2017",DATE,,,en,1.0
+Coke,Coke,PRODUCT,,,en,1.0
+fall 2025,fall 2025,DATE,,,en,1.0
+the season next week,the season next week,DATE,,,en,1.0
+Secret Wars,Secret Wars,PRODUCT,,,en,1.0
+New Day',New Day',DATE,,,en,1.0
+Lanterns,Lanterns,WORK_OF_ART,,,en,1.0
+664,664,MONEY,,,en,1.0
+Challenger,Challenger,PRODUCT,,,en,1.0
+28mm,28mm,QUANTITY,,,en,1.0
+35mm,35mm,QUANTITY,,,en,1.0
+9/10,9/10,CARDINAL,,,en,1.0
+Halloweens,Halloweens,DATE,,,en,1.0
+the high 60s and,the high 60s and,DATE,,,en,1.0
+the month of October,the month of October,DATE,,,en,1.0
+other months,other months,DATE,,,en,1.0
+that months,that months,DATE,,,en,1.0
+6 a.m. to 7 p.m.,6 a.m. to 7 p.m.,TIME,,,en,1.0
+close to five decades,close to five decades,DATE,,,en,1.0
++2934,+2934,NORP,,,en,1.0
+Japanese,Japanese,NORP,,,en,1.0
+11,11,CARDINAL,,,en,1.0
+9,9,CARDINAL,,,en,1.0
+Nine New International Ski Resorts,Nine New International Ski Resorts,EVENT,,,en,1.0
+Next Year,Next Year,DATE,,,en,1.0
+92%,92%,PERCENT,,,en,1.0
+next year,next year,DATE,,,en,1.0
+Snowtunnel,Snowtunnel,NORP,,,en,1.0
+1.5,1.5,CARDINAL,,,en,1.0
+72 degrees,72 degrees,QUANTITY,,,en,1.0
+8 p.m.,8 p.m.,TIME,,,en,1.0
++48453 chars,+48453 chars,WORK_OF_ART,,,en,1.0
+20(11,20(11,CARDINAL,,,en,1.0
+Kota,Kota,WORK_OF_ART,,,en,1.0
+Creed Shadows,Creed Shadows,WORK_OF_ART,,,en,1.0
+seasons,seasons,DATE,,,en,1.0
+seven,seven,CARDINAL,,,en,1.0
+"this Saturday, Nov. 8","this Saturday, Nov. 8",DATE,,,en,1.0
+this coming weekend,this coming weekend,DATE,,,en,1.0
+at least the fourth century,at least the fourth century,DATE,,,en,1.0
+Romans,Romans,NORP,,,en,1.0
+the next 3 months of winter,the next 3 months of winter,DATE,,,en,1.0
+six seasons,six seasons,DATE,,,en,1.0
+BMW GS,BMW GS,PRODUCT,,,en,1.0
+hp,hp,PRODUCT,,,en,1.0
+a day,a day,DATE,,,en,1.0
+October 13th,October 13th,DATE,,,en,1.0
+weeks,weeks,DATE,,,en,1.0
+"February 17, 2022","February 17, 2022",DATE,,,en,1.0
+5 Premiere,5 Premiere,EVENT,,,en,1.0
+Snowfall,Snowfall,WORK_OF_ART,,,en,1.0
+the 1990s,the 1990s,DATE,,,en,1.0
+90s,90s,CARDINAL,,,en,1.0
+Snowfall’ Spinoff Exploring,Snowfall’ Spinoff Exploring,WORK_OF_ART,,,en,1.0
+African American,African American,NORP,,,en,1.0
+2017 to 2023,2017 to 2023,DATE,,,en,1.0
+the end of November,the end of November,DATE,,,en,1.0
