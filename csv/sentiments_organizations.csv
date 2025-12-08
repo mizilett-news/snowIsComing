@@ -1,308 +1,348 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Environment Canada,Environment Canada,ORG,0.11013824884792625,0.5089093701996926,en,9.3
-The National Weather Service,The National Weather Service,ORG,0.014534883720930224,0.38662790697674415,en,8.600000000000001
+the National Weather Service,the National Weather Service,ORG,0.07358892385732875,0.3795503235687284,en,16.300000000000004
+Environment Canada,Environment Canada,ORG,0.11103500442210117,0.4455553228133872,en,15.500000000000004
+The National Weather Service,The National Weather Service,ORG,0.051695230998509686,0.35435295578738196,en,12.200000000000003
+BYU,BYU,ORG,-0.018292682926829257,0.6646341463414634,en,8.200000000000001
 the National Weather Service (NWS,the National Weather Service (NWS,ORG,0.11960995085995083,0.6016653016653016,en,7.400000000000001
 La Niña,La Niña,ORG,-0.2040441176470588,0.409313725490196,en,6.800000000000001
+AP,AP,ORG,0.0630673363095238,0.2899305555555555,en,6.4
 Status Yellow,Status Yellow,ORG,0.009090909090909092,0.1272727272727273,en,5.5
+UCF,UCF,ORG,0.7757575757575759,1.5345454545454542,en,5.5
+NWS,NWS,ORG,0.11484526112185685,0.667311411992263,en,4.7
+the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.18617021276595744,0.4787234042553191,en,4.7
 The Met Office,The Met Office,ORG,0.03985507246376812,0.09420289855072465,en,4.6
 EU,EU,ORG,-0.05380434782608695,0.2231884057971015,en,4.6
 The National Weather Service (NWS,The National Weather Service (NWS,ORG,0.08116883116883117,0.23647186147186144,en,4.0
-the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.19736842105263158,0.493421052631579,en,3.8
-NWS,NWS,ORG,0.14204545454545453,0.7376395534290271,en,3.8
+National Weather Service,National Weather Service,ORG,0.14316239316239318,0.5202991452991452,en,3.9
 Atletico Ottawa,Atletico Ottawa,ORG,-0.1621621621621622,0.6486486486486487,en,3.6999999999999997
 NOAA,NOAA,ORG,-0.15571253071253074,0.5371621621621622,en,3.6999999999999997
-AP,AP,ORG,-0.02548262548262548,0.14864864864864868,en,3.6999999999999997
-the National Weather Service,the National Weather Service,ORG,0.12721934596934598,0.5091260091260092,en,3.6999999999999997
+CBS News,CBS News,ORG,-0.036936936936936934,0.4324324324324325,en,3.6999999999999997
 NASA,NASA,ORG,-0.15517241379310343,0.2528735632183908,en,2.9
-newsweek.com,newsweek.com,ORG,0.11830357142857144,0.25,en,2.8
-Cavalry FC,Cavalry FC,ORG,0.25446428571428575,1.549107142857143,en,2.8
+CBS Interactive Inc. All,CBS Interactive Inc. All,ORG,0.0,0.0,en,2.8
+Cavalry FC,Cavalry FC,ORG,0.25446428571428575,1.3883928571428572,en,2.8
 AccuWeather,AccuWeather,ORG,0.08571428571428574,0.19999999999999998,en,2.8
+newsweek.com,newsweek.com,ORG,0.11830357142857144,0.25,en,2.8
+Winter Weather Advisory,Winter Weather Advisory,ORG,-0.044642857142857144,0.6130952380952381,en,2.8
 FOX,FOX,ORG,0.049999999999999996,0.16428571428571428,en,2.8
 Costco,Costco,ORG,-0.023030045351473925,0.18778344671201816,en,2.8
 Amazon,Amazon,ORG,0.7898550724637678,2.0738440303657684,en,2.3000000000000007
-National Weather Service,National Weather Service,ORG,0.1468253968253968,0.6884920634920635,en,2.1
-The Old Farmer's,The Old Farmer's,ORG,-0.04999999999999999,0.2,en,2.0
 N,N,ORG,-0.19999999999999998,0.5,en,2.0
+The Old Farmer's,The Old Farmer's,ORG,-0.04999999999999999,0.2,en,2.0
 Arc Raiders,Arc Raiders,ORG,0.9535628844839366,2.1717931191615394,en,1.9000000000000008
-FAA,FAA,ORG,0.052631578947368425,0.15789473684210525,en,1.9
-Nasu-Shiobara,Nasu-Shiobara,ORG,0.14724310776942356,0.16917293233082706,en,1.9
-The Sporting News,The Sporting News,ORG,-0.006578947368421059,0.0,en,1.9
-The Independent,The Independent,ORG,0.10526315789473684,0.19736842105263158,en,1.9
-Big Tech,Big Tech,ORG,0.10526315789473684,0.19736842105263158,en,1.9
-Atmospheric Administration,Atmospheric Administration,ORG,0.13157894736842105,0.2368421052631579,en,1.9
-Burlington,Burlington,ORG,0.0,0.0,en,1.9
 Winter Storm Watch,Winter Storm Watch,ORG,0.0,0.0,en,1.9
-the FOX Forecast Center,the FOX Forecast Center,ORG,0.26370614035087725,0.3377192982456141,en,1.9
-Xinhua,Xinhua,ORG,0.05298402255639098,0.1831140350877193,en,1.9
-the Border Patrol,the Border Patrol,ORG,0.3157894736842105,0.5263157894736842,en,1.9
-Sapporo Kokusai Ski Resort,Sapporo Kokusai Ski Resort,ORG,0.11842105263157894,0.17543859649122806,en,1.9
-House,House,ORG,0.052631578947368425,0.15789473684210525,en,1.9
-The Finnish Meteorological Institute,The Finnish Meteorological Institute,ORG,0.023026315789473683,0.12828947368421054,en,1.9
 La Niña,La Niña,ORG,-0.21271929824561406,0.09210526315789473,en,1.9
+The Independent,The Independent,ORG,0.10526315789473684,0.19736842105263158,en,1.9
+Atmospheric Administration,Atmospheric Administration,ORG,0.13157894736842105,0.2368421052631579,en,1.9
+the FOX Forecast Center,the FOX Forecast Center,ORG,0.26370614035087725,0.3377192982456141,en,1.9
 Environment and Climate Change Canada,Environment and Climate Change Canada,ORG,0.0,0.0,en,1.9
-Climate Prediction Center,Climate Prediction Center,ORG,-0.10087719298245615,0.09210526315789473,en,1.9
-LNG,LNG,ORG,0.08026315789473686,0.10526315789473685,en,1.9
-CBS News,CBS News,ORG,-0.07192982456140351,0.3157894736842105,en,1.9
+Xinhua,Xinhua,ORG,0.05298402255639098,0.1831140350877193,en,1.9
+IMD,IMD,ORG,0.29766461608566874,0.9045112781954888,en,1.9
+SE Michigan,SE Michigan,ORG,-0.02467105263157894,0.19736842105263158,en,1.9
+the Border Patrol,the Border Patrol,ORG,0.3157894736842105,0.5263157894736842,en,1.9
+Chicago Sun-Times,Chicago Sun-Times,ORG,0.0,0.0,en,1.9
+The Finnish Meteorological Institute,The Finnish Meteorological Institute,ORG,0.023026315789473683,0.12828947368421054,en,1.9
+Nasu-Shiobara,Nasu-Shiobara,ORG,0.14724310776942356,0.16917293233082706,en,1.9
+Pahalgam,Pahalgam,ORG,0.6842105263157894,0.31578947368421056,en,1.9
+Michigan Snowstorm,Michigan Snowstorm,ORG,-0.13157894736842105,0.043859649122807015,en,1.9
+ABC News,ABC News,ORG,0.002192982456140356,0.0,en,1.9
+Sapporo Kokusai Ski Resort,Sapporo Kokusai Ski Resort,ORG,0.11842105263157894,0.17543859649122806,en,1.9
+Sporting Life,Sporting Life,ORG,0.39473684210526316,0.15789473684210525,en,1.9
+Climate Change Canada,Climate Change Canada,ORG,0.0,0.0,en,1.9
+Burlington,Burlington,ORG,0.0,0.0,en,1.9
+The Sporting News,The Sporting News,ORG,-0.006578947368421059,0.0,en,1.9
+Daily Caller News Foundation,Daily Caller News Foundation,ORG,0.05964912280701754,0.1087719298245614,en,1.9
+Bloomberg,Bloomberg,ORG,-0.0047846889952153126,0.27272727272727276,en,1.9
+Snow League,Snow League,ORG,0.06578947368421052,0.08771929824561403,en,1.9
+the Cleveland Browns,the Cleveland Browns,ORG,-0.2543859649122807,0.2236842105263158,en,1.9
 Notre Dame,Notre Dame,ORG,0.0,0.0,en,1.9
-CBS Interactive Inc. All,CBS Interactive Inc. All,ORG,0.0,0.0,en,1.9
-Peoples' Review,Peoples' Review,ORG,0.2105263157894737,0.17543859649122806,en,1.9
 AFC Toronto,AFC Toronto,ORG,0.13157894736842105,0.17543859649122806,en,1.9
+LNG,LNG,ORG,0.08026315789473686,0.10526315789473685,en,1.9
+UCF Knights,UCF Knights,ORG,-0.2631578947368421,1.0526315789473684,en,1.9
+the National Weather Service (NWS),the National Weather Service (NWS),ORG,-0.10526315789473685,0.052631578947368425,en,1.9
+NYC,NYC,ORG,0.08187134502923979,0.5263157894736842,en,1.9
+Upstate NY,Upstate NY,ORG,0.2327789169894433,0.20319738740791374,en,1.9
+FAA,FAA,ORG,0.052631578947368425,0.15789473684210525,en,1.9
+House,House,ORG,0.052631578947368425,0.15789473684210525,en,1.9
+WHTM,WHTM,ORG,0.13157894736842105,0.17543859649122806,en,1.9
+Peoples' Review,Peoples' Review,ORG,0.2105263157894737,0.17543859649122806,en,1.9
+Climate Prediction Center,Climate Prediction Center,ORG,-0.10087719298245615,0.09210526315789473,en,1.9
+Moonshine Gold,Moonshine Gold,ORG,0.25375939849624063,0.5263157894736842,en,1.9
+MoonSwatch,MoonSwatch,ORG,0.12280701754385967,0.1929824561403509,en,1.9
+Big Tech,Big Tech,ORG,0.10526315789473684,0.19736842105263158,en,1.9
+Lincoln,Lincoln,ORG,0.10825358851674642,0.5,en,1.9
 Softshell,Softshell,ORG,0.8749999999999999,0.3125,en,1.6
 the Supreme Court,the Supreme Court,ORG,0.3392857142857142,1.1071428571428568,en,1.4000000000000004
-SpiceJet,SpiceJet,ORG,0.0,0.0,en,1.3000000000000003
-CIIE,CIIE,ORG,0.3653846153846153,0.7243589743589742,en,1.3000000000000003
 WNW,WNW,ORG,0.0,0.0,en,1.3000000000000003
-YourRage,YourRage,ORG,-0.4594405594405593,1.0442307692307689,en,1.3000000000000003
 ARC Raiders,ARC Raiders,ORG,0.23351648351648346,0.9368131868131867,en,1.3000000000000003
 FX,FX,ORG,-0.3817016317016316,1.1325757575757573,en,1.3000000000000003
+SpiceJet,SpiceJet,ORG,0.0,0.0,en,1.3000000000000003
 BMW,BMW,ORG,0.4125874125874125,0.7342657342657342,en,1.3000000000000003
+CIIE,CIIE,ORG,0.3653846153846153,0.7243589743589742,en,1.3000000000000003
+YourRage,YourRage,ORG,-0.4594405594405593,1.0442307692307689,en,1.3000000000000003
+Semaglutide,Semaglutide,ORG,0.6666666666666666,0.9444444444444443,en,1.2000000000000002
 Hudbay Minerals Inc.,Hudbay Minerals Inc.,ORG,0.0,0.0,en,1.2000000000000002
-Newsmax,Newsmax,ORG,0.0,0.0,en,1.2000000000000002
 TSX,TSX,ORG,0.0,0.0,en,1.2000000000000002
 NYSE,NYSE,ORG,0.0,0.0,en,1.2000000000000002
 HBM,HBM,ORG,0.0,0.0,en,1.2000000000000002
-Nike,Nike,ORG,-0.11574074074074073,0.8333333333333333,en,1.2000000000000002
 Allstate Canada,Allstate Canada,ORG,0.018518518518518542,0.41666666666666663,en,1.2000000000000002
+Newsmax,Newsmax,ORG,0.0,0.0,en,1.2000000000000002
+Nike,Nike,ORG,-0.11574074074074073,0.8333333333333333,en,1.2000000000000002
 Mitchell,Mitchell,ORG,0.06666666666666665,0.22499999999999992,en,1.2000000000000002
-Semaglutide,Semaglutide,ORG,0.6666666666666666,0.9444444444444443,en,1.2000000000000002
-Money,Money,ORG,0.8484848484848483,0.5151515151515151,en,1.1
-Mini Bluetooth,Mini Bluetooth,ORG,-0.13257575757575757,0.31313131313131304,en,1.1
-Kotaku,Kotaku,ORG,0.01473829201101927,0.37134986225895317,en,1.1
-CBC News,CBC News,ORG,0.0,0.0,en,1.1
-the United Nations Climate Change Conference,the United Nations Climate Change Conference,ORG,0.45454545454545453,0.45454545454545453,en,1.1
-Rally Japan,Rally Japan,ORG,0.7272727272727272,0.7272727272727272,en,1.1
+Coca-Cola,Coca-Cola,ORG,0.3686868686868687,0.1616161616161616,en,1.1
 Budget,Budget,ORG,0.0,0.0,en,1.1
-Hudbay’s,Hudbay’s,ORG,0.0,0.0,en,1.1
-Nuro,Nuro,ORG,0.0,0.0,en,1.1
-Enceladus,Enceladus,ORG,-0.1515151515151515,0.0,en,1.1
-Douglas Dynamics,Douglas Dynamics,ORG,0.0303030303030303,0.2727272727272727,en,1.1
-JetstreamRider,JetstreamRider,ORG,0.5340909090909091,0.27272727272727276,en,1.1
-Trump,Trump,ORG,0.0,0.0,en,1.1
-MCD,MCD,ORG,-0.36363636363636365,0.0,en,1.1
+National Geographic Traveller,National Geographic Traveller,ORG,0.0,0.0,en,1.1
+WVU Tech,WVU Tech,ORG,0.0,0.5,en,1.1
+the University of Utah,the University of Utah,ORG,0.0,0.0,en,1.1
+globalist,globalist,ORG,0.10101010101010101,0.4797979797979798,en,1.1
+Democratic Party,Democratic Party,ORG,0.10101010101010101,0.4797979797979798,en,1.1
+Cyber Sale,Cyber Sale,ORG,0.36363636363636365,0.36363636363636365,en,1.1
+Weekly Climate and Energy News Roundup,Weekly Climate and Energy News Roundup,ORG,0.0,0.0,en,1.1
+State Road 33,State Road 33,ORG,0.40909090909090906,0.36363636363636365,en,1.1
 ÖBB,ÖBB,ORG,0.1239669421487603,0.20661157024793386,en,1.1
+"the ""Hamptons of England","the ""Hamptons of England",ORG,0.0,0.0,en,1.1
+the Union Lawn,the Union Lawn,ORG,0.0,0.0,en,1.1
+MCD,MCD,ORG,-0.36363636363636365,0.0,en,1.1
+Hudbay’s,Hudbay’s,ORG,0.0,0.0,en,1.1
 Economic Digest,Economic Digest,ORG,0.40277777777777785,0.4179292929292929,en,1.1
 Time,Time,ORG,0.11363636363636363,0.1515151515151515,en,1.1
-State Road 33,State Road 33,ORG,0.40909090909090906,0.36363636363636365,en,1.1
-Xbox Game Pass,Xbox Game Pass,ORG,-0.24242424242424235,0.5909090909090908,en,1.1
-Premier League,Premier League,ORG,0.11742424242424243,1.1401515151515151,en,1.1
-Weekly Climate and Energy News Roundup,Weekly Climate and Energy News Roundup,ORG,0.0,0.0,en,1.1
-JBL,JBL,ORG,-0.13257575757575757,0.31313131313131304,en,1.1
-Coca-Cola,Coca-Cola,ORG,0.3686868686868687,0.1616161616161616,en,1.1
-WVU Tech,WVU Tech,ORG,0.0,0.5,en,1.1
-the Union Lawn,the Union Lawn,ORG,0.0,0.0,en,1.1
-the University of Utah,the University of Utah,ORG,0.0,0.0,en,1.1
-National Geographic Traveller,National Geographic Traveller,ORG,0.0,0.0,en,1.1
-EV,EV,ORG,-0.045454545454545456,0.2727272727272727,en,1.1
-Cyber Sale,Cyber Sale,ORG,0.36363636363636365,0.36363636363636365,en,1.1
-SUV,SUV,ORG,0.9090909090909091,0.45454545454545453,en,1.1
-globalist,globalist,ORG,0.10101010101010101,0.4797979797979798,en,1.1
-McKinsey,McKinsey,ORG,0.4132231404958677,0.4132231404958677,en,1.1
-Sun,Sun,ORG,0.1717171717171717,0.24747474747474743,en,1.1
 the China International Import Expo,the China International Import Expo,ORG,0.13636363636363635,0.0,en,1.1
-Apple,Apple,ORG,0.03787878787878788,0.0606060606060606,en,1.1
-GTA 6 Trailer 3,GTA 6 Trailer 3,ORG,0.162534435261708,0.4104683195592286,en,1.1
-"the ""Hamptons of England","the ""Hamptons of England",ORG,0.0,0.0,en,1.1
-Stone,Stone,ORG,0.0,0.0,en,1.1
+the United Nations Climate Change Conference,the United Nations Climate Change Conference,ORG,0.45454545454545453,0.45454545454545453,en,1.1
+EV,EV,ORG,-0.045454545454545456,0.2727272727272727,en,1.1
+SUV,SUV,ORG,0.9090909090909091,0.45454545454545453,en,1.1
 Medtronic,Medtronic,ORG,0.13636363636363635,0.0,en,1.1
-Reuters,Reuters,ORG,0.0,0.0,en,1.1
-Democratic Party,Democratic Party,ORG,0.10101010101010101,0.4797979797979798,en,1.1
-the Waymo Driver,the Waymo Driver,ORG,0.3598484848484848,0.0,en,1.1
+Enceladus,Enceladus,ORG,-0.1515151515151515,0.0,en,1.1
+Stone,Stone,ORG,0.0,0.0,en,1.1
+JetstreamRider,JetstreamRider,ORG,0.5340909090909091,0.27272727272727276,en,1.1
+Douglas Dynamics,Douglas Dynamics,ORG,0.0303030303030303,0.2727272727272727,en,1.1
+Money,Money,ORG,0.8484848484848483,0.5151515151515151,en,1.1
+GTA 6 Trailer 3,GTA 6 Trailer 3,ORG,0.162534435261708,0.4104683195592286,en,1.1
+Rally Japan,Rally Japan,ORG,0.7272727272727272,0.7272727272727272,en,1.1
+Premier League,Premier League,ORG,0.11742424242424243,1.1439393939393938,en,1.1
+Xbox Game Pass,Xbox Game Pass,ORG,-0.24242424242424235,0.5909090909090908,en,1.1
+Apple,Apple,ORG,0.03787878787878788,0.0606060606060606,en,1.1
+McKinsey,McKinsey,ORG,0.4132231404958677,0.4132231404958677,en,1.1
+Nuro,Nuro,ORG,0.0,0.0,en,1.1
+CBC News,CBC News,ORG,0.0,0.0,en,1.1
 The Canadian Press,The Canadian Press,ORG,0.0,0.0,en,1.1
-Connect Brooklyn,Connect Brooklyn,ORG,0.06818181818181818,0.0,en,1.0
-Lincoln,Lincoln,ORG,0.005681818181818177,0.0,en,1.0
-McGregor,McGregor,ORG,0.24285714285714285,0.0,en,1.0
-the Finns Party's,the Finns Party's,ORG,0.25,0.0,en,1.0
-Eli Lilly,Eli Lilly,ORG,0.26666666666666666,0.0,en,1.0
-The Court of Appeal,The Court of Appeal,ORG,-0.16666666666666666,0.0,en,1.0
-Torrent Pharmaceuticals,Torrent Pharmaceuticals,ORG,0.26666666666666666,0.0,en,1.0
-sci-fi,sci-fi,ORG,0.23484848484848483,0.0,en,1.0
-the International Paralympic Committee,the International Paralympic Committee,ORG,0.0,0.0,en,1.0
-FC Breakfast,FC Breakfast,ORG,0.5,0.0,en,1.0
-Supreme Court,Supreme Court,ORG,0.0,0.0,en,1.0
-WBJEEB JENPAS UG,WBJEEB JENPAS UG,ORG,-0.35000000000000003,0.0,en,1.0
-NYC Ferry,NYC Ferry,ORG,0.0,0.0,en,1.0
-Success,Success,ORG,0.38333333333333336,0.0,en,1.0
-Parab,Parab,ORG,0.0,0.0,en,1.0
-Koraput,Koraput,ORG,0.1,0.0,en,1.0
-The West Bengal Joint Entrance Examinations Board,The West Bengal Joint Entrance Examinations Board,ORG,0.0,0.0,en,1.0
-Zydus,Zydus,ORG,0.26666666666666666,0.0,en,1.0
-BL Morning Report,BL Morning Report,ORG,0.5,0.0,en,1.0
+the Waymo Driver,the Waymo Driver,ORG,0.3598484848484848,0.0,en,1.1
+Trump,Trump,ORG,0.0,0.0,en,1.1
+Reuters,Reuters,ORG,0.0,0.0,en,1.1
+JBL,JBL,ORG,-0.13257575757575757,0.31313131313131304,en,1.1
+Sun,Sun,ORG,0.1717171717171717,0.24747474747474743,en,1.1
+Mini Bluetooth,Mini Bluetooth,ORG,-0.13257575757575757,0.31313131313131304,en,1.1
+Kotaku,Kotaku,ORG,0.01473829201101927,0.37134986225895317,en,1.1
+Charm Collection,Charm Collection,ORG,0.0,0.0,en,1.0
 JENPAS UG,JENPAS UG,ORG,-0.375,0.0,en,1.0
-Science,Science,ORG,-0.15,0.0,en,1.0
 Kloe,Kloe,ORG,-0.13272727272727272,0.0,en,1.0
-HC,HC,ORG,-0.5000000000000001,0.0,en,1.0
-RSC,RSC,ORG,0.15416666666666667,0.0,en,1.0
+BMA,BMA,ORG,0.0,0.0,en,1.0
+O'Hare - ABC News,O'Hare - ABC News,ORG,0.0,0.0,en,1.0
+NHS,NHS,ORG,0.0,0.0,en,1.0
+the Land of Lincoln,the Land of Lincoln,ORG,0.0,0.0,en,1.0
+Terra Haute,Terra Haute,ORG,0.0,0.0,en,1.0
+The Company Store,The Company Store,ORG,0.26666666666666666,0.0,en,1.0
+The West Bengal Joint Entrance Examinations Board,The West Bengal Joint Entrance Examinations Board,ORG,0.0,0.0,en,1.0
 govt,govt,ORG,-0.5000000000000001,0.0,en,1.0
-the European Commission,the European Commission,ORG,0.0,0.0,en,1.0
-the International Paralympic Committee’s,the International Paralympic Committee’s,ORG,0.0,0.0,en,1.0
-Rockstar,Rockstar,ORG,0.1787878787878788,0.0,en,1.0
-the California Highway Patrol,the California Highway Patrol,ORG,0.0,0.0,en,1.0
-Navy,Navy,ORG,0.0,0.0,en,1.0
-Ecoflow,Ecoflow,ORG,0.0,0.0,en,1.0
-EcoFlow,EcoFlow,ORG,0.4,0.0,en,1.0
-Torontos,Torontos,ORG,0.21916666666666668,0.0,en,1.0
-Giant Teeth,Giant Teeth,ORG,0.0,0.0,en,1.0
-the 'Hamptons of England,the 'Hamptons of England,ORG,0.0,0.0,en,1.0
-MONTREAL Quebecers,MONTREAL Quebecers,ORG,0.00888888888888888,0.0,en,1.0
-ARC Raiders',ARC Raiders',ORG,0.0,0.0,en,1.0
-Wednes,Wednes,ORG,-0.1125,0.0,en,1.0
-NYC,NYC,ORG,0.15555555555555559,0.0,en,1.0
-The Federal Aviation Administration,The Federal Aviation Administration,ORG,0.0625,0.0,en,1.0
-tracker,tracker,ORG,0.5,0.0,en,1.0
-unle,unle,ORG,0.0,0.0,en,1.0
-KCIIIECP,KCIIIECP,ORG,0.06818181818181818,0.0,en,1.0
-Senate,Senate,ORG,0.0,0.0,en,1.0
-Tesla,Tesla,ORG,0.23214285714285712,0.0,en,1.0
-Tesla Semi,Tesla Semi,ORG,0.025,0.0,en,1.0
-Global Research,Global Research,ORG,0.125,0.0,en,1.0
-Ultimate,Ultimate,ORG,-0.26666666666666666,0.0,en,1.0
-Microsofts,Microsofts,ORG,0.0,0.0,en,1.0
-Price$9.41,Price$9.41,ORG,0.20000000000000004,0.0,en,1.0
-amazon.com,amazon.com,ORG,0.3666666666666667,0.0,en,1.0
-Marriott,Marriott,ORG,0.0,0.0,en,1.0
-South Dakota Farmers Use Farm Tunnels for,South Dakota Farmers Use Farm Tunnels for,ORG,0.0,0.0,en,1.0
-Bonvoy,Bonvoy,ORG,0.4,0.0,en,1.0
-Maddie MolloyBBC Climate &amp,Maddie MolloyBBC Climate &amp,ORG,-0.15,0.0,en,1.0
-Olympian,Olympian,ORG,0.08333333333333333,0.0,en,1.0
-Belarusian National Paralympic Committees,Belarusian National Paralympic Committees,ORG,0.0,0.0,en,1.0
+WBJEEB JENPAS UG,WBJEEB JENPAS UG,ORG,-0.35000000000000003,0.0,en,1.0
+Koraput,Koraput,ORG,0.1,0.0,en,1.0
+Parab,Parab,ORG,0.0,0.0,en,1.0
+Success,Success,ORG,0.38333333333333336,0.0,en,1.0
+NYC Ferry,NYC Ferry,ORG,0.0,0.0,en,1.0
+Natio,Natio,ORG,0.0,0.0,en,1.0
+Connect Brooklyn,Connect Brooklyn,ORG,0.06818181818181818,0.0,en,1.0
+HC,HC,ORG,-0.5000000000000001,0.0,en,1.0
 Bombay HC,Bombay HC,ORG,-0.1125,0.0,en,1.0
-Warner Bros.,Warner Bros.,ORG,0.0,0.0,en,1.0
+Northwestern,Northwestern,ORG,0.1,0.0,en,1.0
+Raj Bhavan,Raj Bhavan,ORG,-0.1,0.0,en,1.0
+O'Hare,O'Hare,ORG,0.0,0.0,en,1.0
+the Environment Department,the Environment Department,ORG,0.0,0.0,en,1.0
+Orange,Orange,ORG,0.0,0.0,en,1.0
+FOX Weather Storm Specialist,FOX Weather Storm Specialist,ORG,0.0,0.0,en,1.0
+The Ultra-Boutique Hotels,The Ultra-Boutique Hotels,ORG,0.0,0.0,en,1.0
+National Investig,National Investig,ORG,0.35714285714285715,0.0,en,1.0
+CHENNAI,CHENNAI,ORG,0.35714285714285715,0.0,en,1.0
+proctorial board,proctorial board,ORG,0.04727272727272727,0.0,en,1.0
+Wednes,Wednes,ORG,-0.1125,0.0,en,1.0
+Environ,Environ,ORG,0.31212121212121213,0.0,en,1.0
+Delhi University,Delhi University,ORG,0.04727272727272727,0.0,en,1.0
 DU,DU,ORG,0.16,0.0,en,1.0
-Black Sheep,Black Sheep,ORG,-0.16666666666666666,0.0,en,1.0
-P… Millions,P… Millions,ORG,0.16233766233766234,0.0,en,1.0
-Octobers roundup,Octobers roundup,ORG,0.0,0.0,en,1.0
-Latest NOAA La Niña Outlook Predicts Which Regions Could Get the Most Snow,Latest NOAA La Niña Outlook Predicts Which Regions Could Get the Most Snow,ORG,0.5,0.0,en,1.0
-fe,fe,ORG,0.0,0.0,en,1.0
-the National Weather S,the National Weather S,ORG,0.0,0.0,en,1.0
-SoCal,SoCal,ORG,0.0,0.0,en,1.0
+the yearNBC News Chicago,the yearNBC News Chicago,ORG,0.22916666666666669,0.0,en,1.0
+WWD,WWD,ORG,0.0,0.0,en,1.0
+the British Medical Association,the British Medical Association,ORG,0.0,0.0,en,1.0
+most.cbsnews.com,most.cbsnews.com,ORG,0.25,0.0,en,1.0
+O'HareABC News Chicago,O'HareABC News Chicago,ORG,0.22916666666666669,0.0,en,1.0
+EastThe Weather Channel Thanksgiving,EastThe Weather Channel Thanksgiving,ORG,0.07222222222222223,0.0,en,1.0
+McGregor,McGregor,ORG,0.24285714285714285,0.0,en,1.0
+The Court of Appeal,The Court of Appeal,ORG,-0.16666666666666666,0.0,en,1.0
+KCIIIECP,KCIIIECP,ORG,0.06818181818181818,0.0,en,1.0
+Heavy Snow Hits Upstate,Heavy Snow Hits Upstate,ORG,-0.03181818181818183,0.0,en,1.0
+Northeast,Northeast,ORG,0.15625,0.0,en,1.0
+unle,unle,ORG,0.0,0.0,en,1.0
+Associated Press,Associated Press,ORG,0.1708333333333333,0.0,en,1.0
+snowfall - WCPO 9,snowfall - WCPO 9,ORG,0.0,0.0,en,1.0
+National Weather Service Binghamton,National Weather Service Binghamton,ORG,0.0,0.0,en,1.0
+Mid-AtlanticThe New York Times,Mid-AtlanticThe New York Times,ORG,0.19227994227994227,0.0,en,1.0
+Mercury,Mercury,ORG,0.125,0.0,en,1.0
+Snow to Hit,Snow to Hit,ORG,0.0,0.0,en,1.0
+Union Live,Union Live,ORG,0.14823232323232324,0.0,en,1.0
+commuteCNN Travel,commuteCNN Travel,ORG,0.14823232323232324,0.0,en,1.0
+snowCNN Travel,snowCNN Travel,ORG,0.18452380952380953,0.0,en,1.0
+snowNew York Post US,snowNew York Post US,ORG,0.18452380952380953,0.0,en,1.0
+Torontos,Torontos,ORG,0.21916666666666668,0.0,en,1.0
+Olympian,Olympian,ORG,0.08333333333333333,0.0,en,1.0
+the Finns Party's,the Finns Party's,ORG,0.25,0.0,en,1.0
+the U.S. CBS News',the U.S. CBS News',ORG,0.28125,0.0,en,1.0
+Greater Cincinnati,Greater Cincinnati,ORG,0.35,0.0,en,1.0
+Cumberland Valley School District,Cumberland Valley School District,ORG,0.0,0.0,en,1.0
+Global Research,Global Research,ORG,0.125,0.0,en,1.0
+Swatch's new Mission to Earthphase Moonshine Gold,Swatch's new Mission to Earthphase Moonshine Gold,ORG,-0.2318181818181818,0.0,en,1.0
+the International Paralympic Committee’s,the International Paralympic Committee’s,ORG,0.0,0.0,en,1.0
+Inverness,Inverness,ORG,0.0,0.0,en,1.0
+Supreme Court,Supreme Court,ORG,0.0,0.0,en,1.0
+Sun-Times,Sun-Times,ORG,0.0,0.0,en,1.0
+Post-Thanksgiving Winter Storm Snarls Travel,Post-Thanksgiving Winter Storm Snarls Travel,ORG,0.0,0.0,en,1.0
+the International Paralympic Committee,the International Paralympic Committee,ORG,0.0,0.0,en,1.0
+sayChicago Sun-Times,sayChicago Sun-Times,ORG,0.3055555555555556,0.0,en,1.0
+the European Commission,the European Commission,ORG,0.0,0.0,en,1.0
+Belarusian National Paralympic Committees,Belarusian National Paralympic Committees,ORG,0.0,0.0,en,1.0
+Bonvoy,Bonvoy,ORG,0.4,0.0,en,1.0
+Snoopy,Snoopy,ORG,0.13636363636363635,0.0,en,1.0
+HistoryBlock Club Chicago Chicago,HistoryBlock Club Chicago Chicago,ORG,0.023333333333333327,0.0,en,1.0
+Marriott,Marriott,ORG,0.0,0.0,en,1.0
+Polar Puppers,Polar Puppers,ORG,0.4055555555555556,0.0,en,1.0
+doggo fan club,doggo fan club,ORG,0.0,0.0,en,1.0
+Bioceramic,Bioceramic,ORG,0.10714285714285714,0.0,en,1.0
+the Boston 25 Weather Team,the Boston 25 Weather Team,ORG,-0.125,0.0,en,1.0
+Microsofts,Microsofts,ORG,0.0,0.0,en,1.0
+Ultimate,Ultimate,ORG,-0.26666666666666666,0.0,en,1.0
+O’Hare International Air… Skip,O’Hare International Air… Skip,ORG,0.0,0.0,en,1.0
+WTWO 2,WTWO 2,ORG,0.0,0.0,en,1.0
+Sutherland,Sutherland,ORG,0.0,0.0,en,1.0
+NBC,NBC,ORG,0.0,0.0,en,1.0
 Digital Costco Shop Card,Digital Costco Shop Card,ORG,0.06818181818181818,0.0,en,1.0
 New Costco Gold Star,New Costco Gold Star,ORG,0.06818181818181818,0.0,en,1.0
 Winter Weather Alerts,Winter Weather Alerts,ORG,0.0,0.0,en,1.0
-Black Sheep Market,Black Sheep Market,ORG,0.3444444444444444,0.0,en,1.0
-MPR News,MPR News,ORG,-0.06666666666666667,0.0,en,1.0
+Black Sheep,Black Sheep,ORG,-0.16666666666666666,0.0,en,1.0
+Ecoflow,Ecoflow,ORG,0.0,0.0,en,1.0
 Horror Book Exchange @ Black Sheep Market - Buffalo Rising,Horror Book Exchange @ Black Sheep Market - Buffalo Rising,ORG,-0.16666666666666666,0.0,en,1.0
 TOCHIGI,TOCHIGI,ORG,0.2142857142857143,0.0,en,1.0
-New Yorker,New Yorker,ORG,0.24318181818181817,0.0,en,1.0
-ABC News,ABC News,ORG,0.004166666666666676,0.0,en,1.0
+Mytilenes,Mytilenes,ORG,0.1886904761904762,0.0,en,1.0
 the Incline Village General Improvement District,the Incline Village General Improvement District,ORG,0.02500000000000001,0.0,en,1.0
-The Helena Regional Airport,The Helena Regional Airport,ORG,0.0,0.0,en,1.0
+Civil Protection,Civil Protection,ORG,0.1886904761904762,0.0,en,1.0
+Indy,Indy,ORG,0.2,0.0,en,1.0
+Sporting Life Canada Black,Sporting Life Canada Black,ORG,-0.16666666666666666,0.0,en,1.0
 Sapporo,Sapporo,ORG,0.125,0.0,en,1.0
 Sapporo Kokusai Ski Resort Opens,Sapporo Kokusai Ski Resort Opens,ORG,0.0,0.0,en,1.0
 Yle,Yle,ORG,-0.06666666666666667,0.0,en,1.0
-Winter Flex Ahead,Winter Flex Ahead,ORG,0.0,0.0,en,1.0
-Lower MichiganMLive.com Post-Thanksgiving,Lower MichiganMLive.com Post-Thanksgiving,ORG,0.2833333333333333,0.0,en,1.0
-Delhi University,Delhi University,ORG,0.04727272727272727,0.0,en,1.0
 Huntington Bank Stadium TV,Huntington Bank Stadium TV,ORG,0.0,0.0,en,1.0
-Winter Sports,Winter Sports,ORG,1.0,0.0,en,1.0
-Browns,Browns,ORG,0.0,0.0,en,1.0
-UCF Knights,UCF Knights,ORG,-0.4,1.5,en,1.0
-DOCG,DOCG,ORG,0.0,0.0,en,1.0
-"minus-1.5
-","minus-1.5
-",ORG,0.0,0.0,en,1.0
-FMWeather,FMWeather,ORG,0.0,0.0,en,1.0
-Huntington Bank,Huntington Bank,ORG,0.0,0.0,en,1.0
-minus-1.5 Records,minus-1.5 Records,ORG,0.0,0.0,en,1.0
 FS1 Radio,FS1 Radio,ORG,0.0,0.0,en,1.0
-Indy,Indy,ORG,0.2,0.0,en,1.0
-First WA,First WA,ORG,0.25,0.0,en,1.0
-MILWAUKEE - Snow,MILWAUKEE - Snow,ORG,0.0,0.0,en,1.0
-Popular Science,Popular Science,ORG,0.22777777777777777,0.0,en,1.0
-AP News,AP News,ORG,0.8,0.0,en,1.0
-Newfoundlanders,Newfoundlanders,ORG,0.3666666666666667,0.0,en,1.0
-TOMORROW,TOMORROW,ORG,0.75,0.0,en,1.0
-The Weather Network,The Weather Network,ORG,0.08333333333333331,0.0,en,1.0
-tak,tak,ORG,0.125,0.0,en,1.0
-EastThe Weather Channel Thanksgiving,EastThe Weather Channel Thanksgiving,ORG,0.07222222222222223,0.0,en,1.0
-UCF,UCF,ORG,3.7666666666666675,6.539999999999998,en,1.0
 Pusley,Pusley,ORG,-0.2888888888888889,0.0,en,1.0
 Carlow,Carlow,ORG,0.0,0.0,en,1.0
+the National Weather S,the National Weather S,ORG,0.0,0.0,en,1.0
+MILWAUKEE - Snow,MILWAUKEE - Snow,ORG,0.0,0.0,en,1.0
+Latest NOAA La Niña Outlook Predicts Which Regions Could Get the Most Snow,Latest NOAA La Niña Outlook Predicts Which Regions Could Get the Most Snow,ORG,0.5,0.0,en,1.0
+LA,LA,ORG,0.10833333333333332,0.0,en,1.0
+Lower MichiganMLive.com Post-Thanksgiving,Lower MichiganMLive.com Post-Thanksgiving,ORG,0.2833333333333333,0.0,en,1.0
+The Weather Network,The Weather Network,ORG,0.08333333333333331,0.0,en,1.0
+MPR News,MPR News,ORG,-0.06666666666666667,0.0,en,1.0
+Palm Trees & Holiday Dreams,Palm Trees & Holiday Dreams,ORG,0.0,0.0,en,1.0
+Winter Flex Ahead,Winter Flex Ahead,ORG,0.0,0.0,en,1.0
+Sapphire,Sapphire,ORG,0.35714285714285715,0.0,en,1.0
+the Big Bang Unico,the Big Bang Unico,ORG,0.0,0.0,en,1.0
+Hublot,Hublot,ORG,0.011111111111111108,0.0,en,1.0
+Hublot Big Bang Unico,Hublot Big Bang Unico,ORG,0.0,0.0,en,1.0
+Popular Science,Popular Science,ORG,0.22777777777777777,0.0,en,1.0
+"ESPN2
+","ESPN2
+",ORG,0.5,0.0,en,1.0
+LA Skyline,LA Skyline,ORG,0.10833333333333332,0.0,en,1.0
+Kalani Sitake,Kalani Sitake,ORG,0.25,0.0,en,1.0
+TOMORROW,TOMORROW,ORG,0.75,0.0,en,1.0
+Newfoundlanders,Newfoundlanders,ORG,0.3666666666666667,0.0,en,1.0
+Knights,Knights,ORG,-0.6,0.0,en,1.0
+AP News,AP News,ORG,0.8,0.0,en,1.0
+Octobers roundup,Octobers roundup,ORG,0.0,0.0,en,1.0
+minus-1.5 Records,minus-1.5 Records,ORG,0.0,0.0,en,1.0
+Huntington Bank,Huntington Bank,ORG,0.0,0.0,en,1.0
 Kumpula,Kumpula,ORG,0.0,0.0,en,1.0
-NHS,NHS,ORG,0.0,0.0,en,1.0
+the Milano Cortina,the Milano Cortina,ORG,0.0,0.0,en,1.0
+FlightAware,FlightAware,ORG,-0.041666666666666664,0.0,en,1.0
+Sun-Times Chicago,Sun-Times Chicago,ORG,0.11979166666666667,0.0,en,1.0
+the National W… A,the National W… A,ORG,0.3125,0.0,en,1.0
+11:10:42,11:10:42,ORG,0.0,0.0,en,1.0
+National,National,ORG,0.0,0.0,en,1.0
+Fe,Fe,ORG,0.0,0.0,en,1.0
+Spiti,Spiti,ORG,-0.11666666666666665,0.0,en,1.0
+FOX 5/KUSI,FOX 5/KUSI,ORG,0.09090909090909091,0.0,en,1.0
+Daily International News,Daily International News,ORG,0.06666666666666667,0.0,en,1.0
+Hoosiers,Hoosiers,ORG,-0.009722222222222222,0.0,en,1.0
+The Detroit News,The Detroit News,ORG,-0.04166666666666666,0.0,en,1.0
 The Economic Times,The Economic Times,ORG,0.175,0.0,en,1.0
+sayThe Detroit News Chicago,sayThe Detroit News Chicago,ORG,-0.005208333333333329,0.0,en,1.0
 Latest News Updates,Latest News Updates,ORG,0.175,0.0,en,1.0
 International Breaking News Events,International Breaking News Events,ORG,0.175,0.0,en,1.0
 Canada News,Canada News,ORG,0.175,0.0,en,1.0
 UK News,UK News,ORG,0.175,0.0,en,1.0
-Sutherland,Sutherland,ORG,0.0,0.0,en,1.0
-Inverness,Inverness,ORG,0.0,0.0,en,1.0
-Natio,Natio,ORG,0.0,0.0,en,1.0
-The Company Store,The Company Store,ORG,0.26666666666666666,0.0,en,1.0
-BMA,BMA,ORG,0.0,0.0,en,1.0
+tak,tak,ORG,0.125,0.0,en,1.0
+The National Weather Service's,The National Weather Service's,ORG,-0.09166666666666667,0.0,en,1.0
+Midwestgo.com,Midwestgo.com,ORG,-0.041666666666666664,0.0,en,1.0
 FMI,FMI,ORG,0.0,0.0,en,1.0
-the British Medical Association,the British Medical Association,ORG,0.0,0.0,en,1.0
-WWD,WWD,ORG,0.0,0.0,en,1.0
-Charm Collection,Charm Collection,ORG,0.0,0.0,en,1.0
-the Environment Department,the Environment Department,ORG,0.0,0.0,en,1.0
-The Ultra-Boutique Hotels,The Ultra-Boutique Hotels,ORG,0.0,0.0,en,1.0
-National Investig,National Investig,ORG,0.35714285714285715,0.0,en,1.0
-CHENNAI,CHENNAI,ORG,0.35714285714285715,0.0,en,1.0
-Raj Bhavan,Raj Bhavan,ORG,-0.1,0.0,en,1.0
-proctorial board,proctorial board,ORG,0.04727272727272727,0.0,en,1.0
-Daily International News,Daily International News,ORG,0.06666666666666667,0.0,en,1.0
-FOX 5/KUSI,FOX 5/KUSI,ORG,0.09090909090909091,0.0,en,1.0
-11:10:42,11:10:42,ORG,0.0,0.0,en,1.0
-Winter Weather Alerts Issued,Winter Weather Alerts Issued,ORG,0.0,0.0,en,1.0
-NYT Connections:,NYT Connections:,ORG,0.0,0.0,en,1.0
+The Old Farmers Almanac,The Old Farmers Almanac,ORG,0.05,0.0,en,1.0
+FMWeather,FMWeather,ORG,0.0,0.0,en,1.0
+"minus-1.5
+","minus-1.5
+",ORG,0.0,0.0,en,1.0
 Aberdeenshire Council,Aberdeenshire Council,ORG,0.0,0.0,en,1.0
 A90,A90,ORG,0.06666666666666667,0.0,en,1.0
+DOCG,DOCG,ORG,0.0,0.0,en,1.0
 the Met Office,the Met Office,ORG,-0.1,0.0,en,1.0
 Carrbridge,Carrbridge,ORG,0.0,0.0,en,1.0
 forecaste,forecaste,ORG,0.05,0.0,en,1.0
-The Old Farmers Almanac,The Old Farmers Almanac,ORG,0.05,0.0,en,1.0
 The Old Farmer’s Almanac,The Old Farmer’s Almanac,ORG,0.1,0.0,en,1.0
+the National Weath…,the National Weath…,ORG,0.11035714285714286,0.0,en,1.0
+Highland Council,Highland Council,ORG,0.0,0.0,en,1.0
+Browns,Browns,ORG,0.0,0.0,en,1.0
+Winter Sports,Winter Sports,ORG,1.0,0.0,en,1.0
 MONOGHAN,MONOGHAN,ORG,0.0,0.0,en,1.0
 the Montrose County Sheriffs Office,the Montrose County Sheriffs Office,ORG,0.7,0.0,en,1.0
 KREX,KREX,ORG,0.7,0.0,en,1.0
 the Montrose County Sheriff's Office and Posse,the Montrose County Sheriff's Office and Posse,ORG,0.7,0.0,en,1.0
 Grand Junction,Grand Junction,ORG,0.1875,0.0,en,1.0
-the National Weath…,the National Weath…,ORG,0.11035714285714286,0.0,en,1.0
-The New York Times',The New York Times',ORG,0.11212121212121211,0.0,en,1.0
-The New York Times Mini Crossword,The New York Times Mini Crossword,ORG,0.06818181818181818,0.0,en,1.0
-Hoosiers,Hoosiers,ORG,-0.009722222222222222,0.0,en,1.0
-The National Weather Service's,The National Weather Service's,ORG,-0.09166666666666667,0.0,en,1.0
-the Eras Tour,the Eras Tour,ORG,-0.07142857142857142,0.0,en,1.0
-Golden Bears,Golden Bears,ORG,0.25,0.0,en,1.0
-Kansas State,Kansas State,ORG,-0.05694444444444444,0.0,en,1.0
-The Flying Eagles,The Flying Eagles,ORG,-0.3,0.0,en,1.0
-Brittany Snow,Brittany Snow,ORG,0.75,0.0,en,1.0
-Hutchinson,Hutchinson,ORG,0.625,0.0,en,1.0
-Augusts,Augusts,ORG,-0.21875,0.0,en,1.0
-Healthcare,Healthcare,ORG,0.0,0.0,en,1.0
-FDOT,FDOT,ORG,0.2,0.0,en,1.0
-Getty Images,Getty Images,ORG,-0.1,0.0,en,1.0
-TNT/TruTV/,TNT/TruTV/,ORG,0.275,0.0,en,1.0
-Embark,Embark,ORG,0.0,0.0,en,1.0
-Balsam Hill,Balsam Hill,ORG,-0.04074074074074074,0.0,en,1.0
-The 2026 Old Farmer's Almanac,The 2026 Old Farmer's Almanac,ORG,-0.25,0.0,en,1.0
-The Old Farmer's Almanac,The Old Farmer's Almanac,ORG,0.3,0.0,en,1.0
-Matt McGrathBBC,Matt McGrathBBC,ORG,0.25,0.0,en,1.0
-Proton VPN,Proton VPN,ORG,0.12121212121212122,0.0,en,1.0
-acco,acco,ORG,0.25,0.0,en,1.0
-stre,stre,ORG,0.0,0.0,en,1.0
-Google,Google,ORG,0.13636363636363635,0.45454545454545453,en,1.0
-Business Insider,Business Insider,ORG,0.0,0.0,en,1.0
+Black Sheep Market,Black Sheep Market,ORG,0.3444444444444444,0.0,en,1.0
+NSL,NSL,ORG,0.0,0.0,en,1.0
+EcoFlow,EcoFlow,ORG,0.4,0.0,en,1.0
+MYAGDI,MYAGDI,ORG,0.11666666666666664,0.6666666666666666,en,1.0
+Baylor,Baylor,ORG,1.2333333333333332,2.4,en,1.0
+Ice Canoeing Turns Frozen Rivers Into Adventure Playgrounds,Ice Canoeing Turns Frozen Rivers Into Adventure Playgrounds,ORG,0.0,0.0,en,1.0
+North Cascades National Park,North Cascades National Park,ORG,0.9,0.0,en,1.0
+PS Plus,PS Plus,ORG,0.4,0.0,en,1.0
+ol’ Autumn Sale,ol’ Autumn Sale,ORG,0.0,0.0,en,1.0
+Digital,Digital,ORG,0.0,0.0,en,1.0
+Roller Coaster Tycoon,Roller Coaster Tycoon,ORG,0.1755050505050505,0.0,en,1.0
+Theme Hospital,Theme Hospital,ORG,0.1755050505050505,0.0,en,1.0
+Dungeon Keeper 2,Dungeon Keeper 2,ORG,0.1755050505050505,0.0,en,1.0
+Nations League,Nations League,ORG,-0.2,0.25,en,1.0
+Mustang,Mustang,ORG,0.11666666666666664,0.6666666666666666,en,1.0
+the District Administration Office,the District Administration Office,ORG,0.125,0.0,en,1.0
 "ESPNU
 ","ESPNU
 ",ORG,0.3333333333333333,0.0,en,1.0
+The Odd Symmetry Between Earth’s Northern,The Odd Symmetry Between Earth’s Northern,ORG,-0.10740740740740741,0.0,en,1.0
+NPS,NPS,ORG,0.06666666666666667,0.0,en,1.0
+Pinnacles National Park Faces A Nasty Concern,Pinnacles National Park Faces A Nasty Concern,ORG,-1.0,0.0,en,1.0
+the Bureau of Meterology,the Bureau of Meterology,ORG,0.8,0.0,en,1.0
+Hobart,Hobart,ORG,0.8,0.0,en,1.0
+BaerbelW,BaerbelW,ORG,0.09444444444444444,0.0,en,1.0
+SkS Weekly Climate Change & Global Warming,SkS Weekly Climate Change & Global Warming,ORG,0.0,0.0,en,1.0
+LEGO Disney Froze,LEGO Disney Froze,ORG,0.3523809523809524,0.0,en,1.0
+LEGO,LEGO,ORG,0.3523809523809524,0.0,en,1.0
+Frozen Fan Fest,Frozen Fan Fest,ORG,0.7023809523809523,0.5238095238095238,en,1.0
+Frozen,Frozen,ORG,0.7023809523809523,0.5238095238095238,en,1.0
 ESPNU,ESPNU,ORG,0.3333333333333333,0.0,en,1.0
-Baylor,Baylor,ORG,1.2333333333333332,2.4,en,1.0
-Snowtunnel co-founder,Snowtunnel co-founder,ORG,0.08749999999999998,0.0,en,1.0
-TNT/TruTV/HBO Weather,TNT/TruTV/HBO Weather,ORG,0.275,0.0,en,1.0
+Business Insider,Business Insider,ORG,0.0,0.0,en,1.0
+CLOUD,CLOUD,ORG,0.0,0.0,en,1.0
 Coca-Cola’s,Coca-Cola’s,ORG,-0.14015151515151517,0.0,en,1.0
 Cloud,Cloud,ORG,0.0,0.0,en,1.0
-Accrisure Bounce,Accrisure Bounce,ORG,0.3333333333333333,0.0,en,1.0
-Quantum,Quantum,ORG,0.4,0.0,en,1.0
-The Old Country,The Old Country,ORG,0.07857142857142858,0.0,en,1.0
-Mafia,Mafia,ORG,0.07857142857142858,0.0,en,1.0
-"Pexels/Reddit
-","Pexels/Reddit
-",ORG,0.0,0.0,en,1.0
-Consumer Reports,Consumer Reports,ORG,0.3,0.0,en,1.0
-CLOUD,CLOUD,ORG,0.0,0.0,en,1.0
-ST,ST,ORG,0.0,0.0,en,1.0
 Universal History Archive / Contributor,Universal History Archive / Contributor,ORG,0.0,0.0,en,1.0
-TOPSHOT,TOPSHOT,ORG,0.1,0.0,en,1.0
 Sunday River,Sunday River,ORG,0.1,0.0,en,1.0
 Selma,Selma,ORG,0.39999999999999997,1.05,en,1.0
 Rotten Tomatoes,Rotten Tomatoes,ORG,0.05378787878787877,0.30000000000000004,en,1.0
@@ -311,60 +351,97 @@ Great Migration,Great Migration,ORG,0.4444444444444445,0.0,en,1.0
 Verge,Verge,ORG,-0.1625,0.0,en,1.0
 Coca-Cola's,Coca-Cola's,ORG,-0.14015151515151517,0.0,en,1.0
 Snowfall Spinoff,Snowfall Spinoff,ORG,0.25,0.0,en,1.0
-North Cascades National Park,North Cascades National Park,ORG,0.9,0.0,en,1.0
-PS Plus,PS Plus,ORG,0.4,0.0,en,1.0
-ol’ Autumn Sale,ol’ Autumn Sale,ORG,0.0,0.0,en,1.0
-martech,martech,ORG,0.3181818181818182,0.0,en,1.0
+TOPSHOT,TOPSHOT,ORG,0.1,0.0,en,1.0
+Snowtunnel co-founder,Snowtunnel co-founder,ORG,0.08749999999999998,0.0,en,1.0
+Google,Google,ORG,0.13636363636363635,0.45454545454545453,en,1.0
+Hutchinson,Hutchinson,ORG,0.625,0.0,en,1.0
+Augusts,Augusts,ORG,-0.21875,0.0,en,1.0
+Healthcare,Healthcare,ORG,0.0,0.0,en,1.0
+FDOT,FDOT,ORG,0.2,0.0,en,1.0
+Getty Images,Getty Images,ORG,-0.1,0.0,en,1.0
+Embark,Embark,ORG,0.0,0.0,en,1.0
+Balsam Hill,Balsam Hill,ORG,-0.04074074074074074,0.0,en,1.0
+The 2026 Old Farmer's Almanac,The 2026 Old Farmer's Almanac,ORG,-0.25,0.0,en,1.0
+The Old Farmer's Almanac,The Old Farmer's Almanac,ORG,0.3,0.0,en,1.0
+Proton VPN,Proton VPN,ORG,0.12121212121212122,0.0,en,1.0
+stre,stre,ORG,0.0,0.0,en,1.0
+Disney,Disney,ORG,1.0547619047619048,1.0476190476190477,en,1.0
+Celebrate Frozen Fan Fest,Celebrate Frozen Fan Fest,ORG,0.24675324675324675,0.0,en,1.0
+New LEGO Disney Frozen Special,New LEGO Disney Frozen Special,ORG,0.24675324675324675,0.0,en,1.0
+Winter Weather Alerts Issued,Winter Weather Alerts Issued,ORG,0.0,0.0,en,1.0
+NYT Mini Crossword,NYT Mini Crossword,ORG,0.0,0.0,en,1.0
+MattersThe National Weather Service,MattersThe National Weather Service,ORG,-0.39999999999999997,0.0,en,1.0
+McGill,McGill,ORG,-0.8,0.6,en,1.0
+Narao,Narao,ORG,-0.075,0.0,en,1.0
+Viséan,Viséan,ORG,-0.075,0.0,en,1.0
+KLAS,KLAS,ORG,0.16666666666666666,0.0,en,1.0
+the Australian Broadcasting Corporation,the Australian Broadcasting Corporation,ORG,0.0,0.0,en,1.0
+Science,Science,ORG,-0.15,0.0,en,1.0
+Maddie MolloyBBC Climate &amp,Maddie MolloyBBC Climate &amp,ORG,-0.15,0.0,en,1.0
+South Dakota Farmers Use Farm Tunnels for,South Dakota Farmers Use Farm Tunnels for,ORG,0.0,0.0,en,1.0
+Navy,Navy,ORG,0.0,0.0,en,1.0
+the Eras Tour,the Eras Tour,ORG,-0.07142857142857142,0.0,en,1.0
 GreenHere,GreenHere,ORG,-0.04000000000000001,0.0,en,1.0
+The New York Times Mini Crossword,The New York Times Mini Crossword,ORG,0.06818181818181818,0.0,en,1.0
+The New York Times',The New York Times',ORG,0.11212121212121211,0.0,en,1.0
+NYT Connections:,NYT Connections:,ORG,0.0,0.0,en,1.0
+The Helena Regional Airport,The Helena Regional Airport,ORG,0.0,0.0,en,1.0
+New Yorker,New Yorker,ORG,0.24318181818181817,0.0,en,1.0
+SoCal,SoCal,ORG,0.0,0.0,en,1.0
+fe,fe,ORG,0.0,0.0,en,1.0
+P… Millions,P… Millions,ORG,0.16233766233766234,0.0,en,1.0
+First WA,First WA,ORG,0.25,0.0,en,1.0
+Citizens of Toronto,Citizens of Toronto,ORG,0.21250000000000002,0.0,en,1.0
+Freeski Halfpipe World Cup,Freeski Halfpipe World Cup,ORG,-0.2,0.0,en,1.0
+New York Times',New York Times',ORG,0.07878787878787878,0.0,en,1.0
+"The New York Times Wordle,","The New York Times Wordle,",ORG,0.06818181818181818,0.0,en,1.0
+Connecti,Connecti,ORG,0.06818181818181818,0.0,en,1.0
+CCC,CCC,ORG,0.0,0.0,en,1.0
 This Japanese Data Center Uses Snow and Wind to Stay,This Japanese Data Center Uses Snow and Wind to Stay,ORG,-0.14,0.14,en,1.0
 kottke.org,kottke.org,ORG,0.0,0.0,en,1.0
 The India Meteorological Department,The India Meteorological Department,ORG,0.20285714285714285,0.0,en,1.0
-IMD,IMD,ORG,0.49738095238095237,1.4685714285714286,en,1.0
 Colorado National Monument,Colorado National Monument,ORG,0.25,0.0,en,1.0
 Winter Outages,Winter Outages,ORG,0.0,0.0,en,1.0
 Master1305/,Master1305/,ORG,0.13636363636363635,0.0,en,1.0
+martech,martech,ORG,0.3181818181818182,0.0,en,1.0
 Climate Research Lab,Climate Research Lab,ORG,0.7,0.0,en,1.0
-Celebrate Frozen Fan Fest,Celebrate Frozen Fan Fest,ORG,0.24675324675324675,0.0,en,1.0
 the University of Illinois,the University of Illinois,ORG,0.7,0.0,en,1.0
 Sahara,Sahara,ORG,0.12666666666666665,0.0,en,1.0
 Biathlon,Biathlon,ORG,0.0,0.0,en,1.0
-gif,gif,ORG,0.0,0.0,en,1.0
 tag</li,tag</li,ORG,0.09166666666666667,0.0,en,1.0
 TechHive,TechHive,ORG,0.09166666666666667,0.0,en,1.0
 MattersResidents,MattersResidents,ORG,0.0,0.0,en,1.0
 ProtoThema,ProtoThema,ORG,-0.16999999999999998,0.0,en,1.0
-New LEGO Disney Frozen Special,New LEGO Disney Frozen Special,ORG,0.24675324675324675,0.0,en,1.0
-Disney,Disney,ORG,1.0547619047619048,1.0476190476190477,en,1.0
-Digital,Digital,ORG,0.0,0.0,en,1.0
-NPS,NPS,ORG,0.06666666666666667,0.0,en,1.0
-Roller Coaster Tycoon,Roller Coaster Tycoon,ORG,0.1755050505050505,0.0,en,1.0
-Theme Hospital,Theme Hospital,ORG,0.1755050505050505,0.0,en,1.0
-Dungeon Keeper 2,Dungeon Keeper 2,ORG,0.1755050505050505,0.0,en,1.0
-Nations League,Nations League,ORG,-0.2,0.25,en,1.0
-Mustang,Mustang,ORG,0.11666666666666664,0.6666666666666666,en,1.0
-MYAGDI,MYAGDI,ORG,0.11666666666666664,0.6666666666666666,en,1.0
-the District Administration Office,the District Administration Office,ORG,0.125,0.0,en,1.0
-The Odd Symmetry Between Earth’s Northern,The Odd Symmetry Between Earth’s Northern,ORG,-0.10740740740740741,0.0,en,1.0
-Pinnacles National Park Faces A Nasty Concern,Pinnacles National Park Faces A Nasty Concern,ORG,-1.0,0.0,en,1.0
-Frozen,Frozen,ORG,0.7023809523809523,0.5238095238095238,en,1.0
-the Bureau of Meterology,the Bureau of Meterology,ORG,0.8,0.0,en,1.0
-Hobart,Hobart,ORG,0.8,0.0,en,1.0
-Winter Weather Advisory,Winter Weather Advisory,ORG,-0.04999999999999999,0.6499999999999999,en,1.0
-BaerbelW,BaerbelW,ORG,0.09444444444444444,0.0,en,1.0
-SkS Weekly Climate Change & Global Warming,SkS Weekly Climate Change & Global Warming,ORG,0.0,0.0,en,1.0
-LEGO Disney Froze,LEGO Disney Froze,ORG,0.3523809523809524,0.0,en,1.0
-LEGO,LEGO,ORG,0.3523809523809524,0.0,en,1.0
-Frozen Fan Fest,Frozen Fan Fest,ORG,0.7023809523809523,0.5238095238095238,en,1.0
-Embark Studios,Embark Studios,ORG,0.0,0.0,en,1.0
-Self,Self,ORG,0.0,0.0,en,1.0
-the Reaping Collector's,the Reaping Collector's,ORG,0.3420454545454545,0.0,en,1.0
-The Nation,The Nation,ORG,0.25,0.0,en,1.0
+EMY,EMY,ORG,-0.16999999999999998,0.0,en,1.0
+Warner Bros.,Warner Bros.,ORG,0.0,0.0,en,1.0
+gif,gif,ORG,0.0,0.0,en,1.0
+acco,acco,ORG,0.25,0.0,en,1.0
+Matt McGrathBBC,Matt McGrathBBC,ORG,0.25,0.0,en,1.0
+TNT/TruTV/,TNT/TruTV/,ORG,0.275,0.0,en,1.0
+TNT/TruTV/HBO Weather,TNT/TruTV/HBO Weather,ORG,0.275,0.0,en,1.0
+The Climate Change Committee,The Climate Change Committee,ORG,-0.3,0.0,en,1.0
+ST,ST,ORG,0.0,0.0,en,1.0
+Consumer Reports,Consumer Reports,ORG,0.3,0.0,en,1.0
+Giant Teeth,Giant Teeth,ORG,0.0,0.0,en,1.0
+FOX Sports',FOX Sports',ORG,0.1,0.0,en,1.0
+Nike Heartland Regional cross,Nike Heartland Regional cross,ORG,0.0,0.0,en,1.0
+MABLETON,MABLETON,ORG,0.0,0.0,en,1.0
+Cobb,Cobb,ORG,0.0,0.0,en,1.0
+consta,consta,ORG,-0.3458333333333333,0.0,en,1.0
+Avery,Avery,ORG,-0.3458333333333333,0.0,en,1.0
+Kansas State,Kansas State,ORG,-0.05694444444444444,0.0,en,1.0
+Texas Tech,Texas Tech,ORG,-0.05694444444444444,0.0,en,1.0
+Kansas State Football:,Kansas State Football:,ORG,0.5,0.0,en,1.0
+Y,Y,ORG,-0.6,0.0,en,1.0
+Wang C,Wang C,ORG,-0.6,0.0,en,1.0
+Transcriptome,Transcriptome,ORG,0.0,0.0,en,1.0
+Channel 11,Channel 11,ORG,0.0,0.0,en,1.0
+FIS Snowboard &amp,FIS Snowboard &amp,ORG,-0.2,0.0,en,1.0
+BUTLER,BUTLER,ORG,0.0,0.0,en,1.0
 KBB,KBB,ORG,0.09318181818181817,0.0,en,1.0
 FOX Weather,FOX Weather,ORG,0.13999999999999999,0.0,en,1.0
-Viséan,Viséan,ORG,-0.075,0.0,en,1.0
 Ontario Provincial Police,Ontario Provincial Police,ORG,-0.10000000000000002,0.0,en,1.0
 Steelers,Steelers,ORG,0.0,0.0,en,1.0
-Narao,Narao,ORG,-0.075,0.0,en,1.0
 the Museum of Ice Cream,the Museum of Ice Cream,ORG,0.03333333333333333,0.0,en,1.0
 MLB,MLB,ORG,-0.1,0.0,en,1.0
 Al… Canadians,Al… Canadians,ORG,0.25,0.0,en,1.0
@@ -373,71 +450,82 @@ Allstate Insurance Company of Canada,Allstate Insurance Company of Canada,ORG,0.
  ","Allstate Insurance Company of Canada
  ",ORG,0.0,0.0,en,1.0
 MondayFlurries,MondayFlurries,ORG,0.05000000000000002,0.0,en,1.0
-McGill,McGill,ORG,-0.8,0.6,en,1.0
-FOX6,FOX6,ORG,0.05000000000000002,0.0,en,1.0
-Meteo-Tech,Meteo-Tech,ORG,0.0,0.0,en,1.0
-NCP,NCP,ORG,0.0,0.0,en,1.0
-Climate,Climate,ORG,0.0,0.0,en,1.0
-Giovanni Cassini,Giovanni Cassini,ORG,0.35000000000000003,0.0,en,1.0
-Cassini,Cassini,ORG,0.0,0.0,en,1.0
-BUTLER,BUTLER,ORG,0.0,0.0,en,1.0
-Channel 11,Channel 11,ORG,0.0,0.0,en,1.0
-FOX Sports',FOX Sports',ORG,0.1,0.0,en,1.0
-MABLETON,MABLETON,ORG,0.0,0.0,en,1.0
+TheWrap,TheWrap,ORG,0.2916666666666667,0.0,en,1.0
+Super League,Super League,ORG,-0.033333333333333354,0.0,en,1.0
+"Pexels/Reddit
+","Pexels/Reddit
+",ORG,0.0,0.0,en,1.0
+Rockstar,Rockstar,ORG,0.1787878787878788,0.0,en,1.0
+the 'Hamptons of England,the 'Hamptons of England,ORG,0.0,0.0,en,1.0
+MONTREAL Quebecers,MONTREAL Quebecers,ORG,0.00888888888888888,0.0,en,1.0
+ARC Raiders',ARC Raiders',ORG,0.0,0.0,en,1.0
+The Federal Aviation Administration,The Federal Aviation Administration,ORG,0.0625,0.0,en,1.0
+tracker,tracker,ORG,0.5,0.0,en,1.0
+the California Highway Patrol,the California Highway Patrol,ORG,0.0,0.0,en,1.0
+Tesla,Tesla,ORG,0.23214285714285712,0.0,en,1.0
+Tesla Semi,Tesla Semi,ORG,0.025,0.0,en,1.0
+Price$9.41,Price$9.41,ORG,0.20000000000000004,0.0,en,1.0
+amazon.com,amazon.com,ORG,0.3666666666666667,0.0,en,1.0
+Senate,Senate,ORG,0.0,0.0,en,1.0
+FC Breakfast,FC Breakfast,ORG,0.5,0.0,en,1.0
+the Tennessee Secondary Schools Athletic Association State Cross Country Championships,the Tennessee Secondary Schools Athletic Association State Cross Country Championships,ORG,0.075,0.0,en,1.0
+sci-fi,sci-fi,ORG,0.23484848484848483,0.0,en,1.0
+Torrent Pharmaceuticals,Torrent Pharmaceuticals,ORG,0.26666666666666666,0.0,en,1.0
+Eli Lilly,Eli Lilly,ORG,0.26666666666666666,0.0,en,1.0
+Zydus,Zydus,ORG,0.26666666666666666,0.0,en,1.0
+BL Morning Report,BL Morning Report,ORG,0.5,0.0,en,1.0
+RSC,RSC,ORG,0.15416666666666667,0.0,en,1.0
+Golden Bears,Golden Bears,ORG,0.25,0.0,en,1.0
+The Flying Eagles,The Flying Eagles,ORG,-0.3,0.0,en,1.0
+the Reaping Collector's,the Reaping Collector's,ORG,0.3420454545454545,0.0,en,1.0
 Loudon Redskins,Loudon Redskins,ORG,0.1875,0.0,en,1.0
 Stone Memorial Panthers,Stone Memorial Panthers,ORG,0.1875,0.0,en,1.0
-the Tennessee Secondary Schools Athletic Association State Cross Country Championships,the Tennessee Secondary Schools Athletic Association State Cross Country Championships,ORG,0.075,0.0,en,1.0
-Super League,Super League,ORG,-0.033333333333333354,0.0,en,1.0
-NSL,NSL,ORG,0.0,0.0,en,1.0
-the Australian Broadcasting Corporation,the Australian Broadcasting Corporation,ORG,0.0,0.0,en,1.0
-TheWrap,TheWrap,ORG,0.2916666666666667,0.0,en,1.0
-Nike Heartland Regional cross,Nike Heartland Regional cross,ORG,0.0,0.0,en,1.0
-Cobb,Cobb,ORG,0.0,0.0,en,1.0
-Transcriptome,Transcriptome,ORG,0.0,0.0,en,1.0
-KLAS,KLAS,ORG,0.16666666666666666,0.0,en,1.0
-consta,consta,ORG,-0.3458333333333333,0.0,en,1.0
-Avery,Avery,ORG,-0.3458333333333333,0.0,en,1.0
-EMY,EMY,ORG,-0.16999999999999998,0.0,en,1.0
-Texas Tech,Texas Tech,ORG,-0.05694444444444444,0.0,en,1.0
-Kansas State Football:,Kansas State Football:,ORG,0.5,0.0,en,1.0
-Y,Y,ORG,-0.6,0.0,en,1.0
-Wang C,Wang C,ORG,-0.6,0.0,en,1.0
-Major League Soccer,Major League Soccer,ORG,0.3541666666666667,0.0,en,1.0
-Calvary FC,Calvary FC,ORG,0.0,0.0,en,1.0
-champions Cavalry FC,champions Cavalry FC,ORG,-0.2,0.0,en,1.0
-Toyota,Toyota,ORG,0.39999999999999997,0.0,en,1.0
-CLI,CLI,ORG,0.16666666666666666,0.0,en,1.0
+MILWAUKEE - Winter Weather Advisory,MILWAUKEE - Winter Weather Advisory,ORG,0.05000000000000002,0.0,en,1.0
+FOX6,FOX6,ORG,0.05000000000000002,0.0,en,1.0
+Meteo-Tech,Meteo-Tech,ORG,0.0,0.0,en,1.0
+Øneheart,Øneheart,ORG,0.0,0.0,en,1.0
 AccuWeather Inc.,AccuWeather Inc.,ORG,0.09012987012987013,0.0,en,1.0
 18:52:23,18:52:23,ORG,0.0,0.0,en,1.0
-"The New York Times Wordle,","The New York Times Wordle,",ORG,0.06818181818181818,0.0,en,1.0
-Connecti,Connecti,ORG,0.06818181818181818,0.0,en,1.0
+Cold Blast Aims,Cold Blast Aims,ORG,-0.6,0.0,en,1.0
+Wallop Chicago,Wallop Chicago,ORG,-0.6,0.0,en,1.0
+Snow Set,Snow Set,ORG,-0.6,0.0,en,1.0
 WJW,WJW,ORG,0.0,0.0,en,1.0
 FAQ,FAQ,ORG,0.375,0.0,en,1.0
 CBC,CBC,ORG,0.375,0.0,en,1.0
+Toyota,Toyota,ORG,0.39999999999999997,0.0,en,1.0
 Ogier,Ogier,ORG,-0.15555555555555559,0.0,en,1.0
-discounttire.com,discounttire.com,ORG,0.2547619047619048,0.0,en,1.0
 WRC,WRC,ORG,-0.15555555555555559,0.0,en,1.0
-CCC,CCC,ORG,0.0,0.0,en,1.0
-Øneheart,Øneheart,ORG,0.0,0.0,en,1.0
 southern Quebec,southern Quebec,ORG,0.17857142857142858,0.0,en,1.0
+NCP,NCP,ORG,0.0,0.0,en,1.0
 This Success Story,This Success Story,ORG,0.0875,0.0,en,1.0
 Volvo,Volvo,ORG,0.3,0.0,en,1.0
-The Climate Change Committee,The Climate Change Committee,ORG,-0.3,0.0,en,1.0
 Division,Division,ORG,0.36818181818181817,0.0,en,1.0
+The Nation,The Nation,ORG,0.25,0.0,en,1.0
+Self,Self,ORG,0.0,0.0,en,1.0
+Brittany Snow,Brittany Snow,ORG,0.75,0.0,en,1.0
+Embark Studios,Embark Studios,ORG,0.0,0.0,en,1.0
+Accrisure Bounce,Accrisure Bounce,ORG,0.3333333333333333,0.0,en,1.0
+Quantum,Quantum,ORG,0.4,0.0,en,1.0
+The Old Country,The Old Country,ORG,0.07857142857142858,0.0,en,1.0
+Mafia,Mafia,ORG,0.07857142857142858,0.0,en,1.0
+CLI,CLI,ORG,0.16666666666666666,0.0,en,1.0
 Walmart.com,Walmart.com,ORG,0.2547619047619048,0.0,en,1.0
+discounttire.com,discounttire.com,ORG,0.2547619047619048,0.0,en,1.0
 Walmart,Walmart,ORG,0.0,0.0,en,1.0
+Climate,Climate,ORG,0.0,0.0,en,1.0
+Giovanni Cassini,Giovanni Cassini,ORG,0.35000000000000003,0.0,en,1.0
+Cassini,Cassini,ORG,0.0,0.0,en,1.0
+Major League Soccer,Major League Soccer,ORG,0.3541666666666667,0.0,en,1.0
+Calvary FC,Calvary FC,ORG,0.0,0.0,en,1.0
+champions Cavalry FC,champions Cavalry FC,ORG,-0.2,0.0,en,1.0
 Premier League's,Premier League's,ORG,-0.4,0.2,en,1.0
-Amaysim Google Pixel 7 Pro,Amaysim Google Pixel 7 Pro,ORG,0.19318181818181818,0.0,en,1.0
-MattersThe National Weather Service,MattersThe National Weather Service,ORG,-0.39999999999999997,0.0,en,1.0
 Nepals,Nepals,ORG,0.0,0.0,en,1.0
 Business News,Business News,ORG,0.2,0.0,en,1.0
 Weather Service SaysBlock Club Chicago Chicago,Weather Service SaysBlock Club Chicago Chicago,ORG,-0.061111111111111095,0.0,en,1.0
 Weather Service Says - Block Club Chicago,Weather Service Says - Block Club Chicago,ORG,0.0,0.0,en,1.0
 Maxwell,Maxwell,ORG,0.11000000000000001,0.0,en,1.0
 CPL,CPL,ORG,0.65,0.0,en,1.0
-NYT Mini Crossword,NYT Mini Crossword,ORG,0.0,0.0,en,1.0
-New York Times',New York Times',ORG,0.07878787878787878,0.0,en,1.0
-Rolling Out,Rolling Out,ORG,-0.061111111111111116,0.0,en,1.0
+Amaysim Google Pixel 7 Pro,Amaysim Google Pixel 7 Pro,ORG,0.19318181818181818,0.0,en,1.0
 ICE,ICE,ORG,0.3,0.0,en,1.0
 Border Patrol,Border Patrol,ORG,0.0,0.0,en,1.0
 ASUU,ASUU,ORG,0.0,0.0,en,1.0
@@ -446,4 +534,5 @@ Tank,Tank,ORG,-0.3888888888888889,0.0,en,1.0
 the Weather Network,the Weather Network,ORG,0.06666666666666667,0.06666666666666667,en,1.0
 GTA,GTA,ORG,0.25,0.0,en,1.0
 HBO,HBO,ORG,0.0383333333333333,0.30000000000000004,en,1.0
-MILWAUKEE - Winter Weather Advisory,MILWAUKEE - Winter Weather Advisory,ORG,0.05000000000000002,0.0,en,1.0
+Rolling Out,Rolling Out,ORG,-0.061111111111111116,0.0,en,1.0
+Accuweather,Accuweather,ORG,0.0,0.0,en,1.0
