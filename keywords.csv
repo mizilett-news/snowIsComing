@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'snow ice',en,Hazard,#ff0000,#ff0000,3,0.25238396422268977
 'snow',en,Hazard,#ff0000,#ff0000,3,0.2374659195372776
-'snow ice',en,Hazard,#ff0000,#ff0000,3,0.233360834379635
 'snowfall',en,Hazard,#ff0000,#ff0000,3,0.1518143244204197
 'frost weather',en,Hazard,#ff0000,#ff0000,3,0.1304825760925927
 'snow climate change',en,Causes,#00ffff,#00ffff,3,0.1231101177068175
