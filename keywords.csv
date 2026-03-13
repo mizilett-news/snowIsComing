@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'snow',en,Hazard,#ff0000,#ff0000,3,0.16954216910721248
 'snowfall',en,Hazard,#ff0000,#ff0000,3,0.16787959532585
-'snow',en,Hazard,#ff0000,#ff0000,3,0.15129650964484892
 'frost weather',en,Hazard,#ff0000,#ff0000,3,0.1095357714227114
 'slippery roads',en,Impacts,#ffff00,#ffff00,2,0.0967302537692564
 'snow ice',en,Hazard,#ff0000,#ff0000,3,0.0962357664360774
