@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'snowfall',en,Hazard,#ff0000,#ff0000,3,0.1737366156987784
+'snowfall',en,Hazard,#ff0000,#ff0000,3,0.15672843243487072
 'snow',en,Hazard,#ff0000,#ff0000,3,0.1558954335553103
 'frost weather',en,Hazard,#ff0000,#ff0000,3,0.1103301435948444
 'snow climate change',en,Causes,#00ffff,#00ffff,3,0.1089162195875997
 'snow ice',en,Hazard,#ff0000,#ff0000,3,0.0962357664360774
 'slippery roads',en,Impacts,#ffff00,#ffff00,2,0.0932455010585445
-'winter service',en,Adaptation,#0000ff,#0000ff,3,0.07388541857328675
+'winter service',en,Adaptation,#0000ff,#0000ff,3,0.0738854185732867
 'road salt',en,Mitigation,#00ff00,#00ff00,3,0.0613831147179935
