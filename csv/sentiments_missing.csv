@@ -82,8 +82,8 @@ American,American,NORP,,,en,17.200000000000003
 yesterday,yesterday,DATE,,,en,16.3
 English,English,LANGUAGE,,,en,16.000000000000004
 French,French,NORP,,,en,15.800000000000004
-World Cup,World Cup,EVENT,,,en,15.700000000000005
 5,5,CARDINAL,,,en,15.700000000000005
+World Cup,World Cup,EVENT,,,en,15.700000000000005
 the coming days,the coming days,DATE,,,en,15.600000000000003
 British,British,NORP,,,en,15.600000000000001
 winters,winters,DATE,,,en,15.400000000000007
@@ -104,8 +104,8 @@ Italian,Italian,NORP,,,en,13.200000000000003
 8,8,CARDINAL,,,en,12.8
 a white Christmas,a white Christmas,DATE,,,en,12.700000000000003
 European,European,NORP,,,en,12.700000000000001
-Three,Three,CARDINAL,,,en,12.399999999999997
 251,251,CARDINAL,,,en,12.399999999999997
+Three,Three,CARDINAL,,,en,12.399999999999997
 spring,spring,DATE,,,en,12.200000000000003
 late-season,late-season,DATE,,,en,12.100000000000003
 35,35,CARDINAL,,,en,12.0
@@ -229,11 +229,11 @@ German,German,NORP,,,en,5.3
 "85,000","85,000",CARDINAL,,,en,5.3
 Hundreds of thousands,Hundreds of thousands,CARDINAL,,,en,5.2
 Black Friday,Black Friday,EVENT,,,en,5.199999999999999
-Tens of thousands,Tens of thousands,CARDINAL,,,en,5.1000000000000005
+another six days,another six days,DATE,,,en,5.1000000000000005
 New Year's Eve,New Year's Eve,EVENT,,,en,5.1000000000000005
+Tens of thousands,Tens of thousands,CARDINAL,,,en,5.1000000000000005
 18,18,CARDINAL,,,en,5.1
 early-season,early-season,DATE,,,en,5.1
-another six days,another six days,DATE,,,en,5.1
 17,17,CARDINAL,,,en,5.0
 2015,2015,DATE,,,en,5.0
 19,19,CARDINAL,,,en,5.0
@@ -610,47 +610,47 @@ Switch 2,Switch 2,PRODUCT,,,en,2.4
 seven nights,seven nights,DATE,,,en,2.4
 17.99,17.99,MONEY,,,en,2.4
 thousand,thousand,CARDINAL,,,en,2.4
-Hunger Games,Hunger Games,EVENT,,,en,2.4
-Snow Waltz Holiday Tour,Snow Waltz Holiday Tour,WORK_OF_ART,,,en,2.4
 its second season,its second season,DATE,,,en,2.4
-170,170,CARDINAL,,,en,2.4
+Hunger Games,Hunger Games,EVENT,,,en,2.4
 Blood on Snow,Blood on Snow,WORK_OF_ART,,,en,2.4
+170,170,CARDINAL,,,en,2.4
+Snow Waltz Holiday Tour,Snow Waltz Holiday Tour,WORK_OF_ART,,,en,2.4
 Sept. 18-20,Sept. 18-20,DATE,,,en,2.4
 later this year,later this year,DATE,,,en,2.3
+"February 23, 2026","February 23, 2026",DATE,,,en,2.2
 2020,2020,DATE,,,en,2.2
 "News On Japan) -
  ","News On Japan) -
  ",WORK_OF_ART,,,en,2.2
-"February 23, 2026","February 23, 2026",DATE,,,en,2.2
-106th,106th,ORDINAL,,,en,2.1999999999999997
-+3134,+3134,NORP,,,en,2.1999999999999997
 Schiphol Airport,Schiphol Airport,FAC,,,en,2.1999999999999997
-the upcoming weekend,the upcoming weekend,DATE,,,en,2.1999999999999997
 more than half,more than half,CARDINAL,,,en,2.1999999999999997
+106th,106th,ORDINAL,,,en,2.1999999999999997
 Asian,Asian,NORP,,,en,2.1999999999999997
 over weekend,over weekend,DATE,,,en,2.1999999999999997
 more than two feet,more than two feet,QUANTITY,,,en,2.1999999999999997
++3134,+3134,NORP,,,en,2.1999999999999997
+the upcoming weekend,the upcoming weekend,DATE,,,en,2.1999999999999997
 18 million,18 million,CARDINAL,,,en,2.1
+1st,1st,ORDINAL,,,en,2.0
 450,450,CARDINAL,,,en,2.0
-the 1990s,the 1990s,DATE,,,en,2.0
+Greeks,Greeks,NORP,,,en,2.0
+more than a century,more than a century,DATE,,,en,2.0
 Greek,Greek,NORP,,,en,2.0
+the 1990s,the 1990s,DATE,,,en,2.0
 The week,The week,DATE,,,en,2.0
 Amazon,Amazon,PRODUCT,0.8444444444444446,1.4288888888888889,en,2.0
-Greeks,Greeks,NORP,,,en,2.0
-1st,1st,ORDINAL,,,en,2.0
 2010,2010,DATE,,,en,2.0
-more than a century,more than a century,DATE,,,en,2.0
 February 1985,February 1985,DATE,,,en,1.9000000000000001
-Belgian,Belgian,NORP,,,en,1.9
-more than 200,more than 200,CARDINAL,,,en,1.9
-the next three months of winter,the next three months of winter,DATE,,,en,1.9
-Nine,Nine,CARDINAL,,,en,1.9
 Harbin International Beer Festival,Harbin International Beer Festival,EVENT,,,en,1.9
+more than 200,more than 200,CARDINAL,,,en,1.9
+Nine,Nine,CARDINAL,,,en,1.9
 last summer's,last summer's,DATE,,,en,1.9
+the next three months of winter,the next three months of winter,DATE,,,en,1.9
 24th,24th,ORDINAL,,,en,1.9
 Winter Storm Brings Snow and Cold Temps,Winter Storm Brings Snow and Cold Temps,WORK_OF_ART,,,en,1.9
 Europeans,Europeans,NORP,,,en,1.9
 18 seconds,18 seconds,TIME,,,en,1.9
+Belgian,Belgian,NORP,,,en,1.9
 Bonavista,Bonavista,NORP,,,en,1.9
 5 PM sunset,5 PM sunset,TIME,,,en,1.9
 Jan. 18,Jan. 18,DATE,,,en,1.9
@@ -763,8 +763,8 @@ slowlyThe day,slowlyThe day,DATE,,,en,1.9
 2006,2006,DATE,,,en,1.9
 Up to nine inches,Up to nine inches,QUANTITY,,,en,1.9
 more than 320,more than 320,CARDINAL,,,en,1.9
-Andean,Andean,NORP,,,en,1.9
 between 2 and 3 inches,between 2 and 3 inches,CARDINAL,,,en,1.9
+Andean,Andean,NORP,,,en,1.9
 Dec. 13,Dec. 13,DATE,,,en,1.9
 a sunny day,a sunny day,DATE,,,en,1.9
 20:00,20:00,TIME,,,en,1.9
@@ -1301,8 +1301,8 @@ warmer weekend,warmer weekend,DATE,,,en,1.7
 Earth,Earth,PRODUCT,0.006906077348066298,0.010589318600368323,en,1.7
 Good Baby-Making Day,Good Baby-Making Day,WORK_OF_ART,,,en,1.7
 Cheerful Music,Cheerful Music,WORK_OF_ART,,,en,1.7
-2022-2024,2022-2024,DATE,,,en,1.7
 Colombian,Colombian,NORP,,,en,1.7
+2022-2024,2022-2024,DATE,,,en,1.7
 bright day,bright day,DATE,,,en,1.7
 Jan 27,Jan 27,DATE,,,en,1.7
 November 26th,November 26th,DATE,,,en,1.7
@@ -4006,8 +4006,8 @@ Midwest Firemen Have Ever Seen,Midwest Firemen Have Ever Seen,PRODUCT,,,en,1.0
 one morning,one morning,TIME,,,en,1.0
 Italys,Italys,NORP,,,en,1.0
 +2951 chars,+2951 chars,WORK_OF_ART,,,en,1.0
-+3530 chars,+3530 chars,WORK_OF_ART,,,en,1.0
 +4852,+4852,NORP,,,en,1.0
++3530 chars,+3530 chars,WORK_OF_ART,,,en,1.0
 Nineteen,Nineteen,CARDINAL,,,en,1.0
 An estimated 100 million,An estimated 100 million,CARDINAL,,,en,1.0
 Up to 13 inches,Up to 13 inches,QUANTITY,,,en,1.0
