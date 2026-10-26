@@ -229,11 +229,11 @@ German,German,NORP,,,en,5.3
 "85,000","85,000",CARDINAL,,,en,5.3
 Hundreds of thousands,Hundreds of thousands,CARDINAL,,,en,5.2
 Black Friday,Black Friday,EVENT,,,en,5.199999999999999
-another six days,another six days,DATE,,,en,5.1000000000000005
-New Year's Eve,New Year's Eve,EVENT,,,en,5.1000000000000005
 Tens of thousands,Tens of thousands,CARDINAL,,,en,5.1000000000000005
+New Year's Eve,New Year's Eve,EVENT,,,en,5.1000000000000005
 18,18,CARDINAL,,,en,5.1
 early-season,early-season,DATE,,,en,5.1
+another six days,another six days,DATE,,,en,5.1
 17,17,CARDINAL,,,en,5.0
 2015,2015,DATE,,,en,5.0
 19,19,CARDINAL,,,en,5.0
@@ -763,8 +763,8 @@ slowlyThe day,slowlyThe day,DATE,,,en,1.9
 2006,2006,DATE,,,en,1.9
 Up to nine inches,Up to nine inches,QUANTITY,,,en,1.9
 more than 320,more than 320,CARDINAL,,,en,1.9
-between 2 and 3 inches,between 2 and 3 inches,CARDINAL,,,en,1.9
 Andean,Andean,NORP,,,en,1.9
+between 2 and 3 inches,between 2 and 3 inches,CARDINAL,,,en,1.9
 Dec. 13,Dec. 13,DATE,,,en,1.9
 a sunny day,a sunny day,DATE,,,en,1.9
 20:00,20:00,TIME,,,en,1.9
@@ -3662,10 +3662,10 @@ a Winter Olympics -,a Winter Olympics -,EVENT,,,en,1.0
 +2000,+2000,CARDINAL,,,en,1.0
 radiolarians,radiolarians,NORP,,,en,1.0
 Winter Storms Slated,Winter Storms Slated,EVENT,,,en,1.0
-Aldrich Hall,Aldrich Hall,FAC,,,en,1.0
 Holocene,Holocene,PRODUCT,,,en,1.0
 midnight tonight to midday,midnight tonight to midday,TIME,,,en,1.0
 Schuurmans,Schuurmans,NORP,,,en,1.0
+Aldrich Hall,Aldrich Hall,FAC,,,en,1.0
 Opening Ceremony,Opening Ceremony,EVENT,,,en,1.0
 over a thousand,over a thousand,CARDINAL,,,en,1.0
 survey days,survey days,DATE,,,en,1.0
@@ -4006,8 +4006,8 @@ Midwest Firemen Have Ever Seen,Midwest Firemen Have Ever Seen,PRODUCT,,,en,1.0
 one morning,one morning,TIME,,,en,1.0
 Italys,Italys,NORP,,,en,1.0
 +2951 chars,+2951 chars,WORK_OF_ART,,,en,1.0
-+4852,+4852,NORP,,,en,1.0
 +3530 chars,+3530 chars,WORK_OF_ART,,,en,1.0
++4852,+4852,NORP,,,en,1.0
 Nineteen,Nineteen,CARDINAL,,,en,1.0
 An estimated 100 million,An estimated 100 million,CARDINAL,,,en,1.0
 Up to 13 inches,Up to 13 inches,QUANTITY,,,en,1.0
@@ -4015,8 +4015,8 @@ nearly 160 million,nearly 160 million,CARDINAL,,,en,1.0
 World Rally Championship,World Rally Championship,EVENT,,,en,1.0
 Chicago O'Hare International Airport,Chicago O'Hare International Airport,FAC,,,en,1.0
 early Saturday morning,early Saturday morning,TIME,,,en,1.0
-at least 24,at least 24,CARDINAL,,,en,1.0
 more than 2 dozen,more than 2 dozen,CARDINAL,,,en,1.0
+at least 24,at least 24,CARDINAL,,,en,1.0
 Winter Storm Is Going to Suck Extra Bad,Winter Storm Is Going to Suck Extra Bad,WORK_OF_ART,,,en,1.0
 "2,000 miles","2,000 miles",QUANTITY,,,en,1.0
 "$1,600 Off","$1,600 Off",MONEY,,,en,1.0
